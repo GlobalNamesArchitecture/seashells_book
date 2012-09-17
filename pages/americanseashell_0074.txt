@@ -57,4 +57,4 @@ Conchs and Other Snails
 
 
 
-Class <tname>GASTROPODA</tname> 
+Class GASTROPODA 

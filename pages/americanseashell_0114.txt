@@ -8,19 +8,19 @@ on its sides by two spiral cords, the upper one ending at the columella in a
 fairly sizeable bead. Columella set back quite far at its upper half; the lower 
 section bears the bead, and below that there are several, smaller, indistinct 
 beads. Color of shell grayish to brownish white with small mottlings of 
-reddish or blackish brown. Operculum, as in all <tname>Tegula</tname>, horny and multispiral. Formerly <tlawname>scalaris Anton (not Brocchi)</tlawname> and <tlawname>indusi "Gmelin."</tlawname> Common under rocks in the West Indies, but uncommon on the Lower Florida 
+reddish or blackish brown. Operculum, as in all Tegula, horny and multispiral. Formerly <tlawname>scalaris Anton (not Brocchi)</tlawname> and <tlawname>indusi "Gmelin."</tlawname> Common under rocks in the West Indies, but uncommon on the Lower Florida 
 Keys. 
 
 
 
-<tname>TROCHIDAE</tname> 119 
+TROCHIDAE 119 
 
-<tname>T. hotessierana Orbigny</tname> from the West Indies is similar, but rarely over 
+T. hotessierana Orbigny from the West Indies is similar, but rarely over 
 Vz inch, with a more rounded periphery, with smaller, neater, equal-sized, 
 smooth spiral threads, and dark bluish black in color, except for a whitish 
 area around the narrow umbilicus. Uncommon. 
 
-<tname>Tegula excavata Lamarck</tname> Green-base Tegula 
+Tegula excavata Lamarck Green-base Tegula 
 
 Florida Keys? Caribbean area. 
 
@@ -31,7 +31,7 @@ variant exists in some areas which lacks the green, umbilical color and in
 which the spiral cords are stronger and the shell with axial, slanting bars of 
 black-brown. Very common in the West Indies, along the rocky shores. 
 
-<tname>Tegula funebralis A. Adams</tname> Black Tegula 
+Tegula funebralis A. Adams Black Tegula 
 
 Vancouver, B. C, to Lower California. 
 
@@ -39,9 +39,9 @@ I to I % inches in length, heavy, dark purple-black in color; smoothish,
 but with a narrow, puckered band just below the suture. Weak spiral cords 
 rarely evident; coarse growth lines present in large, more elongate specimens. 
 Base rounded. Umbilicus closed or merely a slight dimple. Columella 
-pearly, with two small nodules at the base. A very common littoral, rockloving species. Do not confuse with <tname>T. gallina</tname>. 
+pearly, with two small nodules at the base. A very common littoral, rockloving species. Do not confuse with T. gallina. 
 
-<tname>Tegula gallina Forbes</tname> Speckled Tegula 
+Tegula gallina Forbes Speckled Tegula 
 
 Plate i8v 
 San Francisco to the Gulf of California. 
@@ -49,7 +49,7 @@ San Francisco to the Gulf of California.
 I to I /4 inches in length, very similar to funebralis, but a lighter, grayish green color with dense, zigzag, axial stripes of purplish. The shell surface 
 is also coarser. A common, southern species found among littoral rocks. 
 
-<tname>Tegula brunnea Philippi</tname> Brown Tegula 
+Tegula brunnea Philippi Brown Tegula 
 
 Crescent City to Santa Barbara Islands, California. 
 

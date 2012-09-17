@@ -4,7 +4,7 @@ Florida to Texas and the West Indies.
 twisted to the right and is narrowed to a blunt point. Color all white with 
 concentric growth lines stained by the gray periostracum. Common just offshore. 
 
-<tname>Macoma nasuta Conrad</tname> Bent-nose Macoma 
+Macoma nasuta Conrad Bent-nose Macoma 
 
 Figure 88d 
 
@@ -17,7 +17,7 @@ sinus in the Jejt valve which reaches the anterior muscle scar. One of the
 commonest species on the west coast and lives about 6 inches below the 
 surface of the mud in quiet waters from shore to 25 fathoms. 
 
-<tname>Macoma secta Conrad</tname> White Sand Macoma 
+Macoma secta Conrad White Sand Macoma 
 
 Figure 88c 
 
@@ -31,11 +31,11 @@ inside each valve. Color cream to white. Common in bays and beaches from
 shore to 25 fathoms. A small form occurs in protected waters in bays in its 
 more southerly range. 
 
-Students of the Pacific Coast fauna consider<tname> M. indentata Carpenter</tname> 
+Students of the Pacific Coast fauna consider M. indentata Carpenter 
 (same range) as a distinct species in which the shell is 1% inches in length, 
 a little more elongate, with a more pointed posterior end, and with a slight 
 indentation on the posterior ventral margin. It may possibly be a form of 
-young secta. <tname>M. teniiirostris Dall</tname> is even more elongate and may also be a 
+young secta. M. teniiirostris Dall is even more elongate and may also be a 
 form. 
 
 
@@ -44,9 +44,9 @@ form.
 
 
 
-<tname>TELLINIDAE</tname> 43 3 
+TELLINIDAE 43 3 
 
-<tname>Macoma yoldijormis Carpenter</tname> Yoldia-shaped Macoma 
+Macoma yoldijormis Carpenter Yoldia-shaped Macoma 
 
 Alaska to San Diego, California. 
 
@@ -55,6 +55,6 @@ with a small, but distinct, twist to the right at the posterior end. Color a
 uniform, glossy, porcellaneous white. Rarely translucent with an opalescent 
 sheen. Common from shore to 25 fathoms. 
 
-<tname>Macoma carlottensis Whiteaves</tname> Queen Charlotte Macoma 
+Macoma carlottensis Whiteaves Queen Charlotte Macoma 
 
 Arctic Ocean to Lower California. 

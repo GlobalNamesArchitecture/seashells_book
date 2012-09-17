@@ -4,7 +4,7 @@ Figure i8. Parts of the chiton shell.
 
 All the chitons discussed in this book bear eight shelly valves which 
 cover the body of the creature and are bound together by a leathery girdle. 
-The chitons without valves (<tname>Aplacophora</tname>) are too rare to be conveniently 
+The chitons without valves (Aplacophora) are too rare to be conveniently 
 included here. A view of the underside of a living chiton will show the 
 rather small, separate head and its mouth and, behind this, the larger, oblong foot. On each side of the foot is a straight row of closely packed gills. 
 The head bears no tentacles or eyes, although the valves of many chitons 
@@ -24,7 +24,7 @@ specimens in warm water for five or ten minutes will usually afford sufficient
 information. The upper surface as well as the under surface of each valve 
 has characteristic areas which aid in identification. 
 
-In one family of chitons, the <tname>Chitonidae</tname>, the upper surfaces of the valves 
+In one family of chitons, the Chitonidae, the upper surfaces of the valves 
 of some species bear microscopic eyes which consist of an eye capsule, 
 cornea, iris, lens, retina and optic nerve, but they are probably useful only 
 in sensing changes of light intensity and passing shadows. 
@@ -48,7 +48,7 @@ The sexes are separate in the chitons. Some species lay eggs in a glutinous, ind
 species. In other species the young live under the mantle edge of the mother 
 for protection. 
 
-THE TUSK-SHELLS— <tname>SCAPHOPODA</tname> 
+THE TUSK-SHELLS— SCAPHOPODA 
 
 To our Northwest Pacific Indians and our early pioneers the tusk-shells 
 were a familiar form of wampum, but today few Americans would recognize one on sight. The 200-odd known living species are for the most part 

@@ -28,16 +28,16 @@ cc. Spiral striae absent or excessively fine; % inch; translucent greenish
 yellow; globose; Gulf to West Indies . antillarum Orbigny 
 
 Pacific Coast Species 
-<tname>Haminoea virescens Sowerby </tname>Sowerby's Paper-bubble 
+Haminoea virescens Sowerby Sowerby's Paper-bubble 
 
 Puget Sound to Mexico. 
 
 Yo inch in length, very fragile, a translucent greenish yellow in color. 
 Aperture very large and open. Upper part of outer lip high and narrowly 
 winged. No apical hole. A common, littoral species on the open coast. 
-<tname>H. cy?7ibi^orviis Cpr.</tname> and <tname>H. olgae Dall</tname> are the same. 
+H. cy?7ibi^orviis Cpr. and H. olgae Dall are the same. 
 
-<tname>Haminoea vesicida Gould</tname> Gould's Paper-bubble 
+Haminoea vesicida Gould Gould's Paper-bubble 
 
 Alaska to the Gulf of California. 
 
@@ -50,10 +50,10 @@ bay species.
 
 280 American Seashells 
 
-Family <tname>RETUSIDAE</tname> 
-Genus <tname>Retusa Brown 1827</tname> 
+Family RETUSIDAE 
+Genus Retusa Brown 1827 
 
-<tname>Retusa obtusa Montagu</tname> Arctic Barrel-bubble 
+Retusa obtusa Montagu Arctic Barrel-bubble 
 
 Figure 59a 
 

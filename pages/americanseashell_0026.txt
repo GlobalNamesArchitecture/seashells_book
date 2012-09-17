@@ -22,10 +22,10 @@ microscopic, lashing, hair-like cilia mostly on the gill leaflets.
 
 Like the bivalves, the snails display a wide variety of types of gills. The 
 most primitive groups, such as some of the Keyhole Limpets, Slit-shells, 
-<tname>Pleurotomarias</tname> and abalones have two pairs of gills. They are of equal size 
+Pleurotomarias and abalones have two pairs of gills. They are of equal size 
 in the Keyhole Limpets, but in some others the right one is considerably 
 smaller. In the higher groups of snails, the left gill is the only one remaining. 
-In the <tname>Cerithidea</tname> snails, the gills are reduced to mere stumps, and respiration 
+In the Cerithidea snails, the gills are reduced to mere stumps, and respiration 
 takes place in the mantle skin itself. The sea slugs have lost their ctenidia 
 but have evolved very complicated and beautiful gill-like organs on the sides 
 and back of their bodies. Many of these gills have taken on the shape of 
@@ -56,5 +56,5 @@ The marine gastropods contain representatives of several categories of
 Life of the Snails 25 
 
 sexuality. Dual sexuality or hermaphroditism as found in the pulmonates is 
-also known in some species of <tname>Acmaea Limpets</tname>, <tname>Janthina</tname>, <tname>Odosto7nia</tname>, <tname>Stilifer</tname>, 
-<tname>Valvata</tname> and the Paper Moon Snail, <tname>Velutina</tname>. The sexuality of this type, 
+also known in some species of Acmaea Limpets, Janthina, Odosto7nia, Stilifer, 
+Valvata and the Paper Moon Snail, Velutina. The sexuality of this type, 

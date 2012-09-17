@@ -1,11 +1,11 @@
-<tname>PECTINIDAE</tname> 365 
+PECTINIDAE 365 
 
 secondary rib in between. Between these large ribs there are 15 to 1 8 tiny, 
 spined ribs, 3 of which are on the large secondary rib. Color variable: solid 
 rose, pink, white, light yellowish and blends of all these. Commonly dredged 
 in shallow waters. 
 
-<tname>Chlamys hindsi Dall</tname> Hinds' Scallop 
+Chlamys hindsi Dall Hinds' Scallop 
 
 Plate 34I 
 
@@ -20,7 +20,7 @@ Color variable: light-rose, mauve, lemon-yellow, pale-orange and blends of
 these. A rather common species dredged in shallow water down to 822 
 fathoms. 
 
-<tname>Chlmnys islandica Miiller</tname> Iceland Scallop 
+Chlmnys islandica Miiller Iceland Scallop 
 
 Plate 27I 
 
@@ -35,8 +35,8 @@ Color usually a dirty-gray or cream, but some are quite attractively tinged
 with peach, yellow or purplish both inside and out. A very common species 
 offshore on the continental shelf. 
 
-Genus <tname>Leptopecten Verrill 1897</tname> 
-<tname>Leptopecten latianratus Conrad </tname>Kelp-weed Scallop 
+Genus Leptopecten Verrill 1897 
+Leptopecten latianratus Conrad Kelp-weed Scallop 
 
 Plate 34! 
 
@@ -53,8 +53,8 @@ kelp weeds, stones and bottoms of boats. Sometimes spelled latiauritus.
 
 366 American Seashells 
 
-Genus <tname>Placopecten Verrill 1897</tname> 
-<tname>Placopecten magellanicus Gmelin</tname> Atlantic Deep-sea Scallop 
+Genus Placopecten Verrill 1897 
+Placopecten magellanicus Gmelin Atlantic Deep-sea Scallop 
 
 Plates 33c; 27m 
 

@@ -1,11 +1,11 @@
 leading edge. Exterior with or without a yellowish periostracum. Found 
 in rock crevices and apertures of dead shells. 
 
-Super fajmly <tname>STROMBACEA</tname> 
+Super fajmly STROMBACEA 
 
-Family <tname>XENOPHORIDAE</tname> 
+Family XENOPHORIDAE 
 
-Genus <tname>Xenophora Fischer von W. 1807</tname> 
+Genus Xenophora Fischer von W. 1807 
 
 This group of gastropods is noted for its peculiar habit of cementing 
 to its own shell fragments of other shells, stones, bits of coral and coal. The 
@@ -18,18 +18,18 @@ i
 
 
 
-<tname>STROMBIDAE</tname> 17 3 
+STROMBIDAE 17 3 
 
-"It is generally admitted that the camouflage of <tname>Xe?iophora</tname> is for protection 
+"It is generally admitted that the camouflage of Xe?iophora is for protection 
 rather than ornamentation, for it would be inconceivable that a female 
-<tname>Xenophora</tname> would call over the back fence to her girl friend with, 'Come 
+Xenophora would call over the back fence to her girl friend with, 'Come 
 and see the perfect dream of a shell I picked up today and tell me if I have 
 it on straight.' " 
 
 There are 3 species in the Atlantic, one a shallow water species, the other two 
 (longleyi Bartsch, pi. 23d, and caribaea Petit, pi. 2 3e) deep water inhabitants. 
 
-<tname>Xenophora conchy liophor a Born</tname> Atlantic Carrier-shell 
+Xenophora conchy liophor a Born Atlantic Carrier-shell 
 
 Plate 5b 
 
@@ -38,15 +38,15 @@ North Carolina to Key West and the West Indies.
 2 inches in diameter, not including foreign attachments. No umbilicus. 
 From above, the shell with its attached rubble and shells looks like a small 
 heap of marine trash. It will attach any kind of shell to itself, but in some 
-areas has access to only one kind, say <tname>Chione cancellata</tname>. Animal bright-red. 
+areas has access to only one kind, say Chione cancellata. Animal bright-red. 
 Seasonally not uncommon. Johnsonia is in error in calling this trochiformis 
 Bom 1778 (not 1780), which is the Peruvian shell known formerly as 
-<tname>Trochita radians Lam</tname>. 
+Trochita radians Lam. 
 
-Family <tname>APORRHAIDAE</tname> 
-Genus <tname>Aporrhais da Costa 1778</tname> 
+Family APORRHAIDAE 
+Genus Aporrhais da Costa 1778 
 
-<tname>Aporrhais Occident alis Beck</tname> American Pelican's Foot 
+Aporrhais Occident alis Beck American Pelican's Foot 
 
 Plate 23c 
 

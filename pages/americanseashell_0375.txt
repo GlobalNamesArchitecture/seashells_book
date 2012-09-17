@@ -1,16 +1,16 @@
 
 
-<tname>ARCTICIDAE</tname> 381 
+ARCTICIDAE 381 
 
 shells are smooth and round. The hollow is covered over by a sheath of periostracum. Hinge of adult with large triangular tooth in left valve which fits 
 snugly between tM^o smaller ones in the right valve. Found in shallow water 
 under stones. External sculpture of scaled ribs and concentric ridges. Color 
 light-brown. Shell thick, translucent glaze inside. 
 
-Fimtily <tname>CORBICULIDAE</tname> 
-Genus <tname>Folymesoda Rafinesque 1820</tname> 
+Fimtily CORBICULIDAE 
+Genus Folymesoda Rafinesque 1820 
 
-<tname>Folymesoda caroliniana Bosc</tname> Carolina Marsh Clam 
+Folymesoda caroliniana Bosc Carolina Marsh Clam 
 
 Plate 3obb 
 
@@ -25,26 +25,26 @@ with I anterior and posterior lateral. Ligament external, long, narrow and
 dark-brown. Common at the mouths of rivers where the influence of the 
 tides is felt. 
 
-Genus <tname>Pseudocyrena Bourguignat 1854</tname> 
-<tname>Pseiidocyrena fioridana Conrad</tname> Florida Marsh Clam 
+Genus Pseudocyrena Bourguignat 1854 
+Pseiidocyrena fioridana Conrad Florida Marsh Clam 
 
 Plate 3oy 
 
 Key West to northern Florida and to Texas. 
 
-I inch in length, quite similar to <tname>Folymesoda caroliniana</tname>, but more variable in shape (ovalish to elongate), without the fuzzy periostracum, with its 
+I inch in length, quite similar to Folymesoda caroliniana, but more variable in shape (ovalish to elongate), without the fuzzy periostracum, with its 
 beaks never eroded away and with 2 long, slender anterior and posterior 
 laterals. Exterior with irregular growth lines, dull dirty-white, commonly 
 flushed with purple or pink. Interior white with a wide margin of deep 
 purple or entirely purple. Brackish warm water in mud. Common. 
 
-Family <tname>ARCTICIDAE</tname> 
+Family ARCTICIDAE 
 
-Genus <tname>Arctica Schumacher 1817</tname> 
+Genus Arctica Schumacher 1817 
 
-(<tname>Cyprina Lamarck</tname>) 
+(Cyprina Lamarck) 
 
-<tname>Arctica islandica Linne</tname> Ocean Quahog 
+Arctica islandica Linne Ocean Quahog 
 
 Plate 32f 
 
@@ -57,4 +57,4 @@ rather thick periostracum. The posterior laterals and the absence of a pallial
 
 382 American Seashells 
 
-sinus will distinguish this clam from the true Quahogs (see <tname>Mercenaria 
+sinus will distinguish this clam from the true Quahogs (see Mercenaria 

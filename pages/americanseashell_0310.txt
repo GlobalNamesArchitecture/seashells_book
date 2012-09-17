@@ -1,14 +1,14 @@
 
-Superfamily <tname>AEOLIDIACEA</tname> 
+Superfamily AEOLIDIACEA 
 
-Faviily <tname>DENDRONOTIDAE</tname> 
+Faviily DENDRONOTIDAE 
 
-Genus <tname>Dendronotus Alder and Hancock 1845</tname> 
+Genus Dendronotus Alder and Hancock 1845 
 
 Body compressed; 2 tentacles laminated, with arborescent sheaths; numerous branchiae ramose. Arrow-shaped central tooth with a denticulate 
 margin; about 9 elongate laterals on each side. About 40 rows of teeth. 
 
-<tname>Dendro7iotus frondosus Ascanius</tname> Frond Eolis 
+Dendro7iotus frondosus Ascanius Frond Eolis 
 
 Plate i5e 
 
@@ -16,10 +16,10 @@ Arctic Seas to Rhode Island. Alaska to Vancouver Island.
 
 2 inches in length. Rhinophores with 5 or 6 large leaves, interspaced by 
 about 15 smaller ones. Other characters as shown in our figure and the 
-generic descriptions. <tname>D. arborescens Miiller</tname> is this species. Common from 
+generic descriptions. D. arborescens Miiller is this species. Common from 
 shore to 60 fathoms. 
 
-<tname>Dendronotus giganteus O'Donoghue</tname> Giant Frond Eolis 
+Dendronotus giganteus O'Donoghue Giant Frond Eolis 
 
 Northwest United States. 
 
@@ -33,10 +33,10 @@ leaves, all told, in the club of the rhinophore. Distinguished from frondosus
 by the 3 to 5 small but well-marked dendriform papillae on the posterior 
 edge of the rhinophore sheath. Usually dredged down to 25 fathoms. Probably the largest of the American nudibranchs. 
 
-Fa7mly <tname>SCYLLAEIDAE</tname> 
-Genus <tname>Scyllaea Linne 1758 </tname>
+Fa7mly SCYLLAEIDAE 
+Genus Scyllaea Linne 1758 
 
-<tname>Scyllaea pelagic a Linne</tname> Sargassum Nudibranch 
+Scyllaea pelagic a Linne Sargassum Nudibranch 
 
 Southeast United States. Other warm seas. 
 
@@ -45,13 +45,13 @@ With numerous flecks of red-brown. Body elongate. Oral tentacles absent.
 Two slender long rhinophores. Sides of body with 2 pairs of large, clublike, foliaceous gill plumes or cerata. Common in floating sargassum weed 
 in the Gulf Stream. 
 
-Family <tname>AEOLIDIIDAE</tname> 
-Genus <tname>Aeolidia Cuvier 1798</tname> 
+Family AEOLIDIIDAE 
+Genus Aeolidia Cuvier 1798 
 
 Body depressed, rather broad; branchiae a httle flattened, set in numerous, close, transverse rows; 4 tentacles simple; foot broad, anterior angles 
 acute. Radula of a single, broad, pectinate plate, 
 
-<tname>Aeolidia papulosa Linne</tname> Papillose Eolis 
+Aeolidia papulosa Linne Papillose Eolis 
 
 Plate i5g 
 

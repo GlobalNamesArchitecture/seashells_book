@@ -1,9 +1,9 @@
 purplish brown. A common species found clinging to rocks high above the 
-water line but within reach of the ocean spray. <tname>A. spectrum Nuttall</tname> is the 
-same species. Do not confuse with the smaller <tname>A. conus</tname> which is evenly 
+water line but within reach of the ocean spray. A. spectrum Nuttall is the 
+same species. Do not confuse with the smaller A. conus which is evenly 
 glossed, instead of coarse and dull, on its interior center. 
 
-<tname>Acmaea testudinalts scutum Eschscholtz</tname> Pacific Plate Limpet 
+Acmaea testudinalts scutum Eschscholtz Pacific Plate Limpet 
 
 Alaska to Oregon (common) to Lower CaHfornia (rare). 
 
@@ -17,15 +17,15 @@ typical testudmalis from the Arctic Seas and New England rarely, if ever,
 exceeds a size of i K- inches, is not so round, and has a darker, more concentrated brown patch on the inside. Intergrades exist in Alaskan waters. 
 The Pacific race was also named <tlawname>patina Esch</tlawname>. 
 
-<tname>Acmaea asfin Middendorff</tname> Black Limpet 
+Acmaea asfin Middendorff Black Limpet 
 
-Alaska to Mexico, clinging to the gastropod, <tname>Tegula</tname>. 
+Alaska to Mexico, clinging to the gastropod, Tegula. 
 
 /4 inch in maximum diameter, high-conic, elliptical in outline, and solid 
 black inside and out. In the northern part of its range, the Black Limpet is 
-found living attached to the common snail, <tname>Tegula funebralis A. Adams</tname>, 
+found living attached to the common snail, Tegula funebralis A. Adams, 
 
-<tname>Acmaea triangularis Carpenter</tname> Triangular Limpet 
+Acmaea triangularis Carpenter Triangular Limpet 
 
 Southern California to Gulf of California. 
 
@@ -34,18 +34,18 @@ triangular. Color whitish with 3 or 4 vertical, rather broad, brown stripes on
 each side. Found among coralline algae from the shore line down to several 
 fathoms. Uncommon. 
 
-<tname>Acmaea depicta Hinds</tname> Painted Limpet 
+Acmaea depicta Hinds Painted Limpet 
 
 Santa Barbara, California, to Lower California. 
 
 
 
-<tname>ACMAEIDAE</tname> 105 
+ACMAEIDAE 105 
 
 V2 inch in maximum diameter, very narrow, 3 times as long as wide. 
 Sides straight with brown verti(?al stripes on a whitish background. Smoothish. This species is found on the broad-leaved eel-grass of the estuaries. Abundant in certain localities, such as Mission Bay. 
 
-<tname>Acmaea instabilis Gould</tname> Unstable Limpet 
+Acmaea instabilis Gould Unstable Limpet 
 
 Plate i8zz 
 
@@ -57,4 +57,4 @@ if put on a flat surface. Exterior dull, light-brown. Interior whitish with
 faint brown stain in the center and with a narrow, solid border of brown. 
 Inhabits the stems or holdfasts of large seaweeds. Moderately common. 
 
-<tname>Acmaea insessa Hinds</tname> Seaweed Limpet 
+Acmaea insessa Hinds Seaweed Limpet 

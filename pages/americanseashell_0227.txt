@@ -9,21 +9,21 @@ i^_.^mt. ■ "^1./
 
 
 
-<tname>MURICIDAE</tname> 211 
+MURICIDAE 211 
 
-<tname>Muricopsis ostrearum Conrad</tname> Mauve-mouth Drill 
+Muricopsis ostrearum Conrad Mauve-mouth Drill 
 
 Figure 47g 
 
 West coast of Florida to the Florida Keys. 
 
-I inch in length, extraordinarily like <tname>Urosalpinx perrugata</tname>, but more 
+I inch in length, extraordinarily like Urosalpinx perrugata, but more 
 elongate, with a longer siphonal canal which is bent slightly back, and with 
 a light-mauve aperture. Moderately common from low tide area to 35 
-fathoms. <tname>M. fioridmja Conrad</tname> is this species. 
+fathoms. M. fioridmja Conrad is this species. 
 
-Genus <tname>Fseudoneptunea Kobelt 1882</tname> 
-<tname>Pseudoneptunea miiltangiila Philippi</tname> False Drill 
+Genus Fseudoneptunea Kobelt 1882 
+Pseudoneptunea miiltangiila Philippi False Drill 
 
 Figure 47f 
 
@@ -34,13 +34,13 @@ canal. Outer lip sharp, finely crenulated. At the base of the columella there
 is a single, small fold. 8 to 9 short, rounded axial ribs on the periphery of the 
 whorl. Spiral cords weak. Color gray with red-brown specklings; sometimes solid yellow-orange. Moderately common. 
 
-Subfmnly <tname>PURPURINAE</tname> 
+Subfmnly PURPURINAE 
 
-Genus <tname>Driipa Roding 1798</tname> 
+Genus Driipa Roding 1798 
 
-Subgenus <tname>Morula Schumacher 18 17</tname> 
+Subgenus Morula Schumacher 18 17 
 
-<tname>Drupa nodulosa C. B. Adams</tname> Blackberry Drupe 
+Drupa nodulosa C. B. Adams Blackberry Drupe 
 
 Plate 25V 
 
@@ -50,10 +50,10 @@ South half of Florida and the West Indies.
 Aperture purplish black. Outer lip thick, and with 4 to 5 relatively large, 
 white beads. A common shallow-water species found under rocks. 
 
-Genus <tname>Acanthina Fischer von Waldheim 1807</tname> 
-Subgenus <tname>Acanthinucella Cooke 191 8</tname> 
+Genus Acanthina Fischer von Waldheim 1807 
+Subgenus Acanthinucella Cooke 191 8 
 
-<tname>Acanthina spirata Blainville</tname> Spotted Thorn Drupe 
+Acanthina spirata Blainville Spotted Thorn Drupe 
 
 Plate 24-0 
 Puget Sound to San Diego, California. 

@@ -21,10 +21,10 @@ the wrong valve, the scallop can execute a neat flip and regain its normal
 position. 
 
 While the scallop always swims with its valves in a horizontal plane, 
-the <tname>Lw/^</tname> File Clams most frequently progress edgewise, that is, with the 
-breadth of the valves vertical or slightly oblique. The long, colorful tentacles of the <tname>Lifna</tname> keep the animal momentarily suspended in water while 
+the Lw/^ File Clams most frequently progress edgewise, that is, with the 
+breadth of the valves vertical or slightly oblique. The long, colorful tentacles of the Lifna keep the animal momentarily suspended in water while 
 the valves are being opened in preparation for another "bite" forward. The 
-<tname>Li7na</tname> is a poor swimmer and, because of its habit of building nests under 
+Li7na is a poor swimmer and, because of its habit of building nests under 
 rocks, apparently has no incentive to undertake migrations as is done by 
 
 
@@ -38,7 +38,7 @@ rocks, apparently has no incentive to undertake migrations as is done by
 
 
 
-Figure 17. The mode of locomotion in tlie bivalve, <tname>Yoldia Intiatnla</tname>. a, the foot is 
+Figure 17. The mode of locomotion in tlie bivalve, Yoldia Intiatnla. a, the foot is 
 
 thrust forward; b, the muscular flaps are spread apart to form an anchor; c, the 
 
@@ -50,8 +50,8 @@ the foot is made ready for another thrust forward. (After Drew 1900.)
 
 Life of the Clams 45 
 
-the scallops. Scallops of the genus <tname>Chlamys</tname> are equally poor swimmers and, 
-unlike adult <tname>Pecten</tname>, spin small byssal threads for attachment to the bottom. 
+the scallops. Scallops of the genus Chlamys are equally poor swimmers and, 
+unlike adult Pecten, spin small byssal threads for attachment to the bottom. 
 
 Burrowing in sand and mud is accomplished by the foot of the bivalve. 
 The principle is the same in all digging clams. The foot is slowly protruded 

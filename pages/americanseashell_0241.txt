@@ -7,8 +7,8 @@ and slightly flaring. Interior brownish white enamel. Columella slightly
 arched, white within, brown on the parietal wall. Exterior surface brownish 
 and smoothish, except for coarse axial wrinkles appearing more as deformities in growth. Moderately common on rocks below low-water mark. 
 
-Subgenus <tname>Pyrulofusus Morch 1869</tname> 
-<tname>Volutopsius bar pa Morch</tname> Left-handed Buccinum 
+Subgenus Pyrulofusus Morch 1869 
+Volutopsius bar pa Morch Left-handed Buccinum 
 
 Plate 24P 
 
@@ -16,7 +16,7 @@ Alaska.
 
 
 
-<tname>BUCCINIDAE</tname> 111 
+BUCCINIDAE 111 
 
 3 to 4 inches in length, characteristically sinistral (left-handed), 4 
 whorls, with the smoothish nucleus indented. Sculpture of 6 to 12 very 
@@ -27,10 +27,10 @@ Dextral (right-handed) specimens are rarities. Fairly common in deep water.
 
 
 
-Genus <tname>]umala Friele 1882</tname> 
-(<tname>Bermgius Dall</tname>) 
+Genus ]umala Friele 1882 
+(Bermgius Dall) 
 
-<tname>Jumala crehricostata Dall</tname> Thick-ribbed Buccinum 
+Jumala crehricostata Dall Thick-ribbed Buccinum 
 
 Figure 51b 
 
@@ -43,7 +43,7 @@ species which occurs from 80 to 100 fathoms.
 
 
 
-<tname>Jumala keitnicotti Dall</tname> Kennicott's Buccinum 
+Jumala keitnicotti Dall Kennicott's Buccinum 
 
 Figure 5ig 
 
@@ -56,5 +56,5 @@ of microscopic scratches, except on the base where there are a dozen or so
 weak threads. Periostracum light-brown, thin, and usually flakes off in dried 
 specimens. Shell chalky and whitish gray in color. Not uncommon in several fathoms of water; rarely in very shallow water. 
 
-Genus <tname>Coins Roding 1798</tname> 
-<tname>Cohis stimpsoni Morch</tname> Stimpson's Colus 
+Genus Coins Roding 1798 
+Cohis stimpsoni Morch Stimpson's Colus 

@@ -1,8 +1,8 @@
-Genus <tname>Frimovula Thiele 1925</tname> 
+Genus Frimovula Thiele 1925 
 
-Subgenus <tname>Pseiidosbnnia Schilder 1927</tname> 
+Subgenus Pseiidosbnnia Schilder 1927 
 
-<tname>Frimovula carnea Poiret </tname>Dwarf Red Ovula 
+Frimovula carnea Poiret Dwarf Red Ovula 
 
 Plate 2 2q 
 
@@ -15,10 +15,10 @@ lip curled in like that of a cowrie, and with about 20 small, rounded, whitish
 teeth. Upper parietal wall with a large, rounded, short ridge or tooth. Apex 
 not showing. Rare from 25 to 100 fathoms. 
 
-Genus <tname>Pedicidaria Swainson 1840</tname> 
-Subgenus <tname>Pediculariella Thiele 1925</tname> 
+Genus Pedicidaria Swainson 1840 
+Subgenus Pediculariella Thiele 1925 
 
-<tname>Fedicularia decussata Gould</tname> Decussate Pedicularia 
+Fedicularia decussata Gould Decussate Pedicularia 
 
 Plate yd 
 
@@ -36,7 +36,7 @@ Nuclear whorls obese, translucent-brown, reticulated, and with a sinuate lip
 
 when in its free-swimming, larval stage. An uncommon species found clinging to coral stems in moderately deep water. This is the only Eastern American species in this genus. 
 
-<tname>Pedicularia californica Newcomb</tname> Californian Pedicularia 
+Pedicularia californica Newcomb Californian Pedicularia 
 
 Plate 7b, c 
 
@@ -45,11 +45,11 @@ Farallon Islands to San Diego, California.
 % to /4 inch in length, solid, aperture greatly enlarged and flaring. Apex 
 hidden by the expanded lip. Early whorls showing minute decussations, the 
 rest of the shell with small spiral threads. Interior uneven and glossy. Color 
-rose with the outer lip whitish. Uncommon. Found attached to red hydrocoraUine, <tname>Allopora californica Verrill</tname>. We have also illustrated the form 
+rose with the outer lip whitish. Uncommon. Found attached to red hydrocoraUine, Allopora californica Verrill. We have also illustrated the form 
 ovulifor7ms Berry (pi. 7c). 
 
-Genus <tname>Neosimnia Fischer 1884</tname> 
-<tname>Neosimnia acicularis Lamarck</tname> Common West Indian Simnia 
+Genus Neosimnia Fischer 1884 
+Neosimnia acicularis Lamarck Common West Indian Simnia 
 
 Plate 7a 
 

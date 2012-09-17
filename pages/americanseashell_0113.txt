@@ -1,8 +1,8 @@
 
 
 
-Genus <tname>Norrisia Bayle 1880</tname> 
-<tname>Norrisia norrisi Sowerby</tname> Norris Shell 
+Genus Norrisia Bayle 1880 
+Norrisia norrisi Sowerby Norris Shell 
 
 Plate 1 8m 
 
@@ -19,8 +19,8 @@ tinged with red. Moderately common among the kelp weed beds.
 
 118 A?nerica7i Seashells 
 
-Genus <tname>Gaza Watson 1879</tname> 
-<tname>Gaza superba Dall</tname> Superb Gaza 
+Genus Gaza Watson 1879 
+Gaza superba Dall Superb Gaza 
 
 Northern Gulf of Mexico to the West Indies. 
 
@@ -35,13 +35,13 @@ a golden sheen. Early whorls faintly wine-colored. Although formerly
 thought to be one of our rarest shells, it is now known to be relatively common in the Gulf of Mexico in 50 or more fathoms. It is indeed a beautiful 
 species. 
 
-The rare <tname>Gaza (Callogaza Dall 1881) ivatsoni Dall</tname> from deep water in 
+The rare Gaza (Callogaza Dall 1881) ivatsoni Dall from deep water in 
 the West Indies is illustrated in figure 32a. 
 
-Subfamily <tname>MONODONTINAE</tname> 
-Genus <tname>Tegula Lesson 1832</tname> 
+Subfamily MONODONTINAE 
+Genus Tegula Lesson 1832 
 
-<tname>Tegula fasciata Born</tname> Smooth Atlantic Tegula 
+Tegula fasciata Born Smooth Atlantic Tegula 
 
 Plate lyp 
 
@@ -57,4 +57,4 @@ small teeth just inside the lower margin of the aperture. Whorl may be
 slightly concave just below the suture. In the young only, the umbilicus 
 has two deep spiral grooves. Moderately common under rocks at low tide. 
 
-<tname>Tegula lividomaculata C. B. Adams</tname> West Indian Tegula 
+Tegula lividomaculata C. B. Adams West Indian Tegula 

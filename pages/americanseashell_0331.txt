@@ -5,55 +5,55 @@ by a pair of shelly valves which are connected or hinged by a horny ligament
 and which are moved by the contraction of one to three muscles attached 
 to the inner sides of the valves; feeding is usually done with the aid of their 
 ciliated or hair-covered gills. Further details have been presented in the 
-chapter on "The Life of the Clam." The class is also known as <tname>Lmnellibranchia</tname>, <tname>Bivalvia</tname> or <tname>Acephala</tname>. The class may be divided into the follov/ing 
+chapter on "The Life of the Clam." The class is also known as Lmnellibranchia, Bivalvia or Acephala. The class may be divided into the follov/ing 
 orders and suborders: 
 
-Order <tname>PALAEOCONCHA</tname> 
+Order PALAEOCONCHA 
 
-Suborder <tname>SOLEMYACEA</tname> (Awning Clams) 
+Suborder SOLEMYACEA (Awning Clams) 
 
-Order <tname>PROTOBRANCHIA</tname> 
+Order PROTOBRANCHIA 
 
 » 
 
-Suborder <tname>NUCULACEA</tname> (Nut Clams) 
+Suborder NUCULACEA (Nut Clams) 
 
-Order <tname>FILIBRANCHIA</tname> 
+Order FILIBRANCHIA 
 
-Suborder <tname>TAXODONTA</tname> (Ark Shells) 
+Suborder TAXODONTA (Ark Shells) 
 
-Suborder <tname>ANISOMYARIA</tname> (Scallops, Oysters, Sea Mussels) 
+Suborder ANISOMYARIA (Scallops, Oysters, Sea Mussels) 
 
-Order <tname>EULAMELLIBRANCHIA</tname> 
+Order EULAMELLIBRANCHIA 
 
-Suborder <tname>SCHIZODONTA</tname> (River Mussels) 
-Suborder <tname>HETERODONTA</tname> (Cockles, Lucines, Venus) 
-Suborder <tname>ADAPEDONTA</tname> (iVlya and Razor Clams, Teredos) 
-Suborder <tname>ANOMALODESMACEA</tname> (Pandora Clams) 
+Suborder SCHIZODONTA (River Mussels) 
+Suborder HETERODONTA (Cockles, Lucines, Venus) 
+Suborder ADAPEDONTA (iVlya and Razor Clams, Teredos) 
+Suborder ANOMALODESMACEA (Pandora Clams) 
 
-Order <tname>SEPTIBRANCHIA</tname> 
+Order SEPTIBRANCHIA 
 
-Suborder <tname>POROMYACEA</tname> (Dipper Clams, Meat Eaters) 
+Suborder POROMYACEA (Dipper Clams, Meat Eaters) 
 
 332 
 
 
 
-<tname>SOLEMYACIDAE</tname> 33 3 
+SOLEMYACIDAE 33 3 
 
-Order <tname>PALAEOCONCHA</tname> 
+Order PALAEOCONCHA 
 
-Family <tname>SOLEMYACIDAE</tname> 
+Family SOLEMYACIDAE 
 
-Genus <tname>Solemya Lamarck 1818</tname> 
+Genus Solemya Lamarck 1818 
 
 The Awning Clams are very primitive in their characters and they have 
 no near relatives. Their shells are fragile, with a weak, toothless hinge, 
 gaping at both ends, and covered by a polished, horny, brown periostracum 
 which extends well beyond the margins of the valves. 
 
-Subgenus <tname>Petrasma Dall 1908</tname> 
-<tname>Solemya velum Say</tname> Common Atlantic Awning Clam 
+Subgenus Petrasma Dall 1908 
+Solemya velum Say Common Atlantic Awning Clam 
 
 Plate 27a 
 

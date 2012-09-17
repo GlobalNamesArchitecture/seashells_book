@@ -10,7 +10,7 @@ rather sharp, fairly large threads. Color grayish white. Pallial sinus very
 long. Abundant in rock crevices and wharf pilings. Also dredged down to 
 25 fathoms. 
 
-Genus <tname>Abra Lamarck 18 18</tname> 
+Genus Abra Lamarck 18 18 
 
 Shell small (/4 inch), fragile, ovalish, smooth, moderately compressed. 
 Translucent-white in color. Resilium internal and supported by a linear 
@@ -19,9 +19,9 @@ laterals.
 
 
 
-<tname>DONACIDAE</tname> 437 
+DONACIDAE 437 
 
-<tname>Abra aequalis Say</tname> Common Atlantic Abra 
+Abra aequalis Say Common Atlantic Abra 
 
 Plate 30V 
 
@@ -31,7 +31,7 @@ North Carolina to Texas and the West Indies.
 may show a slight iridescence. Periostracum very thin and clear yellowish. 
 Anterior margin of right valve grooved. A very abundant and very simplelooking bivalve. Compare with lioica. 
 
-<tname>Abra lioica Dall</tname> Dall's Little Abra 
+Abra lioica Dall Dall's Little Abra 
 
 Plate 3o\v 
 
@@ -42,12 +42,12 @@ end, the shell is thinner, and more elongate. Anterior margin of right valve
 not grooved. The prodissoconch at the beaks is large, tan and more trigonal 
 in shape than the adult. Common from 6 to 200 fathoms. 
 
-Family <tname>DONACIDAE</tname> 
-Genus <tname>Donax Linne 1758</tname> 
+Family DONACIDAE 
+Genus Donax Linne 1758 
 
 The posterior end is the shortest and the fattest. 2 cardinal and an anterior and a posterior lateral in each valve. Pallial sinus deep. 
 
-<tname>Donax variabilis Say</tname> Coquina Shell 
+Donax variabilis Say Coquina Shell 
 
 Plate 3or 
 

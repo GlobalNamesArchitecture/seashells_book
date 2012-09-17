@@ -1,11 +1,11 @@
 end smaller than the elliptical posterior end. Shell chalky, dirty-white and 
 with a coarse, varnish-like, yellowish brown periostracum. Worn shells have 
-coarse, concentric, wide growth lines. The pallial sinus is larger in this species than in solidissima. Moderately common from low-tide line to 60 fathoms. The form alaskana Dall is probably a synonym. The fossil, <tname>5. voyi 
-Gabb 1868</tname> from the Miocene or Pliocene is possibly only a subspecies. 
+coarse, concentric, wide growth lines. The pallial sinus is larger in this species than in solidissima. Moderately common from low-tide line to 60 fathoms. The form alaskana Dall is probably a synonym. The fossil, 5. voyi 
+Gabb 1868 from the Miocene or Pliocene is possibly only a subspecies. 
 
 
 
-<tname>Spisula falcata Gould</tname> Hooked Surf Clam 
+Spisula falcata Gould Hooked Surf Clam 
 
 Puget Sound, Washington, to California. 
 
@@ -17,17 +17,17 @@ sand below low-water line.
 
 
 
-Figure 90. Pacific Surf Clams, a,<tname> Spisnla dolabriformis Conrad</tname>, 3 inches; b, <tname>S. 
+Figure 90. Pacific Surf Clams, a, Spisnla dolabriformis Conrad, 3 inches; b, S. 
 
-hemphilli Dall</tname>, 6 inches; e, <tname>Spistda catiUiformis Conrad</tname>, 4 inches; d, <tname>Mactra 
+hemphilli Dall, 6 inches; e, Spistda catiUiformis Conrad, 4 inches; d, Mactra 
 
-califomica Conrad</tname>, i ^ inches; e, <tname>S. pla?mlata Conrad</tname>, 2 inches. 
+califomica Conrad, i ^ inches; e, S. pla?mlata Conrad, 2 inches. 
 
 
 
 448 American Seas he Us 
 
-<tname>Spisula planulata Conrad</tname> Flattish Surf Clam 
+Spisula planulata Conrad Flattish Surf Clam 
 
 Figure 906 
 
@@ -39,7 +39,7 @@ common. Found from low-water line to 36 fathoms.
 
 
 
-<tname>Spisula catillijormis Conrad</tname> Catilliform Surf Clam 
+Spisula catillijormis Conrad Catilliform Surf Clam 
 
 Figure 90c 
 
@@ -53,7 +53,7 @@ uncommonly washed ashore. Live specimens rare.
 
 
 
-<tname>Spisula dolabriformis Conrad</tname> Hatchet Surf Clam 
+Spisula dolabriformis Conrad Hatchet Surf Clam 
 
 Figure 90a 
 

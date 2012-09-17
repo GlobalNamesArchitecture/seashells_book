@@ -6,10 +6,10 @@ correct identity. However, unless it is reahzed that many species differ only
 in seemingly slight characters and, conversely, that other species show wide 
 variation in color or shape, misidentifications can result. How hopeless a task 
 it would be to separate into species the various color varieties of the Common 
-Coquina Shell (<tname>Donax variabilis</tname>) or the many shapes and sculptural varieties 
-of the Western Dog Winkle (<tname>Thais laiitellosa</tname>) . Yet how many would not 
+Coquina Shell (Donax variabilis) or the many shapes and sculptural varieties 
+of the Western Dog Winkle (Thais laiitellosa) . Yet how many would not 
 at first fail to notice the differences between the shell of McGinty's Cyphoma 
-and the Flamingo Tongue {<tname>Cyphoma gibbosa</tname>)} But look at the obvious differences in the color patterns of the animals shown on plate 8. 
+and the Flamingo Tongue {Cyphoma gibbosa)} But look at the obvious differences in the color patterns of the animals shown on plate 8. 
 
 Marine mollusks are exceedingly responsive to varying ecological conditions. The presence of certain salts and minerals in the mud often dictates 
 the degree to which certain colors are developed or to what extent spines 
@@ -30,7 +30,7 @@ several localities along our coast and carefully examine them in order to reach
 this conclusion. It is this factor of geographical variation, together with 
 timely isolation and selection, which has been largely responsible for the 
 evolutionary production of species. The development of species is a continuous and very gradual process and, when we settle upon a reasonably 
-homogeneous series of populations and label them as, say, <tname>Melongena corona</tname>, 
+homogeneous series of populations and label them as, say, Melongena corona, 
 we are merely "snapping a candid camera shot" of a species living today, one 
 whose picture looked quite different several million years ago during the 
 Pliocene period. Within the geographical range of this species we find a 
@@ -40,7 +40,7 @@ Pliocene period. Within the geographical range of this species we find a
 72 American Seashells 
 
 series of populations on the west coast of Florida which seem to be attempting a "break-away" from the typical form, and to this geographical race the 
-name <tname>Melojigena corojia perspectiva</tname> has been given. Perhaps in another 
+name Melojigena corojia perspectiva has been given. Perhaps in another 
 million years, through fortuitous isolation (geographical or reproductive) 
 and selection, it will merit recognition as a full species. Elsewhere throughout the range of corona, we find minor groups of variants, some that are 
 individuals stunted by ecological conditions, others that are minor genetic 

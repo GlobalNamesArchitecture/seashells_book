@@ -1,14 +1,14 @@
 
 
 
-Figure 45. a, <tname>Murex {Miirexiella) hidalgoi Crosse</tname> (Atlantic); b, <tname>A/z/r ex (Favartia) 
-celhdosiis Conrad</tname> (Atlantic); c, <tname>Mzirex (Pterynottis) trialattis Shy.</tname>, form carpenteri 
-Dall (Pacific); d, <tname>Murex {Maxnjoellia) santarosmm Dall</tname> (Pacific). All reduced %. 
+Figure 45. a, Murex {Miirexiella) hidalgoi Crosse (Atlantic); b, A/z/r ex (Favartia) 
+celhdosiis Conrad (Atlantic); c, Mzirex (Pterynottis) trialattis Shy., form carpenteri 
+Dall (Pacific); d, Murex {Maxnjoellia) santarosmm Dall (Pacific). All reduced %. 
 
 
 
-Subgenus <tname>Favartia Jousseaume 1880</tname> 
-<tname>Murex cellulosus Conrad</tname> Pitted Murex 
+Subgenus Favartia Jousseaume 1880 
+Murex cellulosus Conrad Pitted Murex 
 
 Figure 45b 
 
@@ -26,9 +26,9 @@ identification is made difficult when the siphonal canal has been broken off
 
 
 
-<tname>MURICIDAE</tname> 205 
+MURICIDAE 205 
 
-completely. A deep water form, <tname>M. celhilosiis levimilus Dall</tname> (pi. 25J), of 
+completely. A deep water form, M. celhilosiis levimilus Dall (pi. 25J), of 
 more delicate sculpturing and with brown markings, is found off the coast 
 of North Carolina and eastern Florida. An inch-long, chubby subspecies, 
 nuceus Morch (pi. 251), with a shorter and wider siphonal canal and heavily 
@@ -38,10 +38,10 @@ by Mr. L. A. Burry,
 
 
 
-Subgenus <tname>Pterynotus Swainson 1833</tname> 
-Section <tname>Pteropurpura Jousseaume 1880</tname> 
+Subgenus Pterynotus Swainson 1833 
+Section Pteropurpura Jousseaume 1880 
 
-<tname>Murex bequaerti Clench and Farfante</tname> Bequaert's Murex 
+Murex bequaerti Clench and Farfante Bequaert's Murex 
 
 North Carolina south to Key W'est. 
 
@@ -52,9 +52,9 @@ is the least spinose of our American forms. It is being collected in dredging
 operations along the west coast of Florida in increasing numbers, although it 
 remains a rarity. It was named after one of our foremost malacologists at 
 Harvard University, Dr. Joseph C. Bequaert. Dall identified this species as 
-<tname>Murex macropterus Desh</tname>. 
+Murex macropterus Desh. 
 
-<tname>Murex trialatus Sowerby</tname> Western Three-winged Murex 
+Murex trialatus Sowerby Western Three-winged Murex 
 
 Figure 45c 
 

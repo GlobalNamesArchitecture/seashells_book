@@ -1,5 +1,5 @@
 
-<tname>Trivia ritteri Raymond</tname> Ritter's Trivia 
+Trivia ritteri Raymond Ritter's Trivia 
 
 Monterey, California, to Lower California. 
 
@@ -7,7 +7,7 @@ Monterey, California, to Lower California.
 15 fine riblets that run over the bottom, sides and back of the shell without 
 being interrupted by a dorsal groove. Uncommonly dredged on gravel bottom from 25 to 60 fathoms. 
 
-<tname>Trivia califorfiiana Gray</tname> Californian Trivia 
+Trivia califorfiiana Gray Californian Trivia 
 
 Plate 20V 
 
@@ -17,10 +17,10 @@ Vs to just less than K' inch in length, rotund, and characterized by its
 mauve color, white, slightly depressed crease on the midline of the back, and 
 by the fairly coarse riblets crossing over the entire shell (outer lip with 
 about 15). A common littoral species, often washed ashore with seaweed. 
-Also lives as deep as 40 fathoms. <tname>Trivia sangninea Sowerby</tname>, a more southerly species, is larger, deeper purple, without the prominent white streak on 
+Also lives as deep as 40 fathoms. Trivia sangninea Sowerby, a more southerly species, is larger, deeper purple, without the prominent white streak on 
 the back and with finer, more numerous riblets (outer lip with about 20). 
 
-<tname>Trivia soIa?idri Sowerby</tname> Solander's Trivia 
+Trivia soIa?idri Sowerby Solander's Trivia 
 
 Plate 20U 
 
@@ -31,7 +31,7 @@ smooth riblets running over the lip and up onto the back. Dorsal groove
 deep, cream-colored and flanked by 8 to 10 cream nodules on each side. 
 Ground color of shell dark purplish brown. Moderately common in the littoral zone. 
 
-<tname>Trivia radiajzs Lamarck</tname> (Lower California to Ecuador) is larger, flatter, 
+Trivia radiajzs Lamarck (Lower California to Ecuador) is larger, flatter, 
 and with a brownish spot on the back which discolors the central groove. It 
 is fairly common. 
 
@@ -39,13 +39,13 @@ is fairly common.
 
 180 American Seashells 
 
-family <tname>CYPRAEIDAE</tname> 
+family CYPRAEIDAE 
 
-Genus <tname>Cypraea Linne 1758</tname> 
+Genus Cypraea Linne 1758 
 
-Subgenus <tname>Trona Jousseaume 1884</tname> 
+Subgenus Trona Jousseaume 1884 
 
-<tname>Cypraea zebra Linne</tname> Measled Cowrie 
+Cypraea zebra Linne Measled Cowrie 
 
 Plate 6d 
 
@@ -55,6 +55,6 @@ Southeast Florida and the West Indies.
 round, white dots over the back. Toward the base of the shell these white 
 dots have a brown center. The shell is darker brown, narrower and less 
 inflated than cervus. Moderately common in intertidal waters. Formerly 
-called <tname>C. exanthema Linne</tname>. A light orangish form, probably due to being 
+called C. exanthema Linne. A light orangish form, probably due to being 
 buried in sand for some time, was described from Cuba (form vallei Jaume 
 and Borro 1946). 

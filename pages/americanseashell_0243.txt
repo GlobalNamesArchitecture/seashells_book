@@ -1,4 +1,4 @@
-<tname>Colus spitzbergensis Reeve</tname> Spitzbergen Colus 
+Colus spitzbergensis Reeve Spitzbergen Colus 
 
 Figure 5ih 
 
@@ -8,8 +8,8 @@ Bering Sea to Washington State. Arctic Seas to Gulf of St. Lawrence.
 short; columella almost straight. Outer lip flaring, slightly thickened. Sculpture of numerous (12 to 14 between sutures) low, flat-topped, small, equally 
 sized spiral cords. Chalk-gray with a reddish to yellowish brown, thin periostracum. Commonly dredged from i to 142 fathoms. 
 
-Genus <tname>Nepumea Roding 1798</tname> 
-<tname>Neptunea decevicostata Say</tname> Brown-corded Neptune 
+Genus Nepumea Roding 1798 
+Neptunea decevicostata Say Brown-corded Neptune 
 
 Plate 23s 
 
@@ -24,7 +24,7 @@ offshore, but occasionally washed up on New England beaches.
 
 230 American Seashells 
 
-<tname>Neptunea ventricosa Gmelin</tname> Fat Neptune 
+Neptunea ventricosa Gmelin Fat Neptune 
 
 Plate 24s 
 
@@ -34,16 +34,16 @@ Arctic Ocean and Bering Sea.
 Axial ribs or growth lines coarse and indistinct, rarely lamellate. Shoulders 
 sometimes weakly nodulated. Spiral cords absent or very weak. Color a 
 dirty-brownish white. Aperture white or flushed with brownish purple. 
-Moderately common offshore. This is <tname>Chrysodomus satura Martyn</tname> and its 
+Moderately common offshore. This is Chrysodomus satura Martyn and its 
 several poor varieties. 
 
-<tname>Neptunea pribiloffensis Dall</tname> Pribiloff Neptune 
+Neptunea pribiloffensis Dall Pribiloff Neptune 
 
 Plate 241 
 
 Bering Sea to British Columbia. 
 
-4 to 5 mches in length, similar to <tname>N. lyrata</tname>, but with a lighter shell, with 
+4 to 5 mches in length, similar to N. lyrata, but with a lighter shell, with 
 weaker and more numerous spiral cords, and with more numerous and 
 stronger secondary spiral threads. Outer lip more flaring and the siphonal 
 canal with more of a twist to the left. Fairly commonly dredged from 50 to 
@@ -51,7 +51,7 @@ canal with more of a twist to the left. Fairly commonly dredged from 50 to
 
 
 
-<tname>Neptunea lyrata Gmelin</tname> Common Northwest Neptune 
+Neptunea lyrata Gmelin Common Northwest Neptune 
 
 Plate 24q 
 

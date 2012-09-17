@@ -6,7 +6,7 @@ Our common Atlantic Oyster and those in France are frequently found
 with green gills. The "green oysters" of Marennes, France, are famous 
 for their supposed medicinal qualities. Americans are incHned to shy from 
 * 'green oysters," because they fear the color may be a sign of spoilage. 
-Oysters feeding upon the small diatom, <tname>Navicula ostrearia</tname>, digest these singlecelled plants and absorb from them large quantities of blue pigment. In the 
+Oysters feeding upon the small diatom, Navicula ostrearia, digest these singlecelled plants and absorb from them large quantities of blue pigment. In the 
 tissues of the oyster's gills the pigment appears in the form of a sickly but 
 quite harmless green. Occasionally, however, our oysters may take on a 
 general greenish tint, not due to diatoms but to an increase in the amount 
@@ -19,11 +19,11 @@ of copper in the tissues. Such oysters have a rather brassy taste.
 
 
 
-Figure 12. Siphons of bivalves projecting above the sand bottom. <tname>Mya</tname> (b) is a 
+Figure 12. Siphons of bivalves projecting above the sand bottom. Mya (b) is a 
 
-suspension feeder, the others deposit feeders, a, <tname>Tellina</tname> and <tname>Macoma</tname>; b, Mya; c, 
+suspension feeder, the others deposit feeders, a, Tellina and Macoma; b, Mya; c, 
 
-<tname>Gari</tname>; d, <tname>Donax</tname>; e, <tname>Tr achy car dhim</tname>. (After C. M. Yonge 1949.) 
+Gari; d, Donax; e, Tr achy car dhim. (After C. M. Yonge 1949.) 
 
 The clam has considerable choice in what it wishes to eat, and it can 
 reject undesirable particles of sand or oversized pieces of food. The gills 
@@ -39,7 +39,7 @@ and absorbed into the blood stream.
 
 
 
-<tname>TELLINI\</tname> <tname>CHLf\MYS</tname> <tname>MYTILUS</tname> <tname>VOLSELLA</tname> 
+TELLINI\ CHLf\MYS MYTILUS VOLSELLA 
 
 Fi(;i!KK 13. Fecal pellets of niollusks are characteristic in shape and may aid in 
 identification of genera and species. (After H. B. Moore 193 1.) 

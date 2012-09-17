@@ -7,9 +7,9 @@ closer together. A rather uncommon species.
 
 
 
-<tname>PECTINIDAE</tname> 363 
+PECTINIDAE 363 
 
-<tname>Pecten tereinus Dall</tname> Tereinus Scallop 
+Pecten tereinus Dall Tereinus Scallop 
 
 Southern Florida and the Gulf of Mexico. 
 
@@ -20,8 +20,8 @@ mottlings of pink near the beaks. Rarely, the flat valve may be flecked with
 brown, zigzag, fine lines. A rare species uncommonly dredged by private 
 collectors in 10 to 40 fathoms. 
 
-Genus <tname>Chlamys Roding 1798</tname> 
-<tname>Chlamys sentis Reeve</tname> Sentis Scallop 
+Genus Chlamys Roding 1798 
+Chlamys sentis Reeve Sentis Scallop 
 
 Place 34a 
 
@@ -35,7 +35,7 @@ brilliant: purple, red, vermilion, orange-red, brownish, white or mottled
 (especially near the beaks). Common under rocks below low-tide mark. 
 Do not confuse with ornata, mildredae or be?iedicti. 
 
-<tname>Chlamys inildredae F. M. Bayer</tname> Mildred's Scallop 
+Chlamys inildredae F. M. Bayer Mildred's Scallop 
 
 Plate 34c 
 
@@ -48,7 +48,7 @@ apart. Ribs of lower valve about 30, in groups of 2 or 3. Exterior color
 much like sentis; interior yellowish with purple stains near the margins. 
 Rare under rocks at low tide. 
 
-<tname>Chlamys ornata Lamarck</tname> Ornate Scallop 
+Chlamys ornata Lamarck Ornate Scallop 
 
 Plate 3 4b 
 

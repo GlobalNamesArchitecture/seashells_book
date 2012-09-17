@@ -1,4 +1,4 @@
-Bartsch</tname> (type); k, <tname>C. heptago?nmi Cpr.</tname>; I, <tname>C. orciitti Dall</tname> (type); m, <tname>C. crehricbictinn Cpr.</tname> All Xio. 
+Bartsch (type); k, C. heptago?nmi Cpr.; I, C. orciitti Dall (type); m, C. crehricbictinn Cpr. All Xio. 
 
 
 
@@ -6,10 +6,10 @@ I
 
 
 
-Genus <tname>Caecum Fleming 18 17</tname> 
-Subgenus <tname>Caecum s. str.</tname> 
+Genus Caecum Fleming 18 17 
+Subgenus Caecum s. str. 
 
-<tname>Caecum floridanum Stimpson</tname> 
+Caecum floridanum Stimpson 
 
 North Carolina to Southern Florida. 
 
@@ -21,19 +21,19 @@ Figure 37a
 
 
 
-<tname>CAECIDAE</tname> 147 
+CAECIDAE 147 
 
 3.0 mm. in length by i.o mm. in diameter, opaque-white, with 20 to 30 
 strong, axial rings, the last 3 or 4 being quite large. 
 
-<tname>Caecum cayosense Rehder</tname> Key Caecum 
+Caecum cayosense Rehder Key Caecum 
 
 Bonefish Key, Lower Florida Keys. 
 
-Shell similar to <tname>C. floridanuTn</tname>, but with about 14 very large, sharp axial 
+Shell similar to C. floridanuTn, but with about 14 very large, sharp axial 
 rings. 
 
-<tname>Caecum californicum Dall</tname> California Caecum 
+Caecum californicum Dall California Caecum 
 
 Figure 37g. 
 Monterey to Lower California. 
@@ -42,7 +42,7 @@ Monterey to Lower California.
 spaced, rounded or squarish axial rings. Lip of aperture slightly thickened. 
 Color a glossy, olive-brown. 
 
-<tname>Caecum dalli Bartsch</tname> Dall's Caecum 
+Caecum dalli Bartsch Dall's Caecum 
 
 Figure ^jh 
 
@@ -52,8 +52,8 @@ About 3 mm. in length, usually with 18 to 24 moderately developed,
 evenly spaced, rounded or squarish, axial rings. Lip of aperture usually heavily developed in adults. Color tan. The number of raised rings varies from 
 specimen to specimen, often in the same locality, and diligent search will 
 usually bring to light any number desired. Extremes have been unwisely 
-named (15 rings — <tname>C. grippi Bartsch</tname>; 17 to 19 rings — <tname>C. licalum Bartsch</tname>; and 
-19 to 22 rings — <tname>C. diegense Bartsch</tname>). Figure 37h is the holotype. 
+named (15 rings — C. grippi Bartsch; 17 to 19 rings — C. licalum Bartsch; and 
+19 to 22 rings — C. diegense Bartsch). Figure 37h is the holotype. 
 
 Subgenus iMicraneUum Bartsch 1920 
 

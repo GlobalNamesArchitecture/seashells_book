@@ -6,14 +6,14 @@ Figure 3ie
 color (solid purple, whitish with dark-brown variegations and sometimes 
 with a spiral row of dark squares on the periphery), and variable in the number and strength of the small, smooth, spiral cords. Base rounded. Umbilicus 
 narrow but deep. Suture well-impressed. Interior iridescent. Common in 
-shallow water. <tname>M. parcipictus Cpr.</tname> and <tlawname>obsoletus Cpr.</tlawname> are forms of this 
+shallow water. M. parcipictus Cpr. and <tlawname>obsoletus Cpr.</tlawname> are forms of this 
 species. 
 
 
 
-<tname>TROCHIDAE</tname> 109 
+TROCHIDAE 109 
 
-<tname>Margarites succinctus Carpenter</tname> Tucked Margarite 
+Margarites succinctus Carpenter Tucked Margarite 
 
 Figure 31a 
 
@@ -26,8 +26,8 @@ Aperture dark-greenish iridescent. Littoral on algae; common.
 
 
 
-Subgenus <tname>Pupillaria Dall 1909</tname> 
-<tname>Margarites pupillus Gould</tname> Puppet Margarite 
+Subgenus Pupillaria Dall 1909 
+Margarites pupillus Gould Puppet Margarite 
 
 Figure 31c 
 
@@ -40,10 +40,10 @@ fathoms.
 
 
 
-Genus <tname>Lischkeia P. Fischer 1879</tname> 
-Subgenus <tname>Turcicula Dall 1881</tname> 
+Genus Lischkeia P. Fischer 1879 
+Subgenus Turcicula Dall 1881 
 
-<tname>Lischkeia bairdi Dall</tname> Baird's Spiny Margarite 
+Lischkeia bairdi Dall Baird's Spiny Margarite 
 
 Plate 3 c 
 
@@ -57,4 +57,4 @@ common in 100 to 600 fathoms.
 
 
 
-Subgenus <tname>Cidarina Dall 1909</tname> 
+Subgenus Cidarina Dall 1909 

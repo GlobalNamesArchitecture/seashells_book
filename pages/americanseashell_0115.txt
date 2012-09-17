@@ -3,7 +3,7 @@
 
 120 American Seashells 
 
-<tname>Tegiila aureotincta Forbes</tname> Gilded Tegula 
+Tegiila aureotincta Forbes Gilded Tegula 
 
 Plate 1 8k 
 
@@ -14,7 +14,7 @@ by a golden-yellow stain within the deep, round, narrow umbilicus, by the
 sky-blue band around the umbilicus, and by the 4 or 5 strong, smoothish, spiral 
 cords on the periphery and the base. Top of whorls with weak, crude, slanting, axial wrinkles. A moderately common, littoral, rock-loving species. 
 
-<tname>Tegula ligulata Menke</tname> Western Banded Tegula 
+Tegula ligulata Menke Western Banded Tegula 
 
 Plate i8h 
 
@@ -27,8 +27,8 @@ small nodules opposite the spiral threads which run back into the aperture.
 Color rusty-brown with black flecks. Compare with aureotincta whose umbilical area is stained with greenish blue and golden-yellow. A moderately 
 common littoral, rock-dweller. 
 
-Subgenus <tname>Chlorostoma Swainson 1840</tname> 
-<tname>Tegula regina Stearns</tname> Queen Tegula 
+Subgenus Chlorostoma Swainson 1840 
+Tegula regina Stearns Queen Tegula 
 
 Plate 3f 
 
@@ -41,8 +41,8 @@ strong, arched lamellae. Color dark purplish gray. Umbilical region stained
 with bright golden-yellow. A rather rare and choice collector's item secured 
 by diving. It has also been washed ashore on Catalina Island. 
 
-Subgenus <tname>Froviartynia Dall 1909</tname> 
-<tname>Tegula pulligo Gmelin 1791</tname> {<tlawname>marcida Gould</tlawname>) Dusky Tegula 
+Subgenus Froviartynia Dall 1909 
+Tegula pulligo Gmelin 1791 {<tlawname>marcida Gould</tlawname>) Dusky Tegula 
 
 Plate i8y 
 
@@ -56,5 +56,5 @@ found in montereyi. This species is doubtfully placed here and perhaps
 
 
 
-<tname>TURBINIDAE</tname> 121 
+TURBINIDAE 121 
 

@@ -7,15 +7,15 @@ For an interesting and well-illustrated account of this species, see Natural
 History Magazine (N.Y.), April, 1948, on "We Go Gooeyducking" by the 
 Milnes. 
 
-<tname>Panope bitriincata Conrad</tname> from North Carolina to Florida is 5 to 6 
+Panope bitriincata Conrad from North Carolina to Florida is 5 to 6 
 inches in length and resembles the Pacific geoduck. Dead valves are rarely 
 found, and I have never seen a live specimen. Possibly extinct. 
 
-Super jamily <tname>MYACEA</tname> 
+Super jamily MYACEA 
 
-Family <tname>MYACIDAE</tname> 
+Family MYACIDAE 
 
-Genus <tname>Mya Linne 1758</tname> 
+Genus Mya Linne 1758 
 
 These are the soft-shell or "steamer" clams which are so popular in New 
 England. The valves are slightly unequal in size and have a large posterior 
@@ -24,9 +24,9 @@ left valve to a horizontally projecting chondrophore.
 
 
 
-<tname>MYACIDAE</tname> 455 
+MYACIDAE 455 
 
-<tname>Mya arenaria Linne</tname> Soft-shell Clam 
+Mya arenaria Linne Soft-shell Clam 
 
 Plate 32X 
 
@@ -34,7 +34,7 @@ Labrador to off North Carolina. Introduced to western United States.
 
 I to 6 inches in length. PalHal sinus somewhat V-shaped in contrast 
 to U-shaped in truncata. Shell eHiptical. Periostracum very thin and lightgray to straw. Chondrophore in left valve long, spoon-shaped and shallow. 
-<tname>M. japonica Jay</tname> of the Pacific coast is probably this speices. This common, 
+M. japonica Jay of the Pacific coast is probably this speices. This common, 
 delectable clam, also known as the long-necked clam, steamer and nanny 
 nose, is harvested from the readily accessible mud flats of New England in 
 great numbers. In 1935, nearly 12 million pounds, valued at $704,000, were 
@@ -42,7 +42,7 @@ taken from our eastern shores. A hundred pounds of clams furnishes 35
 pounds of meat, while the equivalent weight of oysters would give only 13 
 pounds. 
 
-<tname>Mya truncata Linne</tname> Truncate Soft-shell Clam 
+Mya truncata Linne Truncate Soft-shell Clam 
 
 Plate 32V 
 
@@ -54,7 +54,7 @@ abruptly truncate, posterior end. The pallial sinus is U-shaped. In Greenland an
 It is also a food for the walrus, king eider duck, arctic fox and the codfish. 
 It is uncommon in American collections. 
 
-Genus <tname>Spheuia Turton 1822</tname> 
+Genus Spheuia Turton 1822 
 
 Shell small and fragile; surface with concentric ridges; hinge-teeth absent. The elongate, flattened chondrophore in the left valve juts obliquely 
 under the hinge margin of the right valve. These clams are nestlers, and are 

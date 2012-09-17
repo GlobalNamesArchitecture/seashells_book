@@ -20,9 +20,9 @@ heat from the sun. What little air may be trapped within the mantle cavity
 of the animal is soon used up. Oxygen is then obtained anerobically (without contact with air) by cleavage of reserve glycogen substances stored in 
 the clam's tissues. Carbon dioxide builds up and is dissolved in the fluid 
 in the mantle cavity, and the resulting increase in acidity may dissolve or 
-etch away portions of the shell. Shells of oysters and the <tname>Patella limpets</tname> 
+etch away portions of the shell. Shells of oysters and the Patella limpets 
 vv^hich are kept dry on the rocky coast for unusually long periods show 
-considerable etching on the inside. Shells of the Date Mussels {<tname>Lithophaga</tname>), 
+considerable etching on the inside. Shells of the Date Mussels {Lithophaga), 
 which live in a small volume of water in their rock burrows, are etched in 
 this manner, while those specimens which live in the same volume of wellaerated water are not etched. 
 
@@ -33,13 +33,13 @@ on the west coast of Florida in 1946, and for several years afterward the
 "shelling" on famous Sanibel Island was little better than it is on Coney 
 Island Beach, New York. "Red tides" have occurred from time to time in 
 California, Washington State, Japan, Austraha and elsewhere. They are caused 
-by an unusual increase in the numbers of single-celled dinoflagellates, <tname>Gonyaiilax</tname>. It is believed that billions of these organisms not only deplete the 
+by an unusual increase in the numbers of single-celled dinoflagellates, Gonyaiilax. It is believed that billions of these organisms not only deplete the 
 oxygen supply but also clog the gills of fish, moUusks and other animals which 
 die in vast numbers and further befoul the ocean. Fortunately, these "red 
 tides" spend themselves out, and the coastal waters return to normal in a 
 few years. 
 
-Another species of <tname>Gojiyaulax</tname> (<tname>G. catanella</tname>) may be ingested by mussels and clams and, although it does no harm to the mollusk, it is highly toxic 
+Another species of Gojiyaulax (G. catanella) may be ingested by mussels and clams and, although it does no harm to the mollusk, it is highly toxic 
 to humans who may eat the infected shellfish. A number of deaths have 
 occurred on both of our coasts from this type of mussel poisoning. There 
 is no way of distinguishing poisonous from sound mussels by their appearance, and heat does not destroy the poison. Mussel poisoning occurs along 

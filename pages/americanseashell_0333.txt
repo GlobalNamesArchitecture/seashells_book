@@ -4,16 +4,16 @@
 
 
 
-Figure 70. Atlantic Coast Nut Clams, a and b, <tname>Nucida proxima Say</tname>, ^ inch; 
+Figure 70. Atlantic Coast Nut Clams, a and b, Nucida proxima Say, ^ inch; 
 
-c, <tname>N. tenuis Montagu</tname>, Yo inch (both coasts); d, <tname>N. delphinodonta Mighels</tname>, Yiq 
+c, N. tenuis Montagu, Yo inch (both coasts); d, N. delphinodonta Mighels, Yiq 
 
-inch; e, <tname>N. atacellaim Schenck</tname>, Y& inch. 
+inch; e, N. atacellaim Schenck, Y& inch. 
 
 
 
-Subgenus <tname>Nucula s. str.</tname> 
-<tname>Nucula proxima Say</tname> 
+Subgenus Nucula s. str. 
+Nucula proxima Say 
 
 Nova Scotia to Florida and Texas. 
 
@@ -32,9 +32,9 @@ often with microscopic, axial lines. Ventral edge minutely crenulate. Common jus
 
 
 
-<tname>NUCULIDAE</tname> 3 35 
+NUCULIDAE 3 35 
 
-<tname>Nucula atacellana Schenck</tname> Cancellate Nut Clam 
+Nucula atacellana Schenck Cancellate Nut Clam 
 
 Figure yoe 
 
@@ -43,18 +43,18 @@ Massachusetts to Maryland.
 Vs inch in length and oval in outline; the cancellate sculpturing is due 
 to the crossing of numerous radial and concentric threads. Interior scarcely 
 pearly and with a thick, transparent glaze. Color yellowish brown to lighttan. Commonly dredged offshore down to 500 fathoms. Formerly known 
-as <tname>N. reticulata Jeffreys</tname> and cancellata Jeffreys. 
+as N. reticulata Jeffreys and cancellata Jeffreys. 
 
-<tname>Nucula crenulata A. Adams</tname> Atlantic Crenulate Nut Clam 
+Nucula crenulata A. Adams Atlantic Crenulate Nut Clam 
 
 South Carolina to Key West, Florida. 
 
 % inch in length, ovate, internal margin finely crenulate. With numerous concentric, fine ribs which have numerous microscopic crenulations between them. Interior scarcely pearly; overlaid by a thick, transparent layer 
 of shell matter, through which radial fractures or lines are discernible; color 
-yellowish. Dredged in shallow water. Similar in outline to <tname>N. tenuis</tname> (see 
+yellowish. Dredged in shallow water. Similar in outline to N. tenuis (see 
 fig. 70c). 
 
-<tname>Nucula exigua Sowerby</tname> Pacific Crenulate Nut Clam 
+Nucula exigua Sowerby Pacific Crenulate Nut Clam 
 
 Southern California to Ecuador. 
 

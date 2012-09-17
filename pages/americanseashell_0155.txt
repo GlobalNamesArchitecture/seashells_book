@@ -1,7 +1,7 @@
-Genus <tname>Epitonhnn Roding 1798</tname> (<tname>Scala</tname>) 
-Subgenus <tname>Epitonium s. str.</tname> 
+Genus Epitonhnn Roding 1798 (Scala) 
+Subgenus Epitonium s. str. 
 
-<tname>Epitonium krebsi Morch</tname> Krebs' Wentletrap 
+Epitonium krebsi Morch Krebs' Wentletrap 
 
 Figure 406 
 
@@ -10,10 +10,10 @@ South half of Florida to the Lesser Antilles.
 V2 to % inch in length, stout. With umbihcus fairly narrow to wide, and 
 very deep. 7 to 8 whorls attached by the costae (10 to 12 per whorl). 
 China-white, rarely with a trace of brown to pinkish brown undertones. 
-Moderately common from a few feet to 160 fathoms. <tname>E. swifti Morch</tname> and 
-<tname>E. contorqiiata Dall</tname> are this species. 
+Moderately common from a few feet to 160 fathoms. E. swifti Morch and 
+E. contorqiiata Dall are this species. 
 
-Do not confuse with <tname>E. occidentale Nyst</tname> (Western Atlantic Wentletrap) 
+Do not confuse with E. occidentale Nyst (Western Atlantic Wentletrap) 
 from the same areas. It is not so stout, has 1 2 to 15 costae per whorl, a very 
 
 
@@ -23,7 +23,7 @@ from the same areas. It is not so stout, has 1 2 to 15 costae per whorl, a very
 small umbilicus or none, and the shoulder of the whorls is somewhat flattened. 
 It is not common. 
 
-<tname>Epitonmm tollini Bartsch</tname> Tollin's Wentletrap 
+Epitonmm tollini Bartsch Tollin's Wentletrap 
 
 West Coast of Florida. 
 
@@ -32,10 +32,10 @@ suture deep. Each whorl has from 11 to 16 costae which are not shouldered,
 but are rounded, on top. They often line up one below the other. Outer lip 
 thick and reflected. Inner lip much smaller. Color china-white, with the 
 first few whorls a very faint amber-brown. Fairly common just off the outer 
-beaches. Do not confuse with <tname>E. humphrey si</tname> whose costae are angular at 
+beaches. Do not confuse with E. humphrey si whose costae are angular at 
 the top, 
 
-<tname>Epitonium humphrey si Kiener</tname> Humphrey's Wentletrap 
+Epitonium humphrey si Kiener Humphrey's Wentletrap 
 
 Plate 2 2d 
 
@@ -46,14 +46,14 @@ umbilicus. Color dull-white. Suture deep. The 9 to 10 convex whorls each
 have about 8 to 9 costae that are somewhat angled at the shoulder. Costae 
 usually thick and strong. Outer and lower part of the apertural lip thickened 
 and slightly flaring. Common from shore to 52 fathoms. Do not confuse 
-with <tname>E. angulatum</tname> which is not so slender, is glossier, has thinner costae that 
+with E. angulatum which is not so slender, is glossier, has thinner costae that 
 are usually more angular at the shoulders. 
 
-<tname>Epitonium ehurneum Potiez and Michaud</tname> listed by Percy Morris (1951, 
+Epitonium ehurneum Potiez and Michaud listed by Percy Morris (1951, 
 p. 122) does not occur in American waters. His illustrations are probably 
-those of <tname>E, commune Linne</tname> from Europe. 
+those of E, commune Linne from Europe. 
 
-<tname>Epitonium angulatum Say</tname> Angulate Wentletrap 
+Epitonium angulatum Say Angulate Wentletrap 
 
 Plate 22b 
 New York to Florida and to Texas. 

@@ -4,7 +4,7 @@ than the females, do not have a shell, and the third right arm is modified into
 a detachable copulatory organ which persists separately for a certain length 
 of time in the mantle cavity of the female. 
 
-<tname>Argonauta argo Linne</tname> Common Paper Nautilus 
+Argonauta argo Linne Common Paper Nautilus 
 
 Plates ic; 26y 
 
@@ -13,22 +13,22 @@ Worldwide in warm waters.
 4 to 8 inches in length, quite fragile, laterally compressed with a narrow 
 keel, numerous sharp nodules which in the early part of the shell are stained 
 with dark purplish brown. Rest of shell opaque, milky-white. Occasionally 
-washed ashore. <tname>A. americana Dall</tname> is the same. 
+washed ashore. A. americana Dall is the same. 
 
-<tname>Argonauta hians Solander</tname> Brown Paper Nautilus 
+Argonauta hians Solander Brown Paper Nautilus 
 
 Figure gpe, f 
 
 Worldwide in warm waters. 
 
-Similar to <tname>A. argo</tname>, but smaller, much "fatter" with a rapidly broadening 
+Similar to A. argo, but smaller, much "fatter" with a rapidly broadening 
 keel that bears larger and fewer nodules. Color brownish white with darker 
 stains on the early part of the keel. Uncommonly washed ashore. 
 
-Family <tname>TREMOCTOPODIDAE</tname> 
-Genus <tname>Tremoctopus Delle Chiaje 1829</tname> 
+Family TREMOCTOPODIDAE 
+Genus Tremoctopus Delle Chiaje 1829 
 
-<tname>Tremoctopus violaceus Delle Chiaje</tname> Common Umbrella Octopus 
+Tremoctopus violaceus Delle Chiaje Common Umbrella Octopus 
 
 Pelagic in warm waters. Worldwide. 
 
@@ -38,11 +38,11 @@ two large holes in the body near the base of the third arm and in front of
 the eyes. The species is gregarious, and is occasionally washed ashore on the 
 east coast of Florida. 
 
-Family <tname>OCTOPODIDAE</tname> 
+Family OCTOPODIDAE 
 
-Genus <tname>Octopus Lamarck 1798</tname> 
+Genus Octopus Lamarck 1798 
 
-There are only five valid species of littoral <tname>Octopus</tname> so far recorded 
+There are only five valid species of littoral Octopus so far recorded 
 along the Atlantic Coast. There are a few deep water ones, some of which 
 
 

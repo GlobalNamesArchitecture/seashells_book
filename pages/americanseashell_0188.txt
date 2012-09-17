@@ -1,4 +1,4 @@
-<tname>Ficus communis Roding</tname> Common Fig Shell 
+Ficus communis Roding Common Fig Shell 
 
 Plate 9! 
 
@@ -6,25 +6,25 @@ North Carolina to the Gulf of Mexico. The Bahamas.
 
 3 to 4 inches in length, thin, rather fragile, and with spiral threads which 
 are sometimes made reticulate by axial threads. Uncommon, except on the 
-west coast of Florida where it is washed ashore in great numbers. No operculum present. Formerly known as <tname>Pyrula</tname> and <tname>Ficus papyratia Say</tname>, but the 
+west coast of Florida where it is washed ashore in great numbers. No operculum present. Formerly known as Pyrula and Ficus papyratia Say, but the 
 latter name is preceded by two earlier names, communis Roding 1798 and 
 reticulata Lamarck 1816 (as well as 1822). 
 
-Carol's Fig Shell (named after Mrs. Richard W. Foster), <tname>Ficus carolae 
-Clench</tname>, is very rare, and is irregularly spotted with reddish brown on the 
+Carol's Fig Shell (named after Mrs. Richard W. Foster), Ficus carolae 
+Clench, is very rare, and is irregularly spotted with reddish brown on the 
 inside of the shell. It was first discovered by Mr. Leo L. Burry of Sarasota off 
 Key Largo, Florida, in 100 fathoms. 
 
-Order <tname>NEOGASTROPODA</tname> 
-Superjamily <tname>MURICACEA</tname> 
+Order NEOGASTROPODA 
+Superjamily MURICACEA 
 
-Family <tname>MURICIDAE</tname> 
+Family MURICIDAE 
 
-Subfa7mly <tname>RAPANINAE</tname> 
+Subfa7mly RAPANINAE 
 
-Genus <tname>Forreria Jousseaume 1880</tname> 
+Genus Forreria Jousseaume 1880 
 
-<tname>Forreria belcheri Hinds</tname> Giant Forreria 
+Forreria belcheri Hinds Giant Forreria 
 
 Plate 24) 
 
@@ -37,8 +37,8 @@ lower part of the whorl. Former siphonal canals prominent to the left of
 a narrow, not deep umbilicus. Interior enamel-white. Common in intertidal 
 areas near oyster bars. Also down to 15 fathoms. 
 
-Subgenus <tname>Austrotrophon Dall 1902</tname> 
-<tname>Forreria cerrosensis cerrosensis Dall</tname> Cerros Forreria 
+Subgenus Austrotrophon Dall 1902 
+Forreria cerrosensis cerrosensis Dall Cerros Forreria 
 
 
 
@@ -50,7 +50,7 @@ Figure 44a, b
 
 
 
-<tname>MURICIDAE</tname> 
+MURICIDAE 
 
 
 

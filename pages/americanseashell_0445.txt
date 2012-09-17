@@ -1,4 +1,4 @@
-<tname>Rangia flexuosa Conrad</tname> Brown Rangia 
+Rangia flexuosa Conrad Brown Rangia 
 
 Figure 91c, d 
 
@@ -8,7 +8,7 @@ I to 1% inches in length, rescmbUng an elongate cuneata, but with no
 
 
 
-<tname>MESODESMATIDAE</tname> 
+MESODESMATIDAE 
 
 
 
@@ -20,17 +20,17 @@ I to 1% inches in length, rescmbUng an elongate cuneata, but with no
 
 
 
-Figure 91. Rangia Marsh Clams of the Atlantic Gulf States, a and b, <tname>Rangia 
-cnneata Gray</tname>, 2 inches; c and d, <tname>R. flexiiosa Conrad</tname>, i % inches. 
+Figure 91. Rangia Marsh Clams of the Atlantic Gulf States, a and b, Rangia 
+cnneata Gray, 2 inches; c and d, R. flexiiosa Conrad, i % inches. 
 
 distinct pallial sinus, with much shorter laterals, with a faintly impressed, 
 large lunule, and colored light-brown inside. A rare and elusive species from 
-marsh areas. <tname>R. rostrata Petit</tname> is a synonym. 
+marsh areas. R. rostrata Petit is a synonym. 
 
 
 
-Family <tname>MESODESMATIDAE</tname> 
-Genus <tname>Mesodesma Deshayes 1830</tname> 
+Family MESODESMATIDAE 
+Genus Mesodesma Deshayes 1830 
 
 Like a large Donax with a prominent chondrophore. 
 fine denticles. 
@@ -41,7 +41,7 @@ Laterals with
 
 
 
-<tname>Mesodesma arctatimt Conrad</tname> 
+Mesodesma arctatimt Conrad 
 
 Greenland to Chesapeake Bay. 
 

@@ -3,11 +3,11 @@ ribs. Lateral areas of middle valves with 6 to 8 rows of small beads between
 which are microscopic pinholes. Central areas smoothish, with fine, transverse 
 scratches. Common. 
 
-<tname>Chiton viridis Spengler</tname> from the West Indies is very similar, but the 
+Chiton viridis Spengler from the West Indies is very similar, but the 
 margins of the central areas have 6 to 1 1 very short, wavy ribs, and the 
 lateral areas have 3 or 4 strong ribs of rounded pustules. Uncommon. 
 
-<tname>Chiton niarmoratus Linne</tname> Marbled Chiton 
+Chiton niarmoratus Linne Marbled Chiton 
 
 South Florida to Texas and the West Indies. 
 
@@ -18,7 +18,7 @@ the sides. Entire surface of valves smooth except for a microscopic, silky
 texture. Lateral areas a little raised. Underside of posterior valve with 14 to 
 16 slits. A common West Indian littoral species. 
 
-<tname>Chiton laevigatus Sowerby</tname> Smooth Panama Chiton 
+Chiton laevigatus Sowerby Smooth Panama Chiton 
 
 Gulf of California to Panama. 
 
@@ -29,12 +29,12 @@ Similar coloration in the other valves. Underside of posterior valve with 2 1
 narrow slits. Sutural plates on underside of middle valves with a dark blotch 
 at the base. Common. 
 
-<tname>Chiton albolineatus Sowerby</tname> (western Mexico, uncommon) is also a 
+Chiton albolineatus Sowerby (western Mexico, uncommon) is also a 
 smooth species, but differs in having only 16 to 17 slits in the posterior 
 valve and has snow-white, radiating lines on the lateral areas and on the 
 end valves. The girdle scales are light blue-green and edged with white. 
 
-<tname>Chiton virgulatus Sowerby</tname> Virgulate Chiton 
+Chiton virgulatus Sowerby Virgulate Chiton 
 
 Magdalena Bay, Lower California, to Panama. 
 
@@ -46,15 +46,15 @@ Magdalena Bay, Lower California, to Panama.
 End valves with rather even, raised, radiating threads. Middle valves with 
 the lateral areas bearing about 8 raised threads which split in two at the margin 
 of the valve. Central area with about 6o to 70 even, longitudinal threads. 
-Posterior valve with 19 to 20 prominent slits. Common. The closely resembling species, <tname>C. stokesi Broderip</tname>, from Mexico to West Colombia has 
+Posterior valve with 19 to 20 prominent slits. Common. The closely resembling species, C. stokesi Broderip, from Mexico to West Colombia has 
 only 15 to 16 slits in the posterior valve. 
 
-Subfamily <tname>ACANTHOPLEURINAE</tname> 
+Subfamily ACANTHOPLEURINAE 
 
-Genus <tname>Acanthopleura Guilding 1829</tname> 
+Genus Acanthopleura Guilding 1829 
 
-Subgenus <tname>M auger ia Gray 1857</tname> 
+Subgenus M auger ia Gray 1857 
 
-<tname>Acanthopleura granulata Gmelin</tname> Fuzzy Chiton 
+Acanthopleura granulata Gmelin Fuzzy Chiton 
 
 South half of Florida and the West Indies. 

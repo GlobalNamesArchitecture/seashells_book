@@ -1,4 +1,4 @@
-z. WARTY CONE, <tname>Conus verrucosus Hwass</tname>, 
+z. WARTY CONE, Conus verrucosus Hwass, 
 
 % inch (Southeastern Florida and West 
 
@@ -11,50 +11,50 @@ ATLANTIC COAST UNIVALVES
 
 
 
-a. QUEEN CONCH, <tname>Strojnbus gigas L.</tname>, 10 
+a. QUEEN CONCH, Strojnbus gigas L., 10 
 
 inches (also young) (Florida Keys and 
 West Indies), p. 174. 
 
-b. MILK CONCH, <tname>Stroinbiis costatiis Gmelin</tname>, 
+b. MILK CONCH, Stroinbiis costatiis Gmelin, 
 
 6 inches (Southern Florida and West 
 Indies), p. 174. 
 
-c. AMERICAN PELICAN'S FOOT. <tname>Aporrhais occideriialis Beck</tname>, 2 inches (also 
+c. AMERICAN PELICAN'S FOOT. Aporrhais occideriialis Beck, 2 inches (also 
 young) (off New England), p. 173. 
 
-d. LONGLEY'S CARRIER-SHELL, <tname>Xenophora longleyi Bartsch</tname>, 7 inches (Gulf 
+d. LONGLEY'S CARRIER-SHELL, Xenophora longleyi Bartsch, 7 inches (Gulf 
 of Mexico, south), p. 173. 
 
-e. CARIBBEAN CARRIER-SHELL, <tname>Xeywphora caribaea Petit</tname>, 4 inches (off 
+e. CARIBBEAN CARRIER-SHELL, Xeywphora caribaea Petit, 4 inches (off 
 Florida and Cuba), p. 173. 
 
-f. GIANT TUN, <tname>Tojma galea L.</tname>, 6 inches 
+f. GIANT TUN, Tojma galea L., 6 inches 
 
 (North Carolina to Texas and West 
 Indies; Pacific), p. 199. 
 
-g. CROSSE'S TUN, <tname>Eiidoliiim crosseamim 
+g. CROSSE'S TUN, Eiidoliiim crosseamim 
 
-Montero.</tname>, 3 inches (off New Jersey to 
+Montero., 3 inches (off New Jersey to 
 West Indies), p. 199. 
 
 h. WEST INDIAN CROWN CONCH. 
 
-<tname>Melongeria melongejia L.</tname>, 4 inches 
+Melongeria melongejia L., 4 inches 
 (Florida Keys, south), p. 235. 
 
-i. KNOBBED WHELK, <tname>Biisycon carica 
-Gmelin</tname>, 8 inches (Cape Cod, Massachusetts to Northeastern Florida), 
+i. KNOBBED WHELK, Biisycon carica 
+Gmelin, 8 inches (Cape Cod, Massachusetts to Northeastern Florida), 
 p. 235. 
 
-j. NEW ENGLAND NASSA, <tname>Nassarius trivittatus Say</tname>, % inch (Nova Scotia to South 
+j. NEW ENGLAND NASSA, Nassarius trivittatus Say, % inch (Nova Scotia to South 
 Carolina), p. 239. 
 
-k. PERVERSE WHELK, <tname>Biisycon perversiim 
-L.</tname>, form eliceans Mont., 6 inches Northeastern Florida), p. 236. 
+k. PERVERSE WHELK, Biisycon perversiim 
+L., form eliceans Mont., 6 inches Northeastern Florida), p. 236. 
 
-1. CARIBBEAN VASE, <tname>Vasum miiricatum 
-Born</tname>, 4 inches (South Florida and West 
+1. CARIBBEAN VASE, Vasum miiricatum 
+Born, 4 inches (South Florida and West 
 Indies), p. 245. 

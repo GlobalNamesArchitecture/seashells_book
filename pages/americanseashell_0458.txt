@@ -3,15 +3,15 @@
 
 
 Figure 95. Atlantic Bankia Shipworms. a, entire animal; b, a pallet; c, interior 
-view of one of the shell valves; d, <tname>Bankia goiildi Bartsch</tname>; e, <tname>B. caribbea Clench and 
-Turner</tname>; f, <tname>Bankia fimbriatida Moll and Roch</tname>. (From Clench and Turner 1946 
+view of one of the shell valves; d, Bankia goiildi Bartsch; e, B. caribbea Clench and 
+Turner; f, Bankia fimbriatida Moll and Roch. (From Clench and Turner 1946 
 
 in Johnsonia.) 
 
 
 
-Subgenus <tname>Bankiopsis Clench and Turner 1946</tname> 
-<tname>Bankia caribbea Clench and Turner</tname> Caribbean Shipworm 
+Subgenus Bankiopsis Clench and Turner 1946 
+Bankia caribbea Clench and Turner Caribbean Shipworm 
 
 North Carolina to the Caribbean. 
 
@@ -21,13 +21,13 @@ Figure 95e
 
 
 
-<tname>TEREDINIDAE</tname> 467 
+TEREDINIDAE 467 
 
 Pallets about Vs inch in length. Cones shallow-cupped, with smooth, 
-not drawn-out edges. Cones very crowded at the distal end. Do not confuse with <tname>B. goiildi</tname> which is more abundant and a larger species. Uncommon. 
+not drawn-out edges. Cones very crowded at the distal end. Do not confuse with B. goiildi which is more abundant and a larger species. Uncommon. 
 
-Subgenus <tname>Fhimidella Clench and Turner 1946</tname> 
-<tname>Bankia fimbriatula Moll and Roch</tname> Fimbriated Shipworm 
+Subgenus Fhimidella Clench and Turner 1946 
+Bankia fimbriatula Moll and Roch Fimbriated Shipworm 
 
 Figure 95f 
 
@@ -35,26 +35,26 @@ South half of Florida and the AVest Indies.
 
 Pallets !4 to I inch in length. Cones deeply cupped, with beautiful, 
 comb-like serrations on the edges. It has been found on the Pacific side of 
-the Panama Canal, and those specimens were named <tname>Bankia canalis Bartsch</tname>. 
+the Panama Canal, and those specimens were named Bankia canalis Bartsch. 
 
 
 
-Genus <tname>Teredo Linne 1758</tname> 
+Genus Teredo Linne 1758 
 
-Similar to <tname>Bcmkia</tname>, but the pallet is made up of a single, paddle-shaped 
+Similar to Bcmkia, but the pallet is made up of a single, paddle-shaped 
 piece. 
 
-<tname>Teredo navalis Linne</tname> Common Shipworm 
+Teredo navalis Linne Common Shipworm 
 
 Both coasts of the United States. Europe and Africa. 
 
-Shell like that in <tname>Bankia</tname> and subject to many minute variations. Each 
+Shell like that in Bankia and subject to many minute variations. Each 
 of the 2 calcareous pallets is spathate and compressed, but typically symmetrical. The leathery blade is urn-shaped, widening regularly from a stalk 
 of medium length, then tapering somewhat toward the tip, which is decidedly 
 excavated. The base of the blade is calcareous, but approximately the distal 
 third is normally covered by a yellowish or brownish chitinous epidermis. 
 A very common and destructive species found boring in wood. 
 
-<tname>Teredo bartscbi Clapp</tname> Bartsch's Shipworm 
+Teredo bartscbi Clapp Bartsch's Shipworm 
 
 South Carolina to north half of Florida to Texas. Introduced to San 

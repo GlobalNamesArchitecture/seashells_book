@@ -1,11 +1,11 @@
-I mm, in length, very close in characters, except shape, to <tname>5. retroversa</tname>, 
+I mm, in length, very close in characters, except shape, to 5. retroversa, 
 and thought by some workers to be a warm-water subspecies of that species. 
 
 
 
-<tname>PERACLIDAE</tname> 293 
+PERACLIDAE 293 
 
-<tname>Spiratella lesueuri Orbigny</tname> Lesueur's Pteropod 
+Spiratella lesueuri Orbigny Lesueur's Pteropod 
 
 Figure 64b 
 
@@ -15,7 +15,7 @@ to S. Lat. 40°).
 1.5 mm. in length, spire elevated somewhat; umbilicus distinct. Shell as 
 long as wide. Spiral lines only around the umbilicus. 
 
-<tname>Spiratella bulmwides Orbigny</tname> Bulimoid Pteropod 
+Spiratella bulmwides Orbigny Bulimoid Pteropod 
 
 Figure 6^d 
 
@@ -24,23 +24,23 @@ New York to southern Brazil. (N. Lat. 39° to S. Lat. 40°).
 2 mm. in length, spire high, shell twice as long as wide. Umbilicus very 
 indistinct. Lip fragile and often broken. 6 to 7 whorls. 
 
-<tname>Spiratella inflata Orbigny</tname> Planorbid Pteropod 
+Spiratella inflata Orbigny Planorbid Pteropod 
 
 Figure 64h 
 
 Cape Cod, Massachusetts, to Argentina. (N. Lat. 42° to S. Lat. 40°). 
 
 1.5 mm. in length, spire depressed, with the globose whorls in one plane 
-to give a planorboid shape.<tname> Limacina scaphoidea Gould</tname> is this species. 
+to give a planorboid shape. Limacina scaphoidea Gould is this species. 
 
-Family <tname>PERACLIDAE</tname> 
-Genus <tname>Feracle Forbes 1844</tname> 
+Family PERACLIDAE 
+Genus Feracle Forbes 1844 
 
-Shell fragile, with sinistral or left-handed whorls (resembling the freshwater pond snail, <tname>Physa</tname>); aperture very large and elongated; columella prolonged into an elongate rostrum; no umbilicus. Operculum thin, paucispiral, 
+Shell fragile, with sinistral or left-handed whorls (resembling the freshwater pond snail, Physa); aperture very large and elongated; columella prolonged into an elongate rostrum; no umbilicus. Operculum thin, paucispiral, 
 sifiistral and subcircular in outline. There are only two species in the genus. 
-<tname>PeracUs Pelseneer</tname> is the same genus. 
+PeracUs Pelseneer is the same genus. 
 
-<tname>Feracle reticulata Orbigny</tname> Reticulate Pteropod 
+Feracle reticulata Orbigny Reticulate Pteropod 
 
 Figure 64g 
 
@@ -48,10 +48,10 @@ Worldwide, pelagic. (40° N. to 20° S.).
 
 4 mm. in length, brownish yellow, sinistral and with 4 whorls. Suture 
 deep. The surface exhibits a raised hexagonal reticulation, the sides of the 
-hexagons bearing a regular row of minute teeth. <tname>P. physoides Forbes</tname> and 
-<tname>P. clathrata Eyd. and Soul</tname>, are the same. 
+hexagons bearing a regular row of minute teeth. P. physoides Forbes and 
+P. clathrata Eyd. and Soul, are the same. 
 
-<tname>Feracle bispinosa Pelseneer</tname> Two-spined Pteropod 
+Feracle bispinosa Pelseneer Two-spined Pteropod 
 
 Figure 6i\i 
 Atlantic, pelagic. (38° N. to 28° S.). 

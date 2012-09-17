@@ -5,25 +5,25 @@
 shallow suture bearing axial ridges, and with the shoulder of the outer lip 
 bearing a small, triangular projection. Uncommonly collected. 
 
-Family <tname>CAVOLINIDAE</tname> 
+Family CAVOLINIDAE 
 
 Shell symmetrical (not coiled), fragile, white to brown, and of various 
 shapes — needle-like, cylinder-shaped, flattened triangular or bulbous. 
 
-Genus <tname>Creseis Rang 1828</tname> 
+Genus Creseis Rang 1828 
 Shell a long cone, almost circular in cross-section, needle-like. 
 
-<tname>Creseis acicida Rang</tname> Straight Needle-pteropod 
+Creseis acicida Rang Straight Needle-pteropod 
 
 Figure 6411 
 
 Atlantic and Pacific, pelagic. (N. Lat. 48° to S. Lat. 40°). 
 
 20 to 33 mm. (about an inch) in length. A long, straight, slender cone 
-tapering to a sharp point. <tname>Styliola vitrea Verrill</tname> and conica Esch. are this 
+tapering to a sharp point. Styliola vitrea Verrill and conica Esch. are this 
 species. 
 
-<tname>Creseis virgula Rang</tname> Curved Needle-pteropod 
+Creseis virgula Rang Curved Needle-pteropod 
 
 Figure 64P 
 
@@ -31,11 +31,11 @@ Atlantic and Pacific, pelagic. (N. Lat. 41° to S. Lat. 35°).
 
 8 to 10 mm. in length. A drawn-out, slender shell similar to acicula, 
 but with its narrow end hooked to one side. The amount of bend of hook 
-is variable. <tname>Hyalaea conijormis Orb.</tname> and <tname>Cleodora virgula Soul, and Eyd.</tname> are 
+is variable. Hyalaea conijormis Orb. and Cleodora virgula Soul, and Eyd. are 
 the same. 
 
-Genus <tname>Styliola Lesueur 1825</tname> 
-<tname>Styliola siibula Quoy and Gaimard</tname> Keeled Clio 
+Genus Styliola Lesueur 1825 
+Styliola siibula Quoy and Gaimard Keeled Clio 
 
 Figure 64-0 
 
@@ -47,14 +47,14 @@ slightly oblique, turning from left to right, with only the anterior extremity
 (which ends in a rostrum) in the median line. There is only one species in 
 the genus and it is world-wide in distribution. 
 
-Genus <tname>Hyalocylis Fol 1875</tname> 
-<tname>Hyalocylis striata Rang</tname> Striate Clio 
+Genus Hyalocylis Fol 1875 
+Hyalocylis striata Rang Striate Clio 
 
 Worldwide m warm seas, pelagic. 
 
 
 
-<tname>CAVOLINIDAE</tname> 295 
+CAVOLINIDAE 295 
 
 8 mm. in length, conical, slightly compressed dorso-ventrally (oval 
 in cross-section); apex slightly recurved dorsally; surface with transverse 

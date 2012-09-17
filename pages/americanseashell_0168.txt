@@ -1,7 +1,7 @@
 
 178 Afjierican Seashells 
 
-<tname>Trivia maltbiana Schwengel and McGinty</tname> Maltbie's Trivia 
+Trivia maltbiana Schwengel and McGinty Maltbie's Trivia 
 
 Plate 2IZ 
 
@@ -11,7 +11,7 @@ North Carolina to Florida and the Caribbean.
 having 24 to 28 ribs crossing the outer lip. Areas between the ribs are microscopically granular. Nuclear whorls visible through the last whorl. The dorsal groove is slight and the riblets nearly cross it. Moderately common just 
 offshore to 50 fathoms. 
 
-<tname>Trivia quadripiinctata Gray</tname> Four-spotted Trivia 
+Trivia quadripiinctata Gray Four-spotted Trivia 
 
 Southeast Florida, Yucatan and the West Indies. 
 
@@ -22,7 +22,7 @@ species frequently found on beaches with the color dots worn away and the
 pink background rather faded. The riblets on the back are never pustulose 
 as they tend to be in suffusa, nor is there any fine color speckling. 
 
-<tname>Trivia antillarinn Schilder</tname> Antillean Trivia 
+Trivia antillarinn Schilder Antillean Trivia 
 
 Southeast Florida and the Antilles. 
 
@@ -30,9 +30,9 @@ Southeast Florida and the Antilles.
 purple color. Elongate-globular in shape. Riblets smooth. With or without 
 a faint dorsal groove over which the riblets usually cross. Outer lip with 1 8 
 to 22 teeth. Dredged from 30 to 100 fathoms and rarely cast upon the beach. 
-Formerly <tname>T. subrostrata Gray</tname>. 
+Formerly T. subrostrata Gray. 
 
-<tname>Trivia candidula Gaskoin</tname> Little White Trivia 
+Trivia candidula Gaskoin Little White Trivia 
 
 Plate 2 ICC 
 
@@ -48,13 +48,13 @@ strong dorsal groove interrupting the ribs.
 
 
 
-<tname>ERATOIDAE</tname> 179 
+ERATOIDAE 179 
 
-<tname>Trivia 7tix Schilder</tname> White Globe Trivia 
+Trivia 7tix Schilder White Globe Trivia 
 
 Southeast Florida and the West Indies. 
 
 % inch in length, globular, pure-white in color. Characterized by about 
 2 2 to 26 riblets. Back with a strong groove interrupting the riblets. Alias 
-<tname>T. nivea Gray</tname>. This is the largest and most globular of the white species 
+T. nivea Gray. This is the largest and most globular of the white species 
 found in the Western Atlantic. It is moderately uncommon. 

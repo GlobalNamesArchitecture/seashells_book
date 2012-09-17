@@ -1,7 +1,7 @@
 
 
-Genus <tname>Aletes Carpenter 1857</tname> 
-<tname>Aletes squamigerus Carpenter</tname> < Scaled Worm-shell 
+Genus Aletes Carpenter 1857 
+Aletes squamigerus Carpenter < Scaled Worm-shell 
 
 Plate 2oe 
 
@@ -13,8 +13,8 @@ usually stands erect for % inch is smoothish. A very common, colonial species fo
 
 
 
-Genus <tname>Spiroglyphus Daudin 1800</tname> 
-<tname>Spiroglyphus Htuellus Morch</tname> Flat Worm-shell 
+Genus Spiroglyphus Daudin 1800 
+Spiroglyphus Htuellus Morch Flat Worm-shell 
 
 Plate 2od 
 
@@ -28,12 +28,12 @@ a somewhat squarish cross-section to the whole shell. Hollow scales and
 fimbriations present elsewhere. Color cream to purplish gray. Operculum 
 horny, multispiral and brown. Moderately common. 
 
-There is a very similar species reported from the West Indies (<tname>5. annulatus Daudin</tname>). 
+There is a very similar species reported from the West Indies (5. annulatus Daudin). 
 
-Family <tname>SILIQUARIIDAE</tname> 
-Genus <tname>Vermicularia Lamarck 1799</tname> 
+Family SILIQUARIIDAE 
+Genus Vermicularia Lamarck 1799 
 
-<tname>Vermicularia spirata Philippi</tname> West Indian Worm-shell 
+Vermicularia spirata Philippi West Indian Worm-shell 
 
 Plate 21c; figure 22i 
 
@@ -46,7 +46,7 @@ whorl. Subsequent whorls with 2 major cords which soon lose their prominence. Sm
 
 
 
-<tname>CAECIDAE</tname> 145 
+CAECIDAE 145 
 
 not the common West Florida species usually called ^^spirata'" in other books. 
 See knorri and also fargoi. 
@@ -55,6 +55,6 @@ For anatomy and relationships in the worm-shells, see the excellent works
 by J. E, Morton (1951) in the Transactions of the Royal Society of New 
 Zealand. 
 
-<tname>Vermicularia knorri Deshayes</tname> Florida Worm-shell 
+Vermicularia knorri Deshayes Florida Worm-shell 
 
 Plate 2ia 

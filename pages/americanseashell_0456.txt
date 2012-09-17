@@ -7,8 +7,8 @@ on their surface. Siphon cream, covered with a brownish periostracum at
 the base, the remainder studded with small bars of chitinous material, thus 
 giving a warty appearance. 
 
-Genus <tname>Nettastoviella Carpenter 1865</tname> 
-<tname>Nettastomella rostrata Valenciennes</tname> Rostrate Piddock 
+Genus Nettastoviella Carpenter 1865 
+Nettastomella rostrata Valenciennes Rostrate Piddock 
 
 Puget Sound to San Diego, California. 
 
@@ -16,8 +16,8 @@ Puget Sound to San Diego, California.
 with a long, pointed, smooth rostrum or snout which bends downward. 
 Shell proper with widely spaced, delicate, high, concentric lamellae. Without accessory plates and apophyses. Found by breaking stones apart. Moderately common. 
 
-Genus <tname>Parapholas Conrad 1849</tname> 
-<tname>Farapholas californica Conrad</tname> Scale-sided Piddock 
+Genus Parapholas Conrad 1849 
+Farapholas californica Conrad Scale-sided Piddock 
 
 Southern California. 
 
@@ -27,17 +27,17 @@ with foliated periostracum. Shell proper with a long, radial groove pushing
 in at the middle. Color grayish white. Interior with 2 long, descending, 
 shelly rods under the middle of the hinge. Common. 
 
-Genus <tname>Navea Gray 1851</tname> 
-<tname>Navea subglobosa Gray</tname> Abalone Borer 
+Genus Navea Gray 1851 
+Navea subglobosa Gray Abalone Borer 
 
 San Pedro to Monterey, California. 
 
 /4 to % inch in size. Very obese and subglobular. Anterior end widely 
 gaping with the thick edge of the valves coarsely denticulate. Commonly 
-found boring in abalone shells (<tname>Haliotis</tname>). 
+found boring in abalone shells (Haliotis). 
 
-Genus <tname>Martesia Blainvillc 1824</tname> 
-<tname>Martesia striata Linne</tname> Striate Martesia 
+Genus Martesia Blainvillc 1824 
+Martesia striata Linne Striate Martesia 
 
 Plate 32W 
 
@@ -45,7 +45,7 @@ West Florida to Texas and the West Indies.
 
 
 
-<tname>TEREDINIDAE</tname> 465 
+TEREDINIDAE 465 
 
 % to I ^ inches in length, elongate, moderately fragile, gaping at the 
 posterior end and whitish in color. There is a faint radial groove from beak to 
@@ -56,5 +56,5 @@ a long, narrow, fragile plate. Over the umbones there is a broadly rounded,
 somewhat heart-shaped, thick, calcareous plate. Anterior gape closed over 
 by an egg-shell callus. Commonly found boring in wood. 
 
-<tname>Martesia cuneijormis Say </tname>Wedge-shaped Martesia 
+Martesia cuneijormis Say Wedge-shaped Martesia 
 

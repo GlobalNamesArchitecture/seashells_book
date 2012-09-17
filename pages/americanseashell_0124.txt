@@ -6,8 +6,8 @@ rotundata von Martens 1865 and sphaera Pilsbry 193 1.
 
 
 
-Genus <tname>Smaragdia Issel 1869</tname> 
-<tname>Smaragdia viridis Linne</tname> 
+Genus Smaragdia Issel 1869 
+Smaragdia viridis Linne 
 
 Southeast Florida, the West Indies and Bermuda. 
 
@@ -21,15 +21,15 @@ Plate 4h
 
 /4 to H inch in length, glossy, smooth, pea-green, often with tiny chalkwhice bars and rarely with purplish brown, narrow, zigzag bars. True 
 viridis comes from the Mediterranean. Some workers separate our form as 
-the subspecies <tlawname>viridemaris Maury 191 7</tlawname>. <tname>N. iveyssei Russell 1940</tname> is a synonym. 
+the subspecies <tlawname>viridemaris Maury 191 7</tlawname>. N. iveyssei Russell 1940 is a synonym. 
 
-Order <tname>MESOGASTROPODA</tname> 
+Order MESOGASTROPODA 
 
-Superfamily <tname>LITTORINACEA</tname> 
+Superfamily LITTORINACEA 
 
-Family <tname>LACUNIDAE</tname> 
+Family LACUNIDAE 
 
-Genus <tname>Lacuna Turton 1827</tname> 
+Genus Lacuna Turton 1827 
 
 Rather fragile, smooth periwinkles characterized by a shelf-like columella and a chink-like umbilicus. Periostracum smooth, fairly thin and lightbrown. Operculum paucispiral and corneous. Cold-water inhabitants, usually 
 dredged in areas of kelp weed. 
@@ -37,15 +37,15 @@ dredged in areas of kelp weed.
 
 
 
-Figure 36. Northern Lacunas, a, <tname>Lacuna carinata Gould</tname>, ^ inch (Pacific coast); 
+Figure 36. Northern Lacunas, a, Lacuna carinata Gould, ^ inch (Pacific coast); 
 
-b, <tname>Lacuna imijasciata Cpr.</tname>, y^ inch (California); c to e, <tname>Lacuna vmcta Turton</tname>, 
+b, Lacuna imijasciata Cpr., y^ inch (California); c to e, Lacuna vmcta Turton, 
 
 % inch (both coasts); c, operculum showing reinforcing bar (dotted); d, animal 
 
 showing the penis on the right side; e, radula (a single row greatly enlarged). 
 
-<tname>Lacuna vincta Turton</tname> Common Northern Lacuna 
+Lacuna vincta Turton Common Northern Lacuna 
 
 Plate 22p-, figure }6c-e 
 
@@ -56,5 +56,5 @@ along side of which is a long, narrow, deep umbilical chink. Outer lip fragile.
 
 
 
-<tname>LITTORINIDAE</tname> 131 
+LITTORINIDAE 131 
 

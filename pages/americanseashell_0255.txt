@@ -1,7 +1,7 @@
-A similar, large species, <tname>P. prmceps Sowerby</tname> (the Panama Horse Conch), 
+A similar, large species, P. prmceps Sowerby (the Panama Horse Conch), 
 occurs from the Gulf of California to Ecuador. Its operculum has deep, 
 rounded grooves. Both of these Horse Conchs were previously put in the 
-genus <tname>Fasciolaria</tname>. 
+genus Fasciolaria. 
 
 
 
@@ -9,12 +9,12 @@ I
 
 
 
-<tname>FASCIOLARIIDAE</tname> 243 
+FASCIOLARIIDAE 243 
 
-Subfa?nily <tname>FUSININAE</tname> 
-Genus <tname>Fiisinus Rafinesque 1815</tname> 
+Subfa?nily FUSININAE 
+Genus Fiisinus Rafinesque 1815 
 
-<tname>Fusinus thnessus Dall</tname> Turnip Spindle 
+Fusinus thnessus Dall Turnip Spindle 
 
 Plate I ig 
 
@@ -28,7 +28,7 @@ whorl and the long siphonal canal with a total of about 30 to 40 small cords
 between which is often a very fine one. Dredged uncommonly from 20 to 50 
 fathoms. 
 
-<tname>Fusinus eucos7nius Dall</tname> Ornamented Spindle 
+Fusinus eucos7nius Dall Ornamented Spindle 
 
 Plate lie; figure 22k 
 
@@ -41,8 +41,8 @@ axial ribs which in the upper whorls are crossed by about 6 strong, sharp,
 slightly wavy spiral threads. Apex often leaning to one side. Color all white 
 with a rather heavy, grayish-white to yellowish periostracum. Rather commonly dredged offshore, but still a collector's item. 
 
-Subgenus <tname>Barbarofusus Grabau and Shimer 1909</tname> 
-<tname>Fusinus harfordi Stearns</tname> Harford's Spindle 
+Subgenus Barbarofusus Grabau and Shimer 1909 
+Fusinus harfordi Stearns Harford's Spindle 
 
 Figure 54a 
 
@@ -52,7 +52,7 @@ Mendocino County, California.
 wide, rounded axial ribs crossed by small, sharply raised, finely scaled spiral 
 cords. Rare in moderately deep water. 
 
-<tname>Fusinus kobelti Dall</tname> Kobelt's Spindle 
+Fusinus kobelti Dall Kobelt's Spindle 
 
 Figure 54b 
 

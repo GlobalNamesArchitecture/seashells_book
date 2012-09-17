@@ -1,7 +1,7 @@
 bears a strong, radial rib, while on the left valve there is a fairly strong, radial 
 groove. Pallial sinus very large. Living specimens are not commonly collected, although shells are commonly washed ashore. 
 
-<tname>Apolymetis biajigiilata Carpenter</tname> Pacific Grooved Macoma 
+Apolymetis biajigiilata Carpenter Pacific Grooved Macoma 
 
 Santa Barbara, California, to Ensenada, Mexico. 
 
@@ -9,17 +9,17 @@ Santa Barbara, California, to Ensenada, Mexico.
 grayish white in color. Interior glossy-white with the central portion blushed 
 with pastel-peach. Left valve with a shallow, radial groove near the posterior 
 end. Right valve with a corresponding ridge at the end of which the margin 
-of the shell is shallowly notched. Alias <tname>A. alta Conrad</tname>. Common. 
+of the shell is shallowly notched. Alias A. alta Conrad. Common. 
 
-Family <tname>SEMELIDAE</tname> 
-Genus <tname>Semele Schumacher 18 17 </tname>
+Family SEMELIDAE 
+Genus Semele Schumacher 18 17 
 
 Resilium supported in a horizontal, chondrophore-like depression which 
 is internal and parallel with the hinge line. 2 cardinal teeth in each valve. 
 Right valve with 2 distinct lateral teeth, but practically absent in the left 
 valve. The ligament is external. 
 
-<tname>Semele proficua Pulteney</tname> White Atlantic Semele 
+Semele proficua Pulteney White Atlantic Semele 
 
 Plate 40g 
 North Carolina to south half of Florida and the West Indies. 
@@ -33,9 +33,9 @@ water. The color form radiata Say, has a few indistinct radial rays of pink
 
 
 
-<tname>SEMELIDAE</tname> 435 
+SEMELIDAE 435 
 
-<tname>Semele pwpiirascens Gmelin</tname> Purplish Semele 
+Semele pwpiirascens Gmelin Purplish Semele 
 
 Plate 40b 
 
@@ -46,7 +46,7 @@ fine concentric growth threads over which run another set of fine, microscopic c
 suffused with purple, brownish or orange. A fairly common, shallow-water 
 species. 
 
-<tname>Semele bellastriata Conrad</tname> Cancellate Semele 
+Semele bellastriata Conrad Cancellate Semele 
 
 Plate 30) 
 
@@ -57,4 +57,4 @@ smaller species with numerous radial and concentric riblets which cross to
 give a cancellate appearance. Some specimens well-beaded, others have the 
 radial ribs more prominent. External color yellowish white with reddish 
 flecks or a solid, purplish gray. Interior white, cream or suffused with mauve 
-or violet, <tname>5. cancellata Orbigny</tname> is this species. Fairly common just offshore. 
+or violet, 5. cancellata Orbigny is this species. Fairly common just offshore. 

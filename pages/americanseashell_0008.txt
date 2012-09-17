@@ -4,15 +4,15 @@ VI How to Know American Seashells 70
 
 Part II — Guide to the American Seashells 
 
-!!!VII Class <tname>Gastropoda</tname> (Periwinkles, Conchs and Other Snails) 
+!!!VII Class Gastropoda (Periwinkles, Conchs and Other Snails) 
 
-!!!VIII Class <tname>Amphineura</tname> (Coat-of -mails and Other Chitons) . 
+!!!VIII Class Amphineura (Coat-of -mails and Other Chitons) . 
 
-!!!IX Class <tname>Scaphopoda</tname> (Dentaliums and Other Tusk-shells) . 
+!!!IX Class Scaphopoda (Dentaliums and Other Tusk-shells) . 
 
-!!!X Class <tname>Pelecypoda</tname> (Scallops, Oysters and Other Clams) 
+!!!X Class Pelecypoda (Scallops, Oysters and Other Clams) 
 
-!!!XI Class <tname>Cephalopoda</tname> (Squid, Octopus and Cuttlefish) . 
+!!!XI Class Cephalopoda (Squid, Octopus and Cuttlefish) . 
 
 XII Guide to the MoUuscan Literature 
 

@@ -7,8 +7,8 @@ whorl, crossed by about 9 to i o equally strong spiral cords on the last whorl,
 thus giving the shell a cancellate sculpture. The whorls in the spire show 
 only 2 spiral, nodulated cords. Exterior dark-gray. Common on mudflats. 
 
-Genus <tname>Purpura Bruguiere 1789</tname> 
-<tname>Purpura patula Linne</tname> Wide-mouthed Purpura 
+Genus Purpura Bruguiere 1789 
+Purpura patula Linne Wide-mouthed Purpura 
 
 Plate 25I 
 
@@ -22,10 +22,10 @@ permanent violet.
 The subspecies pansa Gould (west coast of Mexico south to Columbia) 
 is similar in most respects, but the columella is colored a whitish cream. 
 
-Genus <tname>Thais Roding 1798</tname> 
-Subgenus <tname>Stramonita Schumacher 1817</tname> 
+Genus Thais Roding 1798 
+Subgenus Stramonita Schumacher 1817 
 
-<tname>Thais haemastoma floridaJia Conrad</tname> Florida Rock-shell 
+Thais haemastoma floridaJia Conrad Florida Rock-shell 
 
 Plate 25a 
 
@@ -37,9 +37,9 @@ outer lip. Running inside the aperture high up on the body whorl above the
 parietal area, there is a strong spiral ridge. Some specimens have a faint fold 
 or phca on the base of the columella. This is a very common species, but 
 quite variable in shape and color pattern. Typical hae?7msto??M Lamarck occurs in the Mediterranean and West Africa. See additional remarks under 
-<tname>Thais rustica</tname>. 
+Thais rustica. 
 
-<tname>Thais haemastoma haysae Clench</tname> Hays' Rock-shell 
+Thais haemastoma haysae Clench Hays' Rock-shell 
 
 Northwest Floriaa to Texas. 
 
@@ -53,7 +53,7 @@ length), strongly indented suture, and rugose sculpture with a row of double,
 strong nodules on the shoulder of the whorls. M. D. Burkenroad (1931) has 
 given a long account of the biology of this oyster pest. 
 
-<tname>Thais rustica Lamarck</tname> Rustic Rock-shell 
+Thais rustica Lamarck Rustic Rock-shell 
 
 Plate 25f 
 

@@ -23,8 +23,8 @@ sometimes heavily marked with circular scars caused by the suckers of the
 squid. 
 
 The octopus does not reach a very large size. The largest known species 
-occurs on the west coast of North America where, in Alaska, <tname>Octopus 
-punctatus</tname> attains a length of 16 feet or a radial spread of nearly 28 feet. 
+occurs on the west coast of North America where, in Alaska, Octopus 
+punctatus attains a length of 16 feet or a radial spread of nearly 28 feet. 
 However, the arms are very small in diameter, and a specimen of such long 
 proportions has a body length of not more than a foot. The octopus occasionally found in the Lower Florida Keys is usually less than three feet 
 in radial spread. A dead specimen cast on a beach near Nassau, Bahama 
@@ -33,7 +33,7 @@ that the entire creature weighed about 200 pounds. This, however, is without ver
 the Bahamas from the air were made by untrained observers. There is no 
 satisfactory evidence that any of these species of Octopus has ever intentionally attacked man, or that any person has ever been seriously injured 
 by one. The octopus is a rather sluggish and timid creature, seeking shelter in 
-holes and crevices among the rocks, and is usually small. It feeds mainly on bivalve mollusks but will also eat snails, fish and <tname>Crustacea</tname>. Its hideouts along the 
+holes and crevices among the rocks, and is usually small. It feeds mainly on bivalve mollusks but will also eat snails, fish and Crustacea. Its hideouts along the 
 shore can usually be detected by the presence of empty shells. 
 
 Locomotion among the cephalopods varies from a slow, "tentacle-walking" pace, both in and out of water, to the rapid, jet-propulsion darts which 

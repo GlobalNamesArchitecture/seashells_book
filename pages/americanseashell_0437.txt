@@ -16,15 +16,15 @@ lines. Periostracum brownish gray, fairly thin and irregularly wrinkled.
 Exterior shell dirty-white or cream, and may have faint, narrow, radial rays 
 of purple. Common offshore to 25 fathoms. Commonly washed ashore after 
 storms, especially between Sea Beach and Huntington Beach, Cahfornia. 
-The subgenus <tname>Gobraeus Leach 1852</tname> is a later name for <tname>Fsammocola</tname>. 
+The subgenus Gobraeus Leach 1852 is a later name for Fsammocola. 
 
 
 
-Suborder <tname>ADAPEDONTA</tname> 
-Superjaviily <tname>SOLENACEA</tname> 
+Suborder ADAPEDONTA 
+Superjaviily SOLENACEA 
 
-Family <tname>SOLENIDAE</tname> 
-Genus <tname>Siliqua Miihlfeld i</tname> 
+Family SOLENIDAE 
+Genus Siliqua Miihlfeld i 
 
 
 
@@ -37,7 +37,7 @@ rather strais^ht, raised, internal rib ventrally directed. Hinq-e like Ensis.
 
 
 
-<tname>Siliqiia costata Sav</tname> Atlantic Razor Clam 
+Siliqiia costata Sav Atlantic Razor Clam 
 
 Plare ^of 
 Gulf of St. Lawrence to New Jersey. 
@@ -48,12 +48,12 @@ a strong, white, raised rib running down from the hinge to the middle of the
 anterior end. Very common on shallow-water sand-flats along the New 
 England coast. 
 
-<tname>Siliqiia squama Blainville</tname> found offshore from Newfoundland to Cape 
+Siliqiia squama Blainville found offshore from Newfoundland to Cape 
 Cod is larger, thicker, white internally, and its internal, supporting rib slanting posteriorly instead of anteriorly as in costata. Uncommon. 
 
 
 
-<tname>Siliqua hicida Conrad</tname> 
+Siliqua hicida Conrad 
 
 
 

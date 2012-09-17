@@ -4,15 +4,15 @@ characteristic, elevated, triangular area which radiates from the beaks to the
 large, posterior end. This area is crossed by strong, transverse lamellations 
 resembling a washboard. Commonly found boring in soft coral rock. Uncommon in Florida. 
 
-Superfamily <tname>ADESMACEA</tname> 
-Family <tname>PHOLADIDAE</tname> 
+Superfamily ADESMACEA 
+Family PHOLADIDAE 
 
 Pending publication of the extensive researches on this group by Dr. 
 Ruth D, Turner at Harvard University, we are dividing the groups in this 
 family and treating the species in the conventional manner. 
 
-Genus <tname>Cyrtopleiira Tryon 1862</tname> 
-<tname>Barnea costata Linne</tname> Angel Wing 
+Genus Cyrtopleiira Tryon 1862 
+Barnea costata Linne Angel Wing 
 
 Figure 94a 
 
@@ -28,7 +28,7 @@ Some colonies have shells which have pink, concentric stains on the inside of
 
 
 
-<tname>PHOLADIDAE</tname> 
+PHOLADIDAE 
 
 
 

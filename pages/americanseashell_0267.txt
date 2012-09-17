@@ -1,9 +1,9 @@
 
 
 
-<tname>MARGINELLIDAE</tname> 257 
+MARGINELLIDAE 257 
 
-<tname>Prunu77t apicimw7 Menke</tname> Common Atlantic Marginella 
+Prunu77t apicimw7 Menke Common Atlantic Marginella 
 
 Plate I in; figure 56g 
 
@@ -13,7 +13,7 @@ V2 inch in length, glossy, with a dark nuclear whorl. Outer lip thickened, smoot
 smaller one at the very top and very bottom. Body whorl golden to brownish orange with 3 subdued, wide bands of darker color. A very common, 
 shallow-water species. About i in every 5000 specimens is sinistral. 
 
-<tname>Prunum limatuluTn Conrad</tname> Boreal Marginella 
+Prunum limatuluTn Conrad Boreal Marginella 
 
 Figure $6i 
 Virginia to South Carolina. 
@@ -21,9 +21,9 @@ Virginia to South Carolina.
 V2 inch in length, similar to apiciiJimi, but with a higher spire, milkycream color, with 3 faint, spiral bands of mauve or weak orange. Outer lip 
 not sinuate, and is usually marked with 4 spots. Nucleus white, while in 
 apicinu7n it is usually bright pink. Not uncommon from 18 to 132 fathoms. 
-<tname>Marginella borealis Verrill</tname> is the same. 
+Marginella borealis Verrill is the same. 
 
-<tname>Prunum virginiammt Conrad</tname> Virgin Marginella 
+Prunum virginiammt Conrad Virgin Marginella 
 
 Figure 56h 
 
@@ -34,8 +34,8 @@ varix; the third columella tooth is the largest; color of last whorl whitish to
 cream, often with a faint curdling of darker orange-cream, and with a 
 deeper, suffused band just below the suture and at the base of the shell. Moderately common, 14 to ^6 fathoms. 
 
-Genus <tname>Persicula Schumacher 18 17</tname> 
-<tname>Persicula catenata Montagu</tname> Princess Marginella 
+Genus Persicula Schumacher 18 17 
+Persicula catenata Montagu Princess Marginella 
 
 Figure 56) 
 
@@ -46,8 +46,8 @@ callus. Columella teeth 7. Inside of outer lip with about 20 to 25 small teeth.
 Color translucent grayish with 7 spiral rows of teardrop-shaped, opaquewhite spots and with 2 very subdued, wide spiral bands of light-brown. 
 Uncommon in shallow water to 92 fathoms. 
 
-Subgenus <tname>Gihberula Swainson 1840</tname> 
-<tname>Persicula f/jiuuta Pfeiffer</tname> Snowflake Marginella 
+Subgenus Gihberula Swainson 1840 
+Persicula f/jiuuta Pfeiffer Snowflake Marginella 
 
 Figure 56m 
 

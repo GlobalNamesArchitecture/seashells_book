@@ -7,10 +7,10 @@ other valve with numerous, microscopic, concentric threads. Common offshore. Fre
 number of other species described, some of which may only be forms of this 
 variable species. 
 
-Fmjiily <tname>SPONDYLIDAE</tname> 
-Genus <tname>Spondylus Linne 1758</tname> 
+Fmjiily SPONDYLIDAE 
+Genus Spondylus Linne 1758 
 
-<tname>Spondylus americanus Hermann</tname> Atlantic Thorny Oyster 
+Spondylus americanus Hermann Atlantic Thorny Oyster 
 
 Plate 36b 
 
@@ -28,7 +28,7 @@ and might be confused with Chama which, however, does not have the balland-socke
 to old wrecks in fairly deep water. Perfect specimens have recently sold for 
 over $40. Formerly called americanus Lamarck, echinatus Martyn and dominicensis Roding. Sometimes called the Chrysanthemum Shell. Not uncommon. 
 
-<tname>Spondylus pictorum Schreiber</tname> Pacific Thorny Oyster 
+Spondylus pictorum Schreiber Pacific Thorny Oyster 
 
 Plate 36a 
 
@@ -39,11 +39,11 @@ usually bent over. Color variable, and usually more brilliant than the Atlantic
 species. A popular, and now fairly high-priced collector's item. Often found 
 on beaches with their spines worn off. They live in fairly deep water attached to rocks and wrecks. 
 
-Fa7mly <tname>LIMIDAE</tname> 
+Fa7mly LIMIDAE 
 
-Genus <tname>Lima Bruguiere 1797</tname> 
+Genus Lima Bruguiere 1797 
 
-<tname>Lima lima Linne</tname> Spiny Lima 
+Lima lima Linne Spiny Lima 
 
 Plate 35g 
 
@@ -56,5 +56,5 @@ species and its various forms or subspecies (squa?nosa Lamarck, multicostata
 Sowerby, caribaea Orbigny and tetrica Gould) are found all over the world 
 in tropical waters. 
 
-<tname>Lima pellucida C. B. Adams</tname> Antillean Lima 
+Lima pellucida C. B. Adams Antillean Lima 
 

@@ -1,7 +1,7 @@
 
 
-Subgenus <tname>Fleurovieris Conrad 1867</tname> 
-<tname>Venericardia tridentata Say</tname> Three-toothed Cardita 
+Subgenus Fleurovieris Conrad 1867 
+Venericardia tridentata Say Three-toothed Cardita 
 
 North Carolina to all of Florida. 
 
@@ -10,12 +10,12 @@ heavily beaded strong radial ribs. Beaks close together, pointing slightly
 forward. Lunule oval, sharply impressed, smoothish. Escutcheon small, narrow. External color grayish brown, sometimes with red-brown mottlings. 
 Hinge-teeth often purplish blue. Interior of valve stained with light-brown 
 on white background. A common, moderately shallow-water species, usually 
-confused with <tname>Cardita do77nngiiensis</tname> which, however, lacks the strong tridentate hinge, is ovate in shape, whose ribs are weakly beaded and whose 
+confused with Cardita do77nngiiensis which, however, lacks the strong tridentate hinge, is ovate in shape, whose ribs are weakly beaded and whose 
 beaks point toward each other. 
 
 
 
-<tname>Venericardia perplana Conrad</tname> 
+Venericardia perplana Conrad 
 
 North Carolina to southern half of Florida. 
 
@@ -27,17 +27,17 @@ Plate 2 81
 
 
 
-^ inch in size, similar to <tname>V. borealis</tname> but much smaller, without a periostracum, pinkish or mottled brown, and more obhque. The ribs are wider, 
+^ inch in size, similar to V. borealis but much smaller, without a periostracum, pinkish or mottled brown, and more obhque. The ribs are wider, 
 and close to each other. The subspecies flabella Conrad from Tampa Bay, 
 Florida, has fewer ribs which are squarish and separated by furrows almost 
-equal in size to the ribs themselves. <tname>V. perplana</tname> is common, flabella only 
+equal in size to the ribs themselves. V. perplana is common, flabella only 
 locally found at certain seasons in few numbers. 
 
 
 
 
 
-Figure 76. Kelsey's Milner Clam, <tname>Milneria kelseyi Dall</tname>, Yg to ^ inch (southern 
+Figure 76. Kelsey's Milner Clam, Milneria kelseyi Dall, Yg to ^ inch (southern 
 
 California). 
 
@@ -49,8 +49,8 @@ Figure 76
 
 
 
-Genus <tname>Milneria Dall 1881</tname> 
-<tname>Milneria kelseyi Dall</tname> 
+Genus Milneria Dall 1881 
+Milneria kelseyi Dall 
 
 Monterey to Lower California. 
 

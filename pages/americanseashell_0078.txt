@@ -1,30 +1,30 @@
 
-Fmnily <tname>FISSURELLIDAE</tname> 
+Fmnily FISSURELLIDAE 
 
 (Keyhole Limpets) 
 
-Subjamily <tname>EMARGINULINAE</tname> 
+Subjamily EMARGINULINAE 
 
-Key to the Genera of <tname>Emarginulinae</tname> 
+Key to the Genera of Emarginulinae 
 
 a. Apex at the same level as the base of the shell: 
 
-b. With an internal septum <tname>Zeidora</tname> 
+b. With an internal septum Zeidora 
 
-bb. Without internal septum <tname>Nesta</tname> 
+bb. Without internal septum Nesta 
 
 aa. Apex above the base of the shell: 
 
-c. Slit at anterior edge <tname>Emarginula</tname> 
+c. Slit at anterior edge Emarginula 
 
 cc. Slit at anterior middle: 
 
-d. Funnel around slit on inside <tname>Fiincuirella</tname> 
+d. Funnel around slit on inside Fiincuirella 
 
-dd. No funnel around slit <tname>Rimula</tname> 
+dd. No funnel around slit Rimula 
 
-Genus <tname>Ewarginula Lamarck 1801</tname> 
-<tname>Emargifiula phrixodes Dall</tname> Ruffled Rimula 
+Genus Ewarginula Lamarck 1801 
+Emargifiula phrixodes Dall Ruffled Rimula 
 
 Plate 17-0 
 
@@ -35,7 +35,7 @@ anterior slope of the shell near the margin. Base oval. Color translucentwhite. 
 
 
 
-<tname>FISSURELLIDAE</tname> 
+FISSURELLIDAE 
 
 
 
@@ -48,11 +48,11 @@ Miami area in 35 to 90 fathoms.
 
 
 
-<tname>Rimula frenulata Dall</tname> 
+Rimula frenulata Dall 
 
 
 
-Genus <tname>Rimula Def ranee 1827</tname> 
+Genus Rimula Def ranee 1827 
 
 Bridle Rimula 
 

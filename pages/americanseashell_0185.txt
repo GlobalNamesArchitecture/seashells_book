@@ -5,7 +5,7 @@ North Carolina to Florida, the Gulf States and the Caribbean.
 
 
 
-<tname>BURSIDAE</tname> 197 
+BURSIDAE 197 
 
 % to 2^2 inches in length; whorls distorted, aperture with grotesque 
 arrangement of the teeth; siphonal canal twisted. Whorls with coarse reticulate pattern. Parietal shield glossy, reticulated with raised threads, colored 
@@ -14,7 +14,7 @@ distorted body whorl which is more evenly rounded and more evenly knobbed
 or reticulated. The parietal wall is generally reticulated instead of pustuled. 
 Dredged from 5 to 65 fathoms. Frequently brought in by shrimp fisherman. 
 
-<tname>Distorsio constricta mcgintyi Emerson and Puffer 1953</tname> McGinty's Distorsio 
+Distorsio constricta mcgintyi Emerson and Puffer 1953 McGinty's Distorsio 
 
 Plate 2 52 
 
@@ -24,12 +24,12 @@ I to 2 inches in length, very close to clatbrata, but the body whorl is
 very distorted, bulging and with cruder nodules. The upper and inner corner 
 of the aperture usually has only one small, short, white tooth, while in clatbrata there are usually 2 fairly large, longer, obliquely set teeth. The lower 
 parietal wall has a deep, smooth, wide groove separating the two axial rows 
-of teeth. Commonly dredged from 25 to 125 fathoms. Formerly called <tname>D. 
--ftoridana Olsson and AlcGinty 1951</tname> (not floridana Gardner 1947). Typical 
+of teeth. Commonly dredged from 25 to 125 fathoms. Formerly called D. 
+-ftoridana Olsson and AlcGinty 1951 (not floridana Gardner 1947). Typical 
 constricta Broderip is from the Eastern Pacific. 
 
-Genus <tname>Charonia Gistel 1848</tname> 
-<tname>Charojiia tritonis nobilis Conrad</tname> Trumpet Triton 
+Genus Charonia Gistel 1848 
+Charojiia tritonis nobilis Conrad Trumpet Triton 
 
 Plate 5f 
 
@@ -37,15 +37,15 @@ Southeast Florida and the West Indies.
 
 Adults I to I % feet in length. The early whorls are purplish pink. In old 
 specimens these are usually lost. Adults usually have a swollen, angular 
-shoulder on the last whorl, a feature which distinguishes our Atlantic subspecies from the typical tritonis Linne of the Indo-Pacific area. <tname>C. atlantica 
-Bowdich</tname> is a synonym of the Pacific subspecies, despite the name. Rare in 
+shoulder on the last whorl, a feature which distinguishes our Atlantic subspecies from the typical tritonis Linne of the Indo-Pacific area. C. atlantica 
+Bowdich is a synonym of the Pacific subspecies, despite the name. Rare in 
 Florida; moderately common in the West Indies below low water. 
 
-Family <tname>BURSIDAE</tname> 
+Family BURSIDAE 
 
-Genus <tname>Bursa Roding 1798</tname> (= <tname>Ranella</tname>) 
+Genus Bursa Roding 1798 (= Ranella) 
 
-Subgrenus <tname>Bursa s. str.</tname> 
+Subgrenus Bursa s. str. 
 
 
 
@@ -53,7 +53,7 @@ Subgrenus <tname>Bursa s. str.</tname>
 
 
 
-<tname>Bursa thomae Orbigny</tname> St. Thomas Frog-shell 
+Bursa thomae Orbigny St. Thomas Frog-shell 
 
 Southeast Florida and the West Indies. 
 

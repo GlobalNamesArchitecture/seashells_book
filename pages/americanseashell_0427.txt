@@ -2,7 +2,7 @@ the narrowed, slightly twisted posterior end. Shell dull, chalky-white. Coni
 
 
 
-<tname>TELLINIDAE</tname> 
+TELLINIDAE 
 
 
 
@@ -21,16 +21,16 @@ sinus scar (see fig, 88g).
 
 
 
-Figure 88. American Macomas, showing interior scars, a, <tname>Macoiua brota Dall</tname>, 
-3 inches (Alaska to Washington); b, <tname>M. incongnm von Martens</tname>, i inches (Alaska 
-to Washington); c, <tname>M. secta Conrad</tname>, 3 inches (Pacific Coast); d, <tname>M. nasuta Conrad</tname>, 
-2 inches (Pacific Coast); e, <tname>M. inis Hanley</tname>, 2 inches (Pacific Coast); f, <tname>M. calcarea 
-Gmelin</tname>, 2 inches (Atlantic and Pacific Coasts); g, <tname>M. balthica Linne</tname>, i inch 
-(Atlantic and Pacific Coasts); h, <tname>M. planhisciila Grant and Gale</tname>, i inch (Alaska 
+Figure 88. American Macomas, showing interior scars, a, Macoiua brota Dall, 
+3 inches (Alaska to Washington); b, M. incongnm von Martens, i inches (Alaska 
+to Washington); c, M. secta Conrad, 3 inches (Pacific Coast); d, M. nasuta Conrad, 
+2 inches (Pacific Coast); e, M. inis Hanley, 2 inches (Pacific Coast); f, M. calcarea 
+Gmelin, 2 inches (Atlantic and Pacific Coasts); g, M. balthica Linne, i inch 
+(Atlantic and Pacific Coasts); h, M. planhisciila Grant and Gale, i inch (Alaska 
 
 to Washington). 
 
-<tname>Macoma balthica Linne</tname> Balthic Macoma 
+Macoma balthica Linne Balthic Macoma 
 
 Figure 88g 
 Arctic Seas to off Georgia. Bering Sea to off Monterey, California. 
@@ -39,7 +39,7 @@ Arctic Seas to off Georgia. Bering Sea to off Monterey, California.
 whitish, in some with a flush of pink, and with a thin, grayish periostracum 
 which readily flakes off. The shape is somewhat variable. A common intertidal and deep-water species. Compare muscle scars with those of calcarea. 
 
-<tname>Macoma tenta Say</tname> Tenta Macoma 
+Macoma tenta Say Tenta Macoma 
 
 Cape Cod to south half of Florida and the West Indies. 
 
@@ -50,11 +50,11 @@ Cape Cod to south half of Florida and the West Indies.
 /4 to % inch in length, fragile, elongate, white in color with a delicate 
 iridescence on the smooth exterior. Posterior and narrower end slightly 
 twisted to the left. This small, tellin-like species is very common in shallow 
-water in sand. <tname>M. soiileyetiana Recluz</tname> is the same. 
+water in sand. M. soiileyetiana Recluz is the same. 
 
-<tname>Macoma limiila Dall</tname> is very similar in size and shape, although somewhat 
+Macoma limiila Dall is very similar in size and shape, although somewhat 
 more elongate, and is distinguished by the finely granular external surface 
 of the valves. Commonly dredged from North Carolina to Florida. 
 
-<tname>Macoma constricta Bruguiere</tname> Constricted Macoma 
+Macoma constricta Bruguiere Constricted Macoma 
 

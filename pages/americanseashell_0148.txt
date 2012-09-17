@@ -12,7 +12,7 @@ water. The subspecies montereyense Bartsch (Crescent City south to Lower
 California) is glossy, whitish with brown maculations and is proportionately 
 shorter. 
 
-<tname>Bittium quadrifilatmn Carpenter</tname> Four-threaded Bittium 
+Bittium quadrifilatmn Carpenter Four-threaded Bittium 
 
 Monterey, Cahfornia, to Lower California. 
 
@@ -22,7 +22,7 @@ beaded as 4 to 5 small spiral threads cross them. The sculpturing may become
 faint at the very last third of the last whorl. Color reddish brown to gray. 
 A very common littoral species. 
 
-<tname>Bittium attenuatum Carpenter</tname> Slender Bittium 
+Bittium attenuatum Carpenter Slender Bittium 
 
 Forrester Island, Alaska, to Lower California. 
 
@@ -32,8 +32,8 @@ variable. Nuclear whorls with two smooth spiral cords. Early whorls have
 whorl, the cords gradually become smooth and flat-topped and resemble those 
 of eschrichti. Common just ofl^shore to 35 fathoms. 
 
-Subgenus <tname>Lirobitthmi Bartsch 191 1</tname> 
-<tname>Bittium interfossum Carpenter</tname> White Cancellate Bittium 
+Subgenus Lirobitthmi Bartsch 191 1 
+Bittium interfossum Carpenter White Cancellate Bittium 
 
 Monterey, California, to Lower California. 
 
@@ -42,10 +42,10 @@ connected by small axial and spiral threads or small cords. Base of shell with
 3 very strong, rounded, smooth spiral cords. Moderately common under 
 rocks at low tide. 
 
-Subfamily <tname>LITIOPINAE</tname> 
-Genus <tname>Litiopa Rang 1829</tname> 
+Subfamily LITIOPINAE 
+Genus Litiopa Rang 1829 
 
-<tname>Litiopa melanostojna Rang</tname> Brown Sargassum Snail 
+Litiopa melanostojna Rang Brown Sargassum Snail 
 
 Plate 2ik 
 
@@ -53,7 +53,7 @@ Pelagic in floating sargassum weed.
 
 
 
-<tname>CERITHIIDAE</tname> 157 
+CERITHIIDAE 157 
 
 %6 to % inch in length, fragile, light-brown; moderately elongate, with 
 7 whorls, the last being quite large. Nuclear whorls extremely small. Surface glossy, smooth, except for numerous, microscopic, incised spiral lines. 

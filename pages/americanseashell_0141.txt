@@ -1,5 +1,5 @@
 
-<tname>Caecum heptagonum Carpenter</tname> Heptagonal Caecum 
+Caecum heptagonum Carpenter Heptagonal Caecum 
 
 Figure 37!^ 
 
@@ -11,17 +11,17 @@ slightly concave. There are about 30 deeply cut circular lines around the
 
 
 
-<tname>CAECIDAE</tname> 149 
+CAECIDAE 149 
 
 shell, cutting across the ribs. Lip of aperture with one or two swollen axial 
 rings. 
 
-Subgenus <tname>Levia de Folin 1875</tname> 
+Subgenus Levia de Folin 1875 
 
 Rather thick, glossy, slightly curved shells; aperture minutely constricted; sculpture absent except for microscopic growth lines. The shells are 
-larger, heavier and not as bulbous as those in the subgenus <tname>Fartulum</tname>. 
+larger, heavier and not as bulbous as those in the subgenus Fartulum. 
 
-<tname>Caecum caroliniammj Dall</tname> Carolina Caecum 
+Caecum caroliniammj Dall Carolina Caecum 
 
 Figure 37c 
 
@@ -30,12 +30,12 @@ North Carolina to southern Florida.
 About 4.5 mm. in length, glossy, cream-white. Smooth except for microscopic growth lines. Apical plug sunk in at the posterior end of the shell and 
 with a sharp, horn-like projection. Aperture minutely constricted. 
 
-Subgenus <tname>Fartidiini Carpenter 1857</tname> 
+Subgenus Fartidiini Carpenter 1857 
 
 Shells very small, about 2 mm. in length, fragile, smooth, except for 
 microscopic growth lines; not swollen in the middle; and with a nonconstricted aperture facing to one side (oblique). 
 
-<tname>Caecum nebulosuin Rehder</tname> Mottled Caecum 
+Caecum nebulosuin Rehder Mottled Caecum 
 
 Figure 37f 
 
@@ -45,7 +45,7 @@ Missouri Key, Florida Lower Keys.
 plug which has a single, weak spur. Found under flat rocks imbedded in 
 tough, sticky marl. 
 
-<tname>Caecum orcutti Dall</tname> Orcutt's Caecum 
+Caecum orcutti Dall Orcutt's Caecum 
 
 Figure 37I 
 
@@ -55,6 +55,6 @@ San Pedro to Lower California.
 Shell stubby, slightly compressed laterally; aperture oblique; apical plug 
 dome-shaped. Color translucent-tan to yellow-brown. Moderately common. 
 
-<tname>Caecum occidentale Bartsch</tname> Western Caecum 
+Caecum occidentale Bartsch Western Caecum 
 
 Figure 37) 

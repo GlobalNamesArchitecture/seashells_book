@@ -28,8 +28,8 @@ square; southeast Florida and the West Indies cancellata Philippi
 4 to 4.5 mm.; glassy-white; depressed interspaces small, rounded; Texas 
 to the West Indies and Bermuda . sagraiana Orbigny 
 
-Family <tname>VITRINELLIDAE</tname> 
-Genus <tname>Vitrinella C. B. Adams 1850</tname> 
+Family VITRINELLIDAE 
+Genus Vitrinella C. B. Adams 1850 
 
 Shell minute, thin, depressed, umbihcate, and with 3 to 4 subtubular 
 whorls. The umbilicus has rather flattened walls and is usually bounded by a 
@@ -40,8 +40,8 @@ of The Nautilus.
 
 
 
-Subgenus <tname>Vitrinella s. str.</tname> 
-<tname>Vitrinella helicoidea C. B. Adams</tname> Helix Vitrinella 
+Subgenus Vitrinella s. str. 
+Vitrinella helicoidea C. B. Adams Helix Vitrinella 
 
 North Carolina to Florida and the West Indies. 
 
@@ -51,8 +51,8 @@ Columella strong, braced on the whorl above by a small, spreading callus.
 Outer lip thin, sharp. Not uncommon in shallow water. This is the type of 
 the genus. 
 
-Subgenus <tname>Circulus Jeffreys 1865</tname> 
-<tname>Vitrinella multistriata Verrill</tname> Threaded Vitrinella 
+Subgenus Circulus Jeffreys 1865 
+Vitrinella multistriata Verrill Threaded Vitrinella 
 
 Plate 17V 
 

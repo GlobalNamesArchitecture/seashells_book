@@ -7,8 +7,8 @@ strong, with a smooth, glossy surface except for microscopic, radial scratches.
 Exterior color either whitish or usually faintly rayed, or banded at the ventral margins with soft, creamy-orange. Inside polished white to yellowish. 
 Rare in Florida, fairly common in the West Indies. 
 
-Subgenus <tname>Tellinella Morch 1853</tname> 
-<tname>Tellina interrupta Wood</tname> Speckled Tellin 
+Subgenus Tellinella Morch 1853 
+Tellina interrupta Wood Speckled Tellin 
 
 Plate 40I 
 
@@ -20,7 +20,7 @@ at the posterior end where at the dorsal margin on the right valve there are
 with numerous small, prominent, zigzag specklings of purplish brown. Interior yellowish. Not uncommon in southeast Florida, but abundant in some 
 shallow West Indian bays. 
 
-<tname>Tellina idae Dall</tname> Ida's Tellin 
+Tellina idae Dall Ida's Tellin 
 
 Figures 87a, b; 28h 
 
@@ -33,9 +33,9 @@ valve) or a ridge at the dorsal margin and a furrow below it (left valve).
 Ligament elongate and sunk deeply into the long, deep dorsal-margin furrow. 
 Color grayish white. Moderately common. 
 
-Subgenus <tname>Angulus Miihlfeld 181 1</tname> 
+Subgenus Angulus Miihlfeld 181 1 
 
-<tname>Tellina agilis Stimpson</tname> Northern Dwarf Tellin 
+Tellina agilis Stimpson Northern Dwarf Tellin 
 
 Plate 30X; figure 86f 
 Gulf of St. Lawrence to North Carolina. 
@@ -44,11 +44,11 @@ Vs to Yz inch in length, moderately elongate, compressed, fairly fragile;
 glossy-white externally with an opalescent sheen. Interior white. Ligament 
 external and prominent. With a large rounded pallial sinus almost extending 
 to the anterior muscle scar. External sculpture of faint, microscopic, concentric, impressed lines. Commonly found washed on shore from Maryland 
-north. Formerly known as <tname>Tellina tenera Say</tname> and <tname>Angiiliis tener Say</tname> (not 
+north. Formerly known as Tellina tenera Say and Angiiliis tener Say (not 
 
 
 
-<tname>TELLINIDAE</tname> 
+TELLINIDAE 
 
 
 
@@ -57,4 +57,4 @@ north. Formerly known as <tname>Tellina tenera Say</tname> and <tname>Angiiliis 
 
 
 Schrank 1803 nor Leach 18 18). In 1858, W. Stimpson gave this species a 
-new name (Amer. Journ. Sci., vol. 25, p. 125). <tname>T. elucens Mighels</tname> might be 
+new name (Amer. Journ. Sci., vol. 25, p. 125). T. elucens Mighels might be 

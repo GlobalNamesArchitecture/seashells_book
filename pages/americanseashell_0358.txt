@@ -2,8 +2,8 @@
 which are generally longitudinally ridged on top. Left valve much flatter, 
 with 21 to 22 narrow, rounded ribs. Dredged from 10 to 75 fathoms. 
 
-Subgenus <tname>Patinopecten Dall 1898</tname> 
-<tname>Pecten caurinus Gould</tname> Giant Pacific Scallop 
+Subgenus Patinopecten Dall 1898 
+Pecten caurinus Gould Giant Pacific Scallop 
 
 Plate 29b 
 
@@ -20,8 +20,8 @@ edible deep-sea scallop of Alaska.
 
 
 
-Subgenus <tname>Amusiujn Roding 1798</tname> 
-<tname>Pecten papyraceus Gabb</tname> Paper Scallop 
+Subgenus Amusiujn Roding 1798 
+Pecten papyraceus Gabb Paper Scallop 
 
 The Gulf of Mexico and the West Indies. 
 
@@ -33,12 +33,12 @@ with yellow to cream margins or all white. Hinge line strongly arched.
 Rather rare in collections, but commonly brought up from several fathoms 
 by shrimp fishermen. 
 
-<tname>Pecten laurenti Gmelin</tname> (pi. 33f) from the Greater Antilles is larger, 
+Pecten laurenti Gmelin (pi. 33f) from the Greater Antilles is larger, 
 with a straight hinge line and with the lighter-colored valve more convex 
 than the darker valve. Rare. 
 
-Section <tname>Euvola Dall 1897</tname> 
-<tname>Pecten ziczac Linne</tname> Zigzag Scallop 
+Section Euvola Dall 1897 
+Pecten ziczac Linne Zigzag Scallop 
 
 Plate 33d 
 
@@ -53,7 +53,7 @@ Do not confuse with raveneli.
 
 
 
-<tname>Pecten raveneli Dall</tname> Ravenel's Scallop 
+Pecten raveneli Dall Ravenel's Scallop 
 
 Plate 33g 
 

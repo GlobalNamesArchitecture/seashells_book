@@ -1,8 +1,8 @@
 
 
 
-Genus <tname>Arene H. and A. Adams 1854</tname> 
-<tname>Arene cruentata Miihlfeld</tname> Star Arene 
+Genus Arene H. and A. Adams 1854 
+Arene cruentata Miihlfeld Star Arene 
 
 Southeast Florida and the West Indies. 
 
@@ -16,13 +16,13 @@ Umbilicus round, deep, and bordered by 3 spiral, beaded cords. Uncommon under ro
 The form <tlawname>vanhyningi Rehder</tlawname> from Sand Key, Key West, is pale graywhite with most red patches absent. It lacks fine, axial ridges on top of the 
 whorl which are usually present in the typical form. Uncommon. 
 
-<tname>Arene venustula Aguayo and Rehder</tname> (Miami to Puerto Rico) is similar 
+Arene venustula Aguayo and Rehder (Miami to Puerto Rico) is similar 
 to cruentata, but smaller, much more squat, chalky-white, and with two peripheral rows of blunt spines. The rows are very close to each other. Rare, 
 20 fathoms. 
 
 
 
-<tname>Arene gevmia Tuomcy and Holmes</tname> Gem Arene 
+Arene gevmia Tuomcy and Holmes Gem Arene 
 
 Plate lyq 
 
@@ -38,23 +38,23 @@ fathoms.
 
 
 
-<tname>TURBINIDAE</tname> 12 3 
+TURBINIDAE 12 3 
 
-<tname>Arene variabilis Dall</tname> Variable Arene 
+Arene variabilis Dall Variable Arene 
 
 Plate 17s 
 North Carolina to southeast Florida and the West Indies. 
 
-%6 inch in length, turbinate, similar to <tname>A. germna^</tname> but pure white in 
+%6 inch in length, turbinate, similar to A. germna^ but pure white in 
 color, with scale-hke beads, suture more deeply channeled, and with a more 
 rounded periphery. 1 2 very weak beads bordering the more open umbilicus. 
 The 3 spiral rows of beads on the whorl may be almost smooth in some 
 specimens. Very commonly dredged from 20 to 270 fathoms. 
 
-Subja7nily <tname>TURBININAE</tname> 
-Genus <tname>Turbo Linne 1758</tname> 
+Subja7nily TURBININAE 
+Genus Turbo Linne 1758 
 
-<tname>Turbo castaneus Gmelin</tname> Chestnut Turban 
+Turbo castaneus Gmelin Chestnut Turban 
 
 Plate 3g 
 North Carolina to Florida, Texas and the West Indies. 

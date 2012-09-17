@@ -13,10 +13,10 @@ other II small and plate-like. Uncommon (?) in New England.
 
 
 
-Family <tname>OKENIIDAE</tname> 
-Genus <tname>Ancula Loven 1846</tname> 
+Family OKENIIDAE 
+Genus Ancula Loven 1846 
 
-<tname>Ancula cristata Alder</tname> Atlantic Ancula 
+Ancula cristata Alder Atlantic Ancula 
 
 Plate i5f 
 
@@ -26,27 +26,27 @@ Yz inch in length, of a transparent watery white, smooth. Rhinophores
 with 8 to 10 leaves. 3 branchial plumes, tripinnate. Labial armature of rows 
 of imbricated hooks. Radula narrow, center naked, 25 to 27 rows of teeth; 
 inner pleural large, denticulate on the inner margin. Outer pleural tooth 
-small, smooth. <tname>A. sulpJmrea Stimpson</tname> is probably this species. On the northwest coast of Florida there is a <tname>Polycera {hummi Abbott)</tname> which superficially 
+small, smooth. A. sulpJmrea Stimpson is probably this species. On the northwest coast of Florida there is a Polycera {hummi Abbott) which superficially 
 resembles this species in external features, but its radula indicates its true 
 relationships. 
 
 
 
-<tname>DENDRONOTIDAE</tname> 307 
+DENDRONOTIDAE 307 
 
-<tname>Ancula pacifica MacFarland</tname> Pacific Ancula 
+Ancula pacifica MacFarland Pacific Ancula 
 
 California. 
 
-% inch in length, very similar to our figure of <tname>A. cristata</tname> (pi. i5f). 
+% inch in length, very similar to our figure of A. cristata (pi. i5f). 
 Color translucent-yellow with 3 narrow, orange lines on the anterior half 
 of the back, and one down the center of the back half. Rhinophores with 
 9 yellowish leaves. 3 branchial plumes. 4 (not 6) finger-like processes on 
 each side of the plumes. 35 rows of teeth in the radula. Center with a small 
 quadrangular plate, flanked by one large and one small pleural tooth. 
 
-Genus <tname>Hopkinsia MacFarland 1905 </tname>
-<tname>Hopkinsia rosacea MacFarland</tname> Hopkins' Doris 
+Genus Hopkinsia MacFarland 1905 
+Hopkinsia rosacea MacFarland Hopkins' Doris 
 
 Plate 16a 
 

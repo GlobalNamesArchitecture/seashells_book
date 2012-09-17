@@ -13,9 +13,9 @@ that it is straightened out with great rapidity. In some cases the animal
 may turn itself end over end. 
 
 Many types of clams are especially adapted to boring into hard clay, 
-shale, sandstone and concrete. The Date Mussels, <tname>Lithophaga</tname>, possess acidsecreting glands as an aid to penetrating limestone. The shell of the clam 
+shale, sandstone and concrete. The Date Mussels, Lithophaga, possess acidsecreting glands as an aid to penetrating limestone. The shell of the clam 
 would of course be dissolved by this acid were it not for the thick, protective 
-covering of periostracum. The Saxicave Borers, <tname>Hiatella</tname>, may live attached 
+covering of periostracum. The Saxicave Borers, Hiatella, may live attached 
 by a byssus on surfaces that they cannot penetrate, or they may bore into 
 soft rock. The boring of the adults is wholly mechanical and is accomplished 
 by rubbing the edges of their shell valves against the rock. Hiatella stays near 
@@ -29,7 +29,7 @@ of the body. Boring is accomplished by the two valves at the anterior end of
 the tunnel. The denticulated ridges of the shell are the cutting tools, and 
 the foot and muscles aid in rotating the shells back and forth. Burrowing 
 may progress at the rate of as much as four inches a month. In the genus 
-<tname>Bankia</tname>, at the posterior end of the worm-like animal there are two tiny, 
+Bankia, at the posterior end of the worm-like animal there are two tiny, 
 feathery pallets. These are used to plug the entrance of the burrow, thus 
 giving protection from enemies, changes in salinity or other adverse conditions. When the shipworm is undisturbed, the pallets are drawn inside 
 and the siphons extended into the water for breathing and feeding. 
@@ -46,11 +46,11 @@ Other MoUusks
 In addition to the bivalves and snail classes, the mollusks include three other 
 groups which are not so frequently seen at the seashore and whose combined 
 number of living species probably does not exceed two thousand. Two 
-of these classes, the <tname>Amphineiira</tname> or Chitons and the <tname>Scaphopoda</tname> or Tuskshells, are among the lowliest and most sluggish of the mollusks, but the 
-third class, the well-known <tname>Cephalopoda</tname>, including the squid and octopuses, 
+of these classes, the Amphineiira or Chitons and the Scaphopoda or Tuskshells, are among the lowliest and most sluggish of the mollusks, but the 
+third class, the well-known Cephalopoda, including the squid and octopuses, 
 contains the largest, fastest and most ferocious of all backboneless animals. 
 
-THE SQUID AND OCT 0?\JSYS— <tname>CEPHALOPODA</tname> 
+THE SQUID AND OCT 0?\JSYS— CEPHALOPODA 
 
 The octopuses and the giant squid have been spine-chilling characters 
 in adventure tales from the days of the ancient Greeks to the undersea film 

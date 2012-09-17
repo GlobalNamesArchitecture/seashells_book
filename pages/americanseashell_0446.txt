@@ -3,12 +3,12 @@
 
 452 American Seashells 
 
-Genus <tname>Ervilia Turton 1822</tname> 
+Genus Ervilia Turton 1822 
 
 Shell small, concentrically striate, and sometimes brightly hued. Ligament absent; resihum small and internal. Laterals small. Left cardinal large 
 and bifid or split. 
 
-<tname>Ervilia concentrica Gould</tname> Concentric Ervilia 
+Ervilia concentrica Gould Concentric Ervilia 
 
 North Carolina to both sides of Florida and the West Indies. 
 
@@ -17,17 +17,17 @@ same degree, and the beaks are central. There is a pinpoint depression just
 behind the glossy, inroUed beaks. Sculpture of fine, numerous concentric 
 ridges. Radial threads may be present to form tiny beads. Color white, 
 yellow or commonly with a pink blush. Common just offshore to 50 fathoms. 
-<tname>E. rostratula Rehder</tname> from Lake Worth, Florida, is similar, but the posterior 
+E. rostratula Rehder from Lake Worth, Florida, is similar, but the posterior 
 end is slightly more pointed. 
 
-Family <tname>HIATELLIDAE</tname> 
-Genus <tname>Hiatella Daudin 1801</tname> 
+Family HIATELLIDAE 
+Genus Hiatella Daudin 1801 
 
 Shell irregular due to nestling and burrowing habits. Texture chalky. 
-No definite teeth in the thickened hinge of the adults. Pallial line discontinuous; siphons naked and slightly separated at the tips. <tname>Saxicava Fleuriau 
-1802</tname> is the same. 
+No definite teeth in the thickened hinge of the adults. Pallial line discontinuous; siphons naked and slightly separated at the tips. Saxicava Fleuriau 
+1802 is the same. 
 
-<tname>Hiatella arctica Linne</tname> Arctic Saxicave 
+Hiatella arctica Linne Arctic Saxicave 
 
 Figure 92a 
 
@@ -42,7 +42,7 @@ PKODISSOCONCH
 
 
 Figure 92. The young shells of Hiatella reared under the same artificial conditions. 
-a, <tname>Hiatella arctica Linne</tname>; b, <tname>H. striata Fleuriau</tname>. (After M. Lebour 1938.) 
+a, Hiatella arctica Linne; b, H. striata Fleuriau. (After M. Lebour 1938.) 
 
 Generally i inch in length, but rarely 2 to 3 inches. A very variable 
 species in its shape. The young are rather evenly oblong, but the adults 
@@ -50,7 +50,7 @@ become oblong, oval or twisted and misshapen. The shell is elongate with
 
 
 
-<tname>HIATELLIDAE</tname> 45 3 
+HIATELLIDAE 45 3 
 
 the dorsal and ventral margins usually parallel to each other. A posterior 
 gape may be present. Beaks close together, about % back from the anterior 

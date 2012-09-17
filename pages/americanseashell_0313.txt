@@ -1,11 +1,11 @@
 numerous, fine, radial threads or rather smoothish. Color whitish with numerous, brown, bifurcating, radial lines. Interior glossy, similarly striped. 
-Center cream to brown. Muscle scar with 3 swellings, the gap occurring between the two at the side. Do not confuse with <tname>Acmaea leiicopleura</tname> which 
+Center cream to brown. Muscle scar with 3 swellings, the gap occurring between the two at the side. Do not confuse with Acmaea leiicopleura which 
 commonly has a blackish owl-shaped figure inside. Common along the shores 
-on rocks. This is <tname>S. ?iaufragum Stearns</tname> and <tname>S. lineolata Orbigny</tname>. 
+on rocks. This is S. ?iaufragum Stearns and S. lineolata Orbigny. 
 
 
 
-<tname>SIPHONARIIDAE</tname> 
+SIPHONARIIDAE 
 
 
 
@@ -15,10 +15,10 @@ on rocks. This is <tname>S. ?iaufragum Stearns</tname> and <tname>S. lineolata O
 
 
 
-Figure 65. Atlantic Coast False Limpets. Side and interior views of a, <tname>Siphonaria 
-alternata Say</tname>; b, <tname>S. pectinata Linne</tname>. Natural size. 
+Figure 65. Atlantic Coast False Limpets. Side and interior views of a, Siphonaria 
+alternata Say; b, S. pectinata Linne. Natural size. 
 
-<tname>Siphonaria alternata Say</tname> Say's False Limpet 
+Siphonaria alternata Say Say's False Limpet 
 
 Figure 65a 
 
@@ -36,17 +36,17 @@ CHAPTER VIII
 Coat-of-Mails 
 and Other Chitons 
 
-Class <tname>AMPHINEURA</tname> 
+Class AMPHINEURA 
 
 
 
-Order <tname>LEPIDOPLEURIDA</tname> 
+Order LEPIDOPLEURIDA 
 
-Family <tname>LEPIDOPLEURIDAE</tname> 
+Family LEPIDOPLEURIDAE 
 
-Genus <tname>Lepidoplemiis Risso 1826</tname> 
+Genus Lepidoplemiis Risso 1826 
 
-<tname>Lepidopleurus cancellatus Sowerby</tname> iVrctic Cancellate Chiton 
+Lepidopleurus cancellatus Sowerby iVrctic Cancellate Chiton 
 
 Greenland to the Gulf of Maine. Bering Sea to Oregon. 
 

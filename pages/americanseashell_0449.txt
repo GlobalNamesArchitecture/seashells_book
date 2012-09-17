@@ -1,6 +1,6 @@
 consequently irregular in shape in many instances. 
 
-<tname>Sphenia fragilis Carpenter</tname> Fragile Sphenia 
+Sphenia fragilis Carpenter Fragile Sphenia 
 
 Oregon to Mazatlan, Mexico. 
 
@@ -13,17 +13,17 @@ fathoms in mud. Common.
 
 456 American Seashells 
 
-<tname>Sphenia ovoidea Carpenter</tname> (Alaska to Panama) is half as large, smoother, 
+Sphenia ovoidea Carpenter (Alaska to Panama) is half as large, smoother, 
 and more ovoid in outline without the prominent snout. Uncommon. 
 
-Genus <tname>Cryptomya Conrad 1849</tname> 
+Genus Cryptomya Conrad 1849 
 
 Somewhat like a small, fragile My a, but more fragile, and the right 
 valve is larger and more obese than the left. Large chondrophore in the 
 left valve is thin, flat-topped with an anterior ridge. Posterior gape and pallial 
 sinus almost absent. Siphons very short. 
 
-<tname>Crypt077jya calijormca Conrad</tname> Californian Glass Mya 
+Crypt077jya calijormca Conrad Californian Glass Mya 
 
 Alaska to central Mexico. 
 
@@ -35,12 +35,12 @@ slightly nacreous in fresh specimens. Common in sand where it may live as
 deep as 20 inches. The short siphons enter the burrows of other marine 
 animals. 
 
-Genus <tname>Flatyodon Conrad 1837</tname> 
+Genus Flatyodon Conrad 1837 
 
 Shell somewhat resembling a very fat Mya, with a fairly thick shell, 
 rugose sculpturing and fairly small chondrophore. 
 
-<tname>Platyodon cancel!atiis Conrad</tname> Chubby Mya 
+Platyodon cancel!atiis Conrad Chubby Mya 
 
 Queen Charlotte Island, B.C., to San Diego, California. 
 
@@ -51,10 +51,10 @@ of left valve. Shell chalky and white; periostracum thin, yellowish brown
 to rusty, and rugose posteriorly. Moderately common near beds of pholads. 
 Lives in sand. 
 
-Family <tname>CORBULIDAE</tname> 
-Genus <tname>Varicorbida Grant and Ciale 193 1</tname> 
+Family CORBULIDAE 
+Genus Varicorbida Grant and Ciale 193 1 
 
-<tname>Varicorlnda operculata Philippi 1848</tname> Oval Corbula 
+Varicorlnda operculata Philippi 1848 Oval Corbula 
 
 North Carolina to the Gulf of Mexico and the West Indies. 
 

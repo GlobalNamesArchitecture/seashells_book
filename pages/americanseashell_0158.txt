@@ -1,13 +1,13 @@
-<tname>Hipponix barbatus Sowerby</tname> (Bearded Hoof-shell) from the same region 
+Hipponix barbatus Sowerby (Bearded Hoof-shell) from the same region 
 is limpet-shaped, with coarse, nodulated ribs which are largest on the anterior 
 slope of the shell. The edge of the shell is strongly serrated with cut lines. 
 The periostracum is very shaggy especially on the middle of the anterior slope. 
 Common. 
 
-Family <tname>VANIKOROIDAE</tname> 
-Genus <tname>Vanikoro Quoy and Gaimard 1832</tname> 
+Family VANIKOROIDAE 
+Genus Vanikoro Quoy and Gaimard 1832 
 
-<tname>Vanikoro oxychone Morch</tname> West Indian Vanikoro 
+Vanikoro oxychone Morch West Indian Vanikoro 
 
 Southeast Florida and the West Indies. 
 
@@ -17,13 +17,13 @@ cords on the last whorl. Small axial threads tend to give a slightly cancellate
 sculpture. Apex glassy and smooth. Suture well-indented. Uncommon in 
 shallow water. 
 
-Superjamily <tname>CALYPTRAEACEA</tname> 
+Superjamily CALYPTRAEACEA 
 
-Faimly <tname>TRICHOTROPIDAE</tname> 
+Faimly TRICHOTROPIDAE 
 
-Genus <tname>Trichotropis Broderip and Sby. 1829</tname> 
+Genus Trichotropis Broderip and Sby. 1829 
 
-<tname>Trichotropis borcalis Broderip and Sowerby</tname> Boreal Hairy-shell 
+Trichotropis borcalis Broderip and Sowerby Boreal Hairy-shell 
 
 Plate 24d 
 
@@ -36,7 +36,7 @@ chink-like, bordered by a large, spiral cord. Spire usually eroded badly.
 Numerous, crowded axial threads present. A common cold-water species 
 found from below low water to 90 fathoms. 
 
-<tname>Trichotropis cancellata Hinds</tname> Cancellate Hairy-shell 
+Trichotropis cancellata Hinds Cancellate Hairy-shell 
 
 Plate 24b 
 Bering Sea to Oregon. 
@@ -53,7 +53,7 @@ more than H the length of the shell. Periostracum thick, brown and with
 long spicules over the region of the cords. Commonly dredged in cold, 
 shallow water. 
 
-<tname>Trichotropis bicarinata Sowerby</tname> Two-keeled Hairy-shell 
+Trichotropis bicarinata Sowerby Two-keeled Hairy-shell 
 
 Plate 24a 
 

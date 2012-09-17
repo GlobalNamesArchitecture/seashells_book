@@ -10,13 +10,13 @@ the Carolinas and the west coast of Florida.
 
 
 
-<tname>Sinum maculatum Say</tname> Maculated Baby's Ear 
+Sinum maculatum Say Maculated Baby's Ear 
 
 Carolinas and west coast of Florida. 
 
 Similar to perspectivum, but shell not so flat, with weaker spiral sculpture, and colored dull-brown or with yellowish brown maculations. 
 
-<tname>Sinum scopulosum Conrad</tname> Western Baby's Ear 
+Sinum scopulosum Conrad Western Baby's Ear 
 
 Monterey to Todos Santos Bay, Lower California. 
 
@@ -24,20 +24,20 @@ I to 1/4 inches in length, 4 whorls, the early ones being very smooth,
 the last whorl very large. Numerous spiral grooves can be seen with the 
 naked eye. Shell chalky-white, but usually covered with a thin, yellowish, 
 translucent periostracum. The spire is more elevated and the whorls more 
-inflated than those in <tname>S. debile Gould</tname>, from Catalina Island to the Gulf of 
-California. <tname>S. scopulosum</tname> is moderately common, and is the same as <tname>S. californicum Oldroyd</tname>. 
+inflated than those in S. debile Gould, from Catalina Island to the Gulf of 
+California. S. scopulosum is moderately common, and is the same as S. californicum Oldroyd. 
 
 
 
-<tname>NATICIDAE</tname> 191 
+NATICIDAE 191 
 
-Subjainily <tname>NATICINAE</tname> 
+Subjainily NATICINAE 
 
-Genus <tname>Natica Scopoli 1777 </tname>
+Genus Natica Scopoli 1777 
 
-Subgenus <tname>Naticarius Dumeril 1806</tname> 
+Subgenus Naticarius Dumeril 1806 
 
-<tname>Natica canrena Linne</tname> Colorful Atlantic Natica 
+Natica canrena Linne Colorful Atlantic Natica 
 
 Plate 5I 
 
@@ -50,7 +50,7 @@ and its large round, internal callus white. Exterior of hard operculum with
 about 10 spiral grooves. Uncommon in eastern Florida; common in the West 
 Indies. 
 
-<tname>Natica livida Pfeiffer</tname> Livid Natica 
+Natica livida Pfeiffer Livid Natica 
 
 Plate 22-0 
 Southeast Florida, Caribbean and Bermuda. 

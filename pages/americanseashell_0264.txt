@@ -2,12 +2,12 @@ rather fuzzy, gray-brown periostracum. Aperture enamel-white. Uncommon from 16 t
 
 
 
-<tname>CANCELLARIIDAE</tname> 2 5 3 
+CANCELLARIIDAE 2 5 3 
 
-Genus <tname>Narona H. and A. Adams 1854</tname> 
-Subgenus <tname>Progabbia Dall 191 8</tname> 
+Genus Narona H. and A. Adams 1854 
+Subgenus Progabbia Dall 191 8 
 
-<tname>Narona cooperi Gabb </tname>Cooper's Nutmeg 
+Narona cooperi Gabb Cooper's Nutmeg 
 
 Plate 24y, figure 55c 
 
@@ -20,8 +20,8 @@ cream with a dozen or so narrow, brown spiral bands. Aperture orangecream. Outer
 the inside. An uncommon, deep-water species, occasionally brought up in 
 fish nets. Said to grow to 7 inches in length. 
 
-Genus <tname>Trigonostoma Blainville 1827 </tname>
-<tname>Trigonostoma tenerum Philippi</tname> Philippi's Nutmeg 
+Genus Trigonostoma Blainville 1827 
+Trigonostoma tenerum Philippi Philippi's Nutmeg 
 
 Figure 55d 
 
@@ -32,13 +32,13 @@ shouldered with the upper part of the whorl smooth and flat, and the sides
 with 3 to 5 spiral rows of strong nodules or blunt beads. Umbilicus very 
 deep and funnel-shaped. Color light orangish brown. Uncommon just offshore. 
 
-<tname>Trigonostoma rugosuin Lamarck</tname> (in the subgenus <tname>Bivetiella Wenz 1943</tname>) 
+Trigonostoma rugosuin Lamarck (in the subgenus Bivetiella Wenz 1943) 
 is similar, but heavier, whitish with brownish maculations, without an umbilicus, and with about 8 strong axial ribs crossed by spiral threads. Known as 
 the Rough Nutmeg. It is rare in most areas of the West Indies, and has not 
 been reported from the United States. 
 
-Genus <tname>Admete Kroyer 1842 </tname>
-<tname>Admete couth ouyi Jay</tname> Common Northern Admete 
+Genus Admete Kroyer 1842 
+Admete couth ouyi Jay Common Northern Admete 
 
 Figure 55a 
 
@@ -56,5 +56,5 @@ very deep water.
 
 254 American Seashells 
 
-Family <tname>MARGINELLIDAE</tname> 
+Family MARGINELLIDAE 
 

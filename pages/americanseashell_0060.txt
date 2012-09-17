@@ -55,6 +55,6 @@ shell in your collection into an object of rarity and opens the door to fascinat
 
 Honjo to Know American Seashells 71 
 
-auctions. If <tname>Anachis avara</tname> is swarming over an oyster bed, no one takes 
-particular note, but the mere mention of the Destructive Oyster Drill, <tname>Urosalpinx cinerea</tname>, brings the shell-fishery man to the scene to eliminate the pest. 
+auctions. If Anachis avara is swarming over an oyster bed, no one takes 
+particular note, but the mere mention of the Destructive Oyster Drill, Urosalpinx cinerea, brings the shell-fishery man to the scene to eliminate the pest. 
 

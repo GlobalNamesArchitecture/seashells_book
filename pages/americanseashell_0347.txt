@@ -1,19 +1,19 @@
 
-<tname>milLUS</tname> 
+milLUS 
 
 
 
 
 
-<tname>VOLSELLft</tname> <tname>BRACHI00NTE5</tname> 
+VOLSELLft BRACHI00NTE5 
 
 Figure 74. Hinges of some genera of mussels. 
 
-Suborder <tname>ANISOMYARIA</tname> 
-Superfamily <tname>MYTILACEA</tname> 
+Suborder ANISOMYARIA 
+Superfamily MYTILACEA 
 
-Family <tname>MYTILIDAE</tname> 
-Genus <tname>Crenella Brown 1827</tname> 
+Family MYTILIDAE 
+Genus Crenella Brown 1827 
 
 Shells small, oval to oblong-oval, thin, brownish periostracum and with 
 fine decussate radial ribs. Ligament weak, internal. Margins crenulated. In350 
@@ -30,7 +30,7 @@ worm-shaped with a disk-shaped end. Hinge finely dentate.
 
 
 
-<tname>Crenella faba O. F. Miiller</tname> 
+Crenella faba O. F. Miiller 
 
 Arctic Seas to Nova Scotia. 
 
@@ -48,13 +48,13 @@ reddish brown. Thin periostracum varnish-like. Byssus golden-brown. Common offsh
 
 
 
-FiGtJRE 75. Crenella Clams, a, <tname>Cre?iella faba Miiller</tname>, Y^ inch (Arctic waters); 
-b and c, <tname>Crenella glandula Totten</tname>, % inch (New England); d, <tname>Miisculus lateralis 
+FiGtJRE 75. Crenella Clams, a, Cre?iella faba Miiller, Y^ inch (Arctic waters); 
+b and c, Crenella glandula Totten, % inch (New England); d, Miisculus lateralis 
 
-Say</tname>, % inch (Atlantic Coast) 
+Say, % inch (Atlantic Coast) 
 
 
 
-<tname>Crenella glandula Totten</tname> 
+Crenella glandula Totten 
 
 Labrador to North Carolina. 

@@ -3,11 +3,11 @@ Columella with a single, strong spiral ridge near the base. Outer lip with half
 a dozen small grayish teeth which run back into the aperture. Very common 
 on oozy, warm mud flats. 
 
-Family <tname>FASCIOLARllDAE</tname> 
-Subfamily <tname>FASCIOLARIINAE</tname> 
-Genus <tname>Leucozonia Gray 1847</tname> 
+Family FASCIOLARllDAE 
+Subfamily FASCIOLARIINAE 
+Genus Leucozonia Gray 1847 
 
-<tname>Leucozonia nassa Gmelin</tname> Chestnut Latirus 
+Leucozonia nassa Gmelin Chestnut Latirus 
 
 Plate 1 1 1! 
 
@@ -15,16 +15,16 @@ Florida to Texas and the West Indies.
 
 
 
-<tname>FASCIOLARIIDAE</tname> 241 
+FASCIOLARIIDAE 241 
 
 iVi inches in length, heavy, squat, with its whorls shouldered by about 
 9 large nodules. Characterized by its semi-glossy, chestnut-brown color with 
 a faint, narrow spiral band of whitish at the base of the shell which terminates 
 into a small, distinct spine on the outer lip. Columella with 4 weak folds 
 at the base. Aperture yellowish tan within. Common among rocks at low 
-tide. Alias <tname>L. cingulifera Lamarck</tname>. 
+tide. Alias L. cingulifera Lamarck. 
 
-<tname>Leucozonia ocellata Gmelin</tname> White-spotted Latirus 
+Leucozonia ocellata Gmelin White-spotted Latirus 
 
 Plate 1 1 e 
 
@@ -36,8 +36,8 @@ and about 3 or 4 spiral rows of smaller white squares on the base of the shell.
 Base of columella with 3 small folds. Apex usually worn white. A common 
 intertidal species found under rocks. 
 
-Genus <tname>Latirus Montfort 18 10</tname> 
-<tname>Latirus mcgintyi Pilsbry</tname> McGinty's Latirus 
+Genus Latirus Montfort 18 10 
+Latirus mcgintyi Pilsbry McGinty's Latirus 
 
 Plate lib 
 
@@ -50,7 +50,7 @@ yellow. Umbilicus variable, but usually funnel-shaped. Each whorl with
 and 4 cords on the wide periphery of the last whorl. Numerous fine spiral 
 threads present. Lower columella with 2 weak folds. Uncommon. 
 
-<tname>Latirus infundibulum Gmelin</tname> Brown-lined Latirus 
+Latirus infundibulum Gmelin Brown-lined Latirus 
 
 Plate 1 1 a 
 

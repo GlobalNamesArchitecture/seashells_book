@@ -1,8 +1,8 @@
-Genus <tname>Argobiiccinwn Bruguiere 1792</tname> 
+Genus Argobiiccinwn Bruguiere 1792 
 
-Subgenus <tname>Fusitriton Cossmann 1903</tname> 
+Subgenus Fusitriton Cossmann 1903 
 
-<tname>Argobuccinu?/! oregoveiisc Redfield</tname> Oregon Triton 
+Argobuccinu?/! oregoveiisc Redfield Oregon Triton 
 
 Plate 24g 
 
@@ -15,15 +15,15 @@ bristle-like and gray-brown. Aperture and siphonal canal interiors are
 
 
 
-<tname>CYMATIIDAE</tname> 195 
+CYMATIIDAE 195 
 
 enamel-white. Enamel, single tooth on parietal wall near the top of the aperture. Operculum chitinous, thick, brown. A common offshore species in 
 its northern range. 
 
-Genus <tname>Cymatium Roding 1798</tname> 
-Subgenus <tname>Cymatiufn s. str.</tname> 
+Genus Cymatium Roding 1798 
+Subgenus Cymatiufn s. str. 
 
-<tname>Cymatium femorale Linne</tname> Angular Triton 
+Cymatium femorale Linne Angular Triton 
 
 Plate 5d 
 
@@ -35,8 +35,8 @@ Columella with i small fold and above it sometimes several much smaller
 ones. Color varies from brownish to reddish orange. Not uncommon in the 
 West Indies in shallow water among eel-grass. 
 
-Subgenus <tname>La?npusia Schumacher 1817</tname> 
-<tname>Cymatium martinianum Orbigny</tname> Atlantic Hairy Triton 
+Subgenus La?npusia Schumacher 1817 
+Cymatium martinianum Orbigny Atlantic Hairy Triton 
 
 Plate 9I 
 
@@ -45,16 +45,16 @@ North Carolina to southeast Florida and the West Indies.
 1% to 3 inches in length; old varices strong, beaded, and spaced % of 
 a whorl apart. Spiral sculpture of a dozen or so squarish, irregularly sized, 
 weakly beaded cords. Aperture orange-brown with the parietal area darkbrown between the white teeth. Periostracum very thick, matted, lightbrown. The embryonic shell is about 4 mm. in length, glossy-brown, with 
-a flaring lip which has a small stromboid notch. <tname>Dissentoma prima Pilsbry 
-1 945</tname> is this species. <tname>C. velei Calkins</tname> is also a synonym. <tname>C. aquatile Reeve</tname> and 
-<tname>C. pileare Linne</tname> are names applied to Indo-Pacific forms, and not this species. 
+a flaring lip which has a small stromboid notch. Dissentoma prima Pilsbry 
+1 945 is this species. C. velei Calkins is also a synonym. C. aquatile Reeve and 
+C. pileare Linne are names applied to Indo-Pacific forms, and not this species. 
 Common in shallow water. 
 
-Do not confuse with <tname>C. chlorostomum</tname> which has just inside its outer lip 
+Do not confuse with C. chlorostomum which has just inside its outer lip 
 a series of single, rather large, whitish teeth, instead of smaller, paired, 
 yellowish brown teeth. 
 
-<tname>Cymatium gracile Reeve</tname> Dwarf Hairy Triton 
+Cymatium gracile Reeve Dwarf Hairy Triton 
 
 Plate 2511 
 

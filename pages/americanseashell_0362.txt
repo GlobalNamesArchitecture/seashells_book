@@ -6,10 +6,10 @@ raised threads. Exterior yellowish gray to purplish gray or dirty-white.
 This is the common, edible, deep-sea scallop fished off our New England 
 coasts. The name grandis Solander is nude and cannot be used. 
 
-Genus <tname>Lyropecten Conrad 1862 </tname>
-Subgenus <tname>Lyropecten s. str.</tname> 
+Genus Lyropecten Conrad 1862 
+Subgenus Lyropecten s. str. 
 
-<tname>Lyropecten antillarum Recluz</tname> Antillean Scallop 
+Lyropecten antillarum Recluz Antillean Scallop 
 
 Plate 34g 
 
@@ -20,8 +20,8 @@ Only about 15 moderately rounded, low ribs. Growth lines exceedingly
 fine (seen with the aid of a strong lens). Color either pastel-yellow, tawnyorange or light-brown, commonly with chalk-white mottlings, flecks or 
 stripes. Found uncommonly in shallow water. 
 
-Subgenus <tname>Nodipecten Dall 1898</tname> 
-<tname>Lyropecten nodosiis Linnc</tname> Lion's Paw 
+Subgenus Nodipecten Dall 1898 
+Lyropecten nodosiis Linnc Lion's Paw 
 
 Plate 33b 
 
@@ -32,10 +32,10 @@ the 7 to 9 large, coarse ribs which have large, hollow nodules. The entire
 shell also has numerous, much smaller, but distinct, riblets. The color is 
 commonly dark maroon-red, but may be bright-red or orange. Fairly common offshore, especially on the west coast of Florida, 
 
-Genus <tname>Aeqiiipecten P. Fischer 1887</tname> 
-Subgenus <tname>Aeqiiipecten s. str.</tname> 
+Genus Aeqiiipecten P. Fischer 1887 
+Subgenus Aeqiiipecten s. str. 
 
-<tname>Aequipecten glyptus Verrill</tname> Tyron's Scallop 
+Aequipecten glyptus Verrill Tyron's Scallop 
 
 Plate 33a 
 
@@ -46,13 +46,13 @@ slightly prickled ribs, but become flattened and indistinct or absent near the
 
 
 
-<tname>PECTINIDAE</tname> 367 
+PECTINIDAE 367 
 
 margin of the valve. One valve pure-white, the other with broad, rose rays 
 corresponding to the ribs. Internally white and with weak, fine ribs. Rare, 
-but has been brought in by commercial trawlers. This is <tname>P. tryoni Dall</tname>. 
+but has been brought in by commercial trawlers. This is P. tryoni Dall. 
 
-<tname>Aequtpecten phrygius Dall</tname> Spathate Scallop 
+Aequtpecten phrygius Dall Spathate Scallop 
 
 Off Cape Cod to east Florida and the West Indies. 
 

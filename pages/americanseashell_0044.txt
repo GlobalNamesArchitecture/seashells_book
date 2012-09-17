@@ -7,21 +7,21 @@ expansion and contraction are controlled by the nervous system. Emotion,
 excitation or response to the color of surrounding objects will effect the 
 color changes in the octopus. Among the deep-water squid, many of which 
 are phosphorescent, gorgeous underwater pyrotechnics are frequently displayed which far outshine the brightest of fireflies and glowworms. Specimens 
-of <tname>Lycoteuthis</tname> brought up from considerable depths and kept alive in chilled 
+of Lycoteuthis brought up from considerable depths and kept alive in chilled 
 water have had their photographs taken by their own light. The body looks 
 as if it were adorned by a diadem of brilliant gems. The middle organs of 
 the eyes shine with ultramarine blue, the lateral ones with a pearly sheen. 
 Those toward the front of the lower surface of the body give out a ruby-red 
 light, while those behind are snow-white or pearly, with the exception of 
-the middle organ which is sky-blue. Some squid have astonishingly complex bull's-eye lanterns; others have mirrored searchlights. A species of <tname>Heteroteuthis</tname> is able to spurt out a luminous secretion from its funnel and the 
+the middle organ which is sky-blue. Some squid have astonishingly complex bull's-eye lanterns; others have mirrored searchlights. A species of Heteroteuthis is able to spurt out a luminous secretion from its funnel and the 
 jet of water following it draws out the bright globules into long, shining 
 threads. 
 
 The sexes in the cephalopods are separate, except for two or three 
 isolated examples. In most of the species females are much more numerous, 
-the ratio of females to males being loo to 15 in some species of the <tname>Loligo</tname> 
-squid and 100 to 25 in some of the <tname>Octopus</tname>. The most outstanding feature 
-is the morphological differences between the two sexes. In the <tname>Argonauta</tname> 
+the ratio of females to males being loo to 15 in some species of the Loligo 
+squid and 100 to 25 in some of the Octopus. The most outstanding feature 
+is the morphological differences between the two sexes. In the Argonauta 
 or Paper Nautilus, the females are 10 to 15 times as large as the males which 
 completely lack the beautiful shell used by females for storing eggs. The 
 
@@ -42,8 +42,8 @@ of several inches in length. These sacs find their way in some unknown
 manner into the hectocotylus arm. Each sac contains a tiny, coiled, springlike filament which spews the ripe sperm out of the sac. 
 
 The eggs of the cephalopods are laid in various ways. They may be 
-single and floating in the pelagic species, such as <tname>Oegopsida</tname>, congregated 
-together in a shelly nest as in <tname>Argonmita</tname>, laid in jelly tubes as in the Loligo 
+single and floating in the pelagic species, such as Oegopsida, congregated 
+together in a shelly nest as in Argonmita, laid in jelly tubes as in the Loligo 
 squid, or anchored in grape-like bunches under rock ledges as in the Octopus. The embryo emerges from the tgg fully developed and does not have 
 a free veliger stage. With the aid of a lens it is possible to see the beautiful 
 splotches of bright chromatophores in the skin of the tiny young even before 
@@ -52,7 +52,7 @@ the squid tgg strings from one female may contain over 40,000 eggs. Some
 species of octopuses take pains to watch over their brood of eggs and from 
 time to time may carefully go over them with their tentacles to remove dirt. 
 
-THE CHn01<iS—<tname>AMPHINEURA</tname>
+THE CHn01<iS—AMPHINEURA
 
 Amateurs and professionals alike have found the chitons or coat-of-mail 
 shells an extremely interesting and fruitful field of study, and no collection 

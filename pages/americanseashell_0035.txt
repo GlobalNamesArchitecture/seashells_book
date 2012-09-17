@@ -5,12 +5,12 @@ dry by receding tides or exposed to water heavily charged with silt spend
 considerably less time feeding. During cold periods, when the water temperature falls below 40° F, the oyster goes into a state of hibernation, and it 
 ceases to feed because of the lack of coordination of the ciliary motion along 
 the surface of the gills. Under ideal conditions, the Giant Pacific Oyster 
-(<tname>Crassostrea gigas</tname>) filters 5% quarts of water per hour at 77° F (i quart at 
+(Crassostrea gigas) filters 5% quarts of water per hour at 77° F (i quart at 
 34° F). In a year, the total amount would fill a 1 0,000-gallon tank car. 
 
 Perhaps the most startling modification of obtaining food nutrients is 
-exhibited in the giant <tname>Tridacna</tname> clams of the Indo-Pacific reefs. These clams 
-literally "farm" colonies of brown-colored algal plants (<tname>Zooxajitbellae</tname>) in 
+exhibited in the giant Tridacna clams of the Indo-Pacific reefs. These clams 
+literally "farm" colonies of brown-colored algal plants (Zooxajitbellae) in 
 their huge, exposed mantle edges. Unlike most clams, the Tridacnas spread 
 their valves open and expose their mantles to as much sunlight as possible 
 for the benefit of these single-celled seaweeds. In addition, small, fleshy 
@@ -22,27 +22,27 @@ transported to the digestive gland for absorption as food. The giant clams
 also feed in the conventional gill-to-mouth manner and are therefore not 
 entirely dependent on the algae. The algae, however, must have a clam 
 as a host in order to survive. This peculiar symbiosis is found to a lesser 
-extent in the Bear Paw Clam (<tname>Hippopus</tname>), the Heart Cockle (<tname>Corculum</tname>) and 
-the nudibranch, <tname>Phestilla</tname>. This phenomenon is not to be confused with the 
+extent in the Bear Paw Clam (Hippopus), the Heart Cockle (Corculum) and 
+the nudibranch, Phestilla. This phenomenon is not to be confused with the 
 pathologic entry of the parasitic blue-green algae in fresh-water mussels, 
-<tname>Anodonta</tname> and <tname>Unio</tname>. 
+Anodonta and Unio. 
 
 While the gills are the main organs for catching, sorting and transporting 
 food in the majority of clams, they are limited to respiratory functions in 
-a few groups. The smallest and most inefficient gills are found in the primitive protobranchs {<tname>Nuctila</tname>, <tname>Nuculana</tname>, etc.) and in the small, highly evolved 
+a few groups. The smallest and most inefficient gills are found in the primitive protobranchs {Nuctila, Nuculana, etc.) and in the small, highly evolved 
 
 
 
 38 American Se ash ells 
 
-septibranch clams (<tname>Poromya</tname> and <tname>Cuspidaria</tname>). In order to make up for the 
+septibranch clams (Poromya and Cuspidaria). In order to make up for the 
 loss of efficient food-gathering gills, the palps near the mouth have become 
 
 
 
 
 
-Figure 14. The pair of proboscides in the Nut Clams, <tname>Nucula</tname>, sweep up food and 
+Figure 14. The pair of proboscides in the Nut Clams, Nucula, sweep up food and 
 transport it to the mouth. The gills are not used in gathering food as in the majority 
 of clams, a, X5; b and c, ends of the proboscides. Xio. (After K. Hirasaka 1927.) 
 
@@ -50,8 +50,8 @@ very specialized. In the Nucula Nut Clams, a pair of strong, muscular, contracti
 moving about freely in all directions. Food material is picked up by the tip 
 and is carried swiftly down a large groove in the proboscis to a palp pouch 
 and then to the stomach by means of minute cilia. E. S. Morse very aptly 
-described the action of these appendages in our Atlantic Nut Clam, <tname>Nucula 
-proxima</tname>: 
+described the action of these appendages in our Atlantic Nut Clam, Nucula 
+proxima: 
 
 Without seeing the behaviour of these appendages it is difficult to appreciate the remarkable action of these feeding organs. The graceful movements of these beautiful and translucent appendages, exceeding the length 
 of the shell, sweeping rapidly the bottom of the dish in which they are 

@@ -1,8 +1,8 @@
-Genus <tname>MargiJiella Lamarck 1799</tname> 
+Genus MargiJiella Lamarck 1799 
 
-Subgenus <tname>Eratoidea Weinkauff 1879</tname> 
+Subgenus Eratoidea Weinkauff 1879 
 
-<tname>Marginella haematka Kiener</tname> Carmine Marginella 
+Marginella haematka Kiener Carmine Marginella 
 
 Figure 56a 
 
@@ -11,9 +11,9 @@ Southeast Florida and the West Indies.
 ^ inch in length, characterized by its glossy, bright and deep rose color, 
 4 strong columella teeth, pointed spire and thickened outer lip whose inner 
 edge bears about 15 small, round teeth. Uncommon from 25 to 90 fathoms. 
-<tname>M. philtata M. Smith</tname> and <tname>M. jaspidea Schwengel</tname> are probably this species. 
+M. philtata M. Smith and M. jaspidea Schwengel are probably this species. 
 
-<tname>Marginella denticulata Conrad</tname> Tan Marginella 
+Marginella denticulata Conrad Tan Marginella 
 
 Figure 56c 
 
@@ -22,9 +22,9 @@ North Carolina to both sides of Florida and the West Indies.
 % inch in length, similar to haematita, but with a longer spire, only 7 to 
 9 teeth on the outer lip, with a shallow U-shaped notch at the top of the 
 aperture, and the entire shell is yellow-tan to whitish. Uncommon from low 
-tide to 600 fathoms. <tname>M. eburneola Conrad</tname> is this species. 
+tide to 600 fathoms. M. eburneola Conrad is this species. 
 
-<tname>Marginella aureocincta Stearns</tname> Golden-lined Marginella 
+Marginella aureocincta Stearns Golden-lined Marginella 
 
 Figure 56b 
 
@@ -36,8 +36,8 @@ the aperture. Columella with 4 strong folds or teeth. Color translucentwhite, wi
 whorl (i showing in the whorls of the spire). A very common species from 
 low-water line to 90 fathoms. 
 
-Genus <tname>Fnmwn Herrmannsen 1852</tname> 
-<tname>Prunu77J carneum Storer</tname> Orange Marginella 
+Genus Fnmwn Herrmannsen 1852 
+Prunu77J carneum Storer Orange Marginella 
 
 Plate Ilk 
 Southeast Florida and the West Indies. 
@@ -47,7 +47,7 @@ Apex half covered by a callus of enamel. Lower third of columella with 4
 strong, slanting teeth. Shell bright orange with a faint, narrow, whitish, 
 spiral band on the middle of the whorl and one just below the suture. Uncommon in Florida on reef flats to 6 fathoms. 
 
-<tname>Frunum roosevelti Bartsch and Rehder</tname> Roosevelt's Marginella 
+Frunum roosevelti Bartsch and Rehder Roosevelt's Marginella 
 
 Plate ii-o 
 
@@ -56,5 +56,5 @@ The Bahamas.
 
 
 
-Figure 56. Marginellas. a, <tname>Marginella haematita Kiener</tname>; b, <tname>M. aureocincta Stearns</tname>; 
-c, <tname>M. dejjticulta Conrad</tname>; d, <tname>Prunum bellmn Conrad</tname>; e, <tname>Frunum amabile Redfield</tname>; 
+Figure 56. Marginellas. a, Marginella haematita Kiener; b, M. aureocincta Stearns; 
+c, M. dejjticulta Conrad; d, Prunum bellmn Conrad; e, Frunum amabile Redfield; 

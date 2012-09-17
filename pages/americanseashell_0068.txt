@@ -12,7 +12,7 @@ Pelecypod Features
 Shape of shell. In most families of bivalves, the shape of the shell is 
 extremely important as a species character, and only in a few groups, such 
 as the oysters and mussels, is shape so variable within a species as to be of 
-little taxonomic value. Shape of shell, as a whole, is of little value in determining families or genera, except in a few instances such as <tname>Pecten</tname>, <tname>Spondylus</tname> and <tname>Pinna</tname>. 
+little taxonomic value. Shape of shell, as a whole, is of little value in determining families or genera, except in a few instances such as Pecten, Spondylus and Pinna. 
 
 Parts of the shell. The two valves of a clam are bound together by a 
 brown, chitinous ligament, and usually hooked together by a hinge which is 

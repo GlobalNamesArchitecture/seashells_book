@@ -1,5 +1,5 @@
 
-<tname>Laevicardium laevigatum Linne</tname> Common Egg Cockle 
+Laevicardium laevigatum Linne Common Egg Cockle 
 
 Plate 39k 
 
@@ -15,7 +15,7 @@ mottled with brown or flushed with purple, yellow or burnt-orange. Interior
 similarly colored. With about 60 very fine, subdued radial ribs. A common 
 shallow-water species. The name serratiim Linne has been erroneously applied to our Atlantic species by some workers. 
 
-<tname>Laevicardium vtortoni Conrad</tname> Morton's Egg Cockle 
+Laevicardium vtortoni Conrad Morton's Egg Cockle 
 
 Plate 39I 
 
@@ -26,7 +26,7 @@ with brown, zigzag markings and with fine, concentric ridges which are
 minutely pimpled. Common in southern New England from shallow water 
 to 2 fathoms. A food of wild ducks. 
 
-<tname>Laevicardium pictmn Ravenel</tname> Ravenel's Egg Cockle 
+Laevicardium pictmn Ravenel Ravenel's Egg Cockle 
 
 South Carolina to southeast Florida and the West Indies. 
 
@@ -37,10 +37,10 @@ brown, zigzag streaks. Beaks very low and near the anterior end. Very
 faint radial and concentric lines present. Dredged from 75 to 85 fathoms. 
 An uncommon and attractive species. 
 
-<tname>Laevicardium sybariticum Dall 1886</tname> (Dall's Egg Cockle, rare, same 
+Laevicardium sybariticum Dall 1886 (Dall's Egg Cockle, rare, same 
 range), is more inflated, squarish in shape and with deep-pink breaks. 
 
-<tname>Laevicardium substriatum Conrad</tname> Common Pacific Egg Cockle 
+Laevicardium substriatum Conrad Common Pacific Egg Cockle 
 
 Ventura County, California, to the Gulf of California. 
 
@@ -49,7 +49,7 @@ Color tan with closely set, narrow, radial bands of reddish brown. These
 lines are commonly interrupted. Interior cream with cobwebby mottlings 
 of purplish brown. Very common in such localities as Mission Bay and Newport. 
 
-<tname>Laevicardium elatum Sowerby</tname> Giant Pacific Egg Cockle 
+Laevicardium elatum Sowerby Giant Pacific Egg Cockle 
 
 San Pedro, California, to Panama. 
 

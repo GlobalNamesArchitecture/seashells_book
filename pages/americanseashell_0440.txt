@@ -2,12 +2,12 @@ with a dull, yellowish-gray periostracum. Outer surface sculptured with
 
 
 
-<tname>MACTRIDAE</tname> 445 
+MACTRIDAE 445 
 
 coarse, concentric, irregular lines and with sharp, small, oblique, wavy 
 threads. Uncommon offshore. 
 
-<tname>Solecurtus sanctaemarthae Orbigny</tname> St. Martha's Razor Clam 
+Solecurtus sanctaemarthae Orbigny St. Martha's Razor Clam 
 
 Plate 3oi 
 
@@ -17,30 +17,30 @@ North CaroHna to southeast Florida and the West Indies.
 high (instead of iV-j. times) and in having stronger sculpturing. Uncommon 
 from shallow water to 2 5 fathoms. 
 
-Super fa77nly <tname>MACTRACEA</tname> 
-Family <tname>MACTRIDAE</tname> 
+Super fa77nly MACTRACEA 
+Family MACTRIDAE 
 
-Key to Some Genera of <tname>Mactridae</tname> 
+Key to Some Genera of Mactridae 
 
-a. Ligament entirely internal <tname>Mulinia</tname> 
+a. Ligament entirely internal Mulinia 
 
 aa. Ligament partially external 
 
 b. Chondrophore set off from ligament by a thin shelly plate: 
 
-c. Posterior rostrate; shell thin and fragile .... <tname>Labiosa</tname> 
-cc. Both ends rounded; shell thick <tname>Mactra</tname> 
+c. Posterior rostrate; shell thin and fragile .... Labiosa 
+cc. Both ends rounded; shell thick Mactra 
 
-bb. Chondrophore not set off by a plate <tname>Spisula</tname> 
-
-
+bb. Chondrophore not set off by a plate Spisula 
 
 
 
-Figure 89. Hinge of the Atlantic Fragile Mactra, <tname>Mactra fragilis Gmelin</tname>, 2 inches. 
 
-Genus <tname>Mactra Linne 1767</tname> 
-<tname>Mactra fragilis Gmelin</tname> Fragile Atlantic Mactra 
+
+Figure 89. Hinge of the Atlantic Fragile Mactra, Mactra fragilis Gmelin, 2 inches. 
+
+Genus Mactra Linne 1767 
+Mactra fragilis Gmelin Fragile Atlantic Mactra 
 
 Plate 32s; figure 89 
 
@@ -51,7 +51,7 @@ the dorsal margin of the valve. With a fairly large posterior gape. Color
 cream-white, with a thin, silky, grayish periostracum. A4oderately common 
 in shallow water. Rarely reaches 4 inches in length. 
 
-<tname>Mactra calijornica Conrad</tname> Californian Mactra 
+Mactra calijornica Conrad Californian Mactra 
 
 Figure 9od 
 

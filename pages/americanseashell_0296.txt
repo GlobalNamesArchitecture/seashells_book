@@ -1,60 +1,60 @@
 
-e,<tname> Tiirbonilla {Fyrgolampros) chocolata Carpenter</tname>. Chocolate Turbonille. 12 
+e, Tiirbonilla {Fyrgolampros) chocolata Carpenter. Chocolate Turbonille. 12 
 
 mm.; shiny, golden brown, with 2 or 3 spiral bands of lighter color. Monterey 
 
 to San Diego. Shore to 25 fathoms. Uncommon. 
-f, <tname>Tw'bomlla {Monmila) tridentata Carpenter</tname>. Three-toothed Turbonille. 10 
+f, Tw'bomlla {Monmila) tridentata Carpenter. Three-toothed Turbonille. 10 
 
 mm.; chestnut; obscurely banded; minutely reticulated; 3 folds on white 
 
 columella. Monterey to Lower California. Shore to 40 fathoms. Common. 
-g, <tname>Odostomia {Evalwa) a?nericana D. and B.</tname> American Odostome. 3 mm.; milky 
+g, Odostomia {Evalwa) a?nericana D. and B. American Odostome. 3 mm.; milky 
 
 white. San Pedro to Lower California. Shore to 10 fathoms. Uncommon. 
-h, <tname>Odostomia (Aliralda) aepynota D. and B.</tname> Tower Odostome. 2 mm.; translucent. San Pedro to Lower California. Shore to 12 fathoms. Uncommon. 
-i, <tname>Odostomia (Odostoinia) farella D. and B.</tname> Farelle Odostome. 3 mm.; white; 
+h, Odostomia (Aliralda) aepynota D. and B. Tower Odostome. 2 mm.; translucent. San Pedro to Lower California. Shore to 12 fathoms. Uncommon. 
+i, Odostomia (Odostoinia) farella D. and B. Farelle Odostome. 3 mm.; white; 
 
 fine growth lines only. Off Long Beach. Rare. 
-j, <tname>Odostoima (Evalea) phanea D. and B.</tname> Phanea Odostome. 5 mm.; milky white. 
+j, Odostoima (Evalea) phanea D. and B. Phanea Odostome. 5 mm.; milky white. 
 
 Monterey to San Diego. On rocks and abalones. Common. 
-k, <tname>Turbonilla (Pyrgisciis) aragoni D. and B.</tname> Aragon Turbonille. 7 mm.; milky 
+k, Turbonilla (Pyrgisciis) aragoni D. and B. Aragon Turbonille. 7 mm.; milky 
 
 white; lower half of whorls brown, upper half flesh-colored. Base with 
 
 1 5 spiral lines. Monterey to Redondo Beach. 10 to 40 fathoms. Uncommon. 
-1,<tname> Tiirbojiilla (Bartschella) lajimiata Carpenter</tname>. Laminate Turbonille. 7 mm.; 
+1, Tiirbojiilla (Bartschella) lajimiata Carpenter. Laminate Turbonille. 7 mm.; 
 
 apex waxy yellow; last whorl brown; columella white. Redondo Beach to 
 
 Lower California. Shore to 25 fathoms. Common. 
-m, <tname>Odostomia (Ividella) pedroana D. and B.</tname> San Pedro Odostome. 7 mm.; chocolate-brown. San Pedro to Lower California. Shore to 1 2 fathoms. Common. 
-n, <tname>Odostomia (Chrysallida) helga D. and B.</tname> H'^lga Odostome. 5 mm.; milky 
+m, Odostomia (Ividella) pedroana D. and B. San Pedro Odostome. 7 mm.; chocolate-brown. San Pedro to Lower California. Shore to 1 2 fathoms. Common. 
+n, Odostomia (Chrysallida) helga D. and B. H'^lga Odostome. 5 mm.; milky 
 
 white. Redondo Beach to Gulf of California. Shore to 25 fathoms. Common. 
-o, <tname>Odostomia (Ivara) terriciila D. and B.</tname> Earth Odostome. 4 mm.; milky white. 
+o, Odostomia (Ivara) terriciila D. and B. Earth Odostome. 4 mm.; milky white. 
 
 Monterey to Lower California. Shore to 25 fathoms. Common. 
-p, <tname>Odostomia (lolaea) auriaiita D. and B.</tname> Pure Odostome. 5 mm.; yellowish 
+p, Odostomia (lolaea) auriaiita D. and B. Pure Odostome. 5 mm.; yellowish 
 
 white. San Mateo to Lower California. Shore to 75 fathoms. Common. 
-q, <tname>Odostomia {Amaiira) nota D. and B.</tname> Nota Odostome. 7 mm.; light yellow. 
+q, Odostomia {Amaiira) nota D. and B. Nota Odostome. 7 mm.; light yellow. 
 
 Santa Rosa Island to San Diego. Among weeds. Common. 
-r, <tname>Odostomia (Evalea) donilla D. and B.</tname> Donille Odostome. 5 mm.; bluish white. 
+r, Odostomia (Evalea) donilla D. and B. Donille Odostome. 5 mm.; bluish white. 
 
 Santa Monica to Lower California. Shore to 10 fathoms. Common, 
-s, <tname>Odostomia (Menestho) fetella D. and B.</tname> Fetelle Odostome. 4 mm.; milky 
+s, Odostomia (Menestho) fetella D. and B. Fetelle Odostome. 4 mm.; milky 
 
 white. Santa Monica to Lower California. Shore to 6 feet. Common. 
-t,<tname> Odostomia (Salasiella) laxa D. and B.</tname> Lax Odostome. 4 mm.; milky white. 
+t, Odostomia (Salasiella) laxa D. and B. Lax Odostome. 4 mm.; milky white. 
 
 Catalina Island to Lower California. Shore to 70 fathoms. Common. 
 
 
 
-<tname>PYRAMIDELLIDAE</tname> 
+PYRAMIDELLIDAE 
 
 
 

@@ -3,9 +3,9 @@ reddish bands; thin, narrow and with microscopic, striated scales. Uncommon.
 
 
 
-Fa7nily <tname>CHITONIDAE</tname> 
-Subfamily <tname>CHITONINAE</tname> 
-Genus <tname>Chiton Linne 1758</tname> 
+Fa7nily CHITONIDAE 
+Subfamily CHITONINAE 
+Genus Chiton Linne 1758 
 
 Outer edges of insertion plates with tiny, sharp teeth or pectinations; 
 girdle with small, hard scales that look like overlapping split peas; girdle 
@@ -30,7 +30,7 @@ Central area smoothish and dull .... squamosus (Atlantic)
 
 
 
-<tname>Chiton tuberculatus Linne</tname> Common West Indian Chiton 
+Chiton tuberculatus Linne Common West Indian Chiton 
 
 Plate id; figure 6-ji 
 
@@ -49,9 +49,9 @@ rocky shores.
 
 
 
-<tname>CHITON ID AE</tname> 325 
+CHITON ID AE 325 
 
-<tname>Chiton squa?7tosiis Linne</tname> Squamose Chiton 
+Chiton squa?7tosiis Linne Squamose Chiton 
 
 Southeast Florida and the West Indies. 
 

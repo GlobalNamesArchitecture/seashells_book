@@ -6,7 +6,7 @@ Figure 67c
 
 
 
-<tname>Calloplax janeirensis Gray</tname> 
+Calloplax janeirensis Gray 
 
 Lower Florida Keys and the West Indies. Brazil. 
 
@@ -20,8 +20,8 @@ scales and an occasional single hair. Gills start Ys the way back from the head
 and extend posteriorly to a large, fleshy lappet on the posterior margin of 
 the girdle. An uncommon species. 
 
-Genus <tname>Chaetopleura Shuttleworth 1853 </tname>
-<tname>Chaetopleura apiculata Say</tname> Common Eastern Chiton 
+Genus Chaetopleura Shuttleworth 1853 
+Chaetopleura apiculata Say Common Eastern Chiton 
 
 Figures 6-jd\ 68 
 
@@ -42,7 +42,7 @@ American Seashelh
 
 Figure 68. Common Eastern 
 
-Chiton,<tname> Chaetopleiira apiculata</tname> 
+Chiton, Chaetopleiira apiculata 
 
 Say, Yo inch. 
 

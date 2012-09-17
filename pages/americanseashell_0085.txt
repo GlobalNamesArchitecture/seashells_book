@@ -6,10 +6,10 @@ water below the low ride level.
 
 102 American Seashells 
 
-Subgenus <tname>Collisella Dall 1871</tname> 
+Subgenus Collisella Dall 1871 
 Pacific Coast Species 
 
-<tname>Acmaea pelta Eschscholtz</tname> Shield Limpet 
+Acmaea pelta Eschscholtz Shield Limpet 
 
 Plate i8n 
 
@@ -21,7 +21,7 @@ wavy. External color of strong black radial, often intertwining, stripes on a
 whitish cream background. Interior usually faint bluish white, with or without a dark-brown spot. Inner border edged with alternating black and cream 
 bars. A common rock-dweller. 
 
-<tname>Acmaea fenestrata Reeve</tname> Fenestrate Limpet 
+Acmaea fenestrata Reeve Fenestrate Limpet 
 
 Plate i8t 
 
@@ -38,20 +38,20 @@ shell with brown. Intergrades occur near Point Conception. This species is
 the only Pacific Acmaea which lives among loose boulders that are set in sand. 
 It only feeds when submerged. Common. 
 
-<tname>Ac7naea conus Test</tname> Test's Limpet 
+Ac7naea conus Test Test's Limpet 
 
 Plate i8g 
 
 Point Conception, Cahfornia, to Lower California. 
 
-% inch in maximum diameter. Shell low, and like <tname>A. scabra</tname>, is with 
+% inch in maximum diameter. Shell low, and like A. scabra, is with 
 distinct but widely spaced, radial ribs. Distinguished from scabra by its 
 glossy, smooth interior which often has an evenly colored brown center. 
-<tname>A. scabra</tname> has a rough interior center and the brown stain looks smeared. 
+A. scabra has a rough interior center and the brown stain looks smeared. 
 However, this species may be a form of scabra. It is very abundant south of 
-La Jolla and is found with A. scabra and <tname>A. digitalis</tname>. 
+La Jolla and is found with A. scabra and A. digitalis. 
 
-<tname>Acmaea limatula Carpenter</tname> File Limpet 
+Acmaea limatula Carpenter File Limpet 
 
 Plate 18-0 
 Puget Sound to Lower California. 

@@ -2,20 +2,20 @@ margin. 90 rows of teeth, with about 47 pleural teeth on each side of the
 central tooth which has 4 to 6 even-sized denticles. Not uncommon in rock 
 pools. 
 
-Subfamily <tname>GLOSSODORIDINAE</tname> 
+Subfamily GLOSSODORIDINAE 
 
 Brilliantly blue-colored; back smooth, body elongate. Labial armature 
 strong, of very minute hooks. Center of radula very narrow, often with 
 
 
 
-<tname>DENDRODORIDIDAE</tname> 303 
+DENDRODORIDIDAE 303 
 
-minute, compressed spurious teeth. Penis unarmed. <tname>Chromodoris</tname> Alder and 
+minute, compressed spurious teeth. Penis unarmed. Chromodoris Alder and 
 Hancock is a synonym of the following genus. 
 
-Genus <tname>Glossodoris Ehrenberg 1831</tname> 
-<tname>Glossodoris porterae Cockerell</tname> Porter's Blue Doris 
+Genus Glossodoris Ehrenberg 1831 
+Glossodoris porterae Cockerell Porter's Blue Doris 
 
 Plate 1 61 
 
@@ -26,30 +26,30 @@ out at death) and by the two orange stripes. Foot without orange marks.
 Fairly common in rocky tide pools. This might be the young or a form of 
 the next species. 
 
-<tname>Glossodoris calif orniensis Bergh</tname> Califomian Blue Doris 
+Glossodoris calif orniensis Bergh Califomian Blue Doris 
 
 Monterey to San Diego, California. 
 
-2 inches in length. Like <tname>G. porterae</tname>, but with numerous, bright, orange, 
+2 inches in length. Like G. porterae, but with numerous, bright, orange, 
 oblong spots in two rows on the mantle, another row down each side of the 
 foot, and a group of round spots on the anterior end. Common in tide pools. 
-<tname>G. universitatis Ckll.</tname> is this species. 
+G. universitatis Ckll. is this species. 
 
-<tname>Glossodoris macjarlandi Cockerell</tname> MacFarland's Blue Doris 
+Glossodoris macjarlandi Cockerell MacFarland's Blue Doris 
 
 La Jolla to San Pedro, California. 
 
 % inch in length, like a small porterae, but with a ground color of reddish purple (not dissolving out at death); mantle with a yellow-orange margin and 3 longitudinal yellow stripes. End of foot with an orange stripe. 
 Rare. 
 
-Family <tname>DENDRODORIDIDAE</tname> 
+Family DENDRODORIDIDAE 
 
 Body soft, Doris-shaped. Pharyngeal bulb and elongated sucking tube, 
 destitute of mandibles and radulae. Penis armed with a series of hooks. 
-<tname>Doriopsis Pease</tname> is a synonym of the following genus. 
+Doriopsis Pease is a synonym of the following genus. 
 
-Genus <tname>Defidrodoris Ehrenberg 1831</tname> 
-<tname>Dendrodoris fulva MacFarland</tname> Common Yellow Doris 
+Genus Defidrodoris Ehrenberg 1831 
+Dendrodoris fulva MacFarland Common Yellow Doris 
 
 California. 
 

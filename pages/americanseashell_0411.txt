@@ -1,5 +1,5 @@
 
-<tname>Transennella conradina Dall</tname> 
+Transennella conradina Dall 
 
 South half of Florida and the Bahamas. 
 
@@ -22,7 +22,7 @@ water.
 
 
 
-<tname>Transennella tantilla Gould</tname> 
+Transennella tantilla Gould 
 
 Alaska to Lower California. 
 
@@ -48,13 +48,13 @@ radiate; anterior laterals well-developed.
 
 414 American SeasheUs 
 
-Genus <tname>Pitar Romer 1857</tname> 
+Genus Pitar Romer 1857 
 
 Anterior left lateral fitting into a well-developed socket in the right 
 valve. Middle left cardinal large; posterior right cardinal split. 
 
-Subgenus <tname>Pitar s. str.</tname> 
-<tname>Pitar juhiiinata Menke</tname> Lightning Venus 
+Subgenus Pitar s. str. 
+Pitar juhiiinata Menke Lightning Venus 
 
 Plate 39d 
 

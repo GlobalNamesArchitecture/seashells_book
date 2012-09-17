@@ -10,16 +10,16 @@ a
 
 
 
-Figure 40. Atlantic Wentletraps. a, <tname>Cirsotrema dalli Rehder</tname>, i^ inches; b, 
-<tname>A?mea mitchelli Dall</tname>, 2 inches (Texas); c, <tname>Sthetiorytis pernobilis Fischer and 
-Bernardi</tname>, i inch; d, <tname>Ajmea retifera Dall</tname>, i inch; e, <tname>Epitonium krebsi Morch</tname>, 
+Figure 40. Atlantic Wentletraps. a, Cirsotrema dalli Rehder, i^ inches; b, 
+A?mea mitchelli Dall, 2 inches (Texas); c, Sthetiorytis pernobilis Fischer and 
+Bernardi, i inch; d, Ajmea retifera Dall, i inch; e, Epitonium krebsi Morch, 
 
 % inch. 
 
 
 
-Genus <tname>Cirsotrema Morch 1852</tname> 
-<tname>Cirsotrema dalli Rehder</tname> 
+Genus Cirsotrema Morch 1852 
+Cirsotrema dalli Rehder 
 
 North Carolina to southeast Florida and to Brazil. 
 
@@ -37,22 +37,22 @@ I to 1/4 inches in length, rather slender, with a quite deep suture, thus
 giving the whorls a shouldered appearance. No umbilicus. Color a uniform, 
 chalky grayish white. Outer lip with a thickened varix. Whorls with numerous groups of foliated costae. Surface pitted with small holes when the 
 costae or ribs are closely crowded. Uncommon from i8 to 75 fathoms. 
-<tname>C. arcella Rehder</tname> is believed to be the young of this species. 
+C. arcella Rehder is believed to be the young of this species. 
 
-Genus <tname>Actrsa Morch 1857</tname> 
+Genus Actrsa Morch 1857 
 
-<tname>Acirsa costulata Mighels and Adams</tname> Costate Wentletrap 
+Acirsa costulata Mighels and Adams Costate Wentletrap 
 
 Arctic Ocean to Massachusetts. 
 
 % to 1% inches in length, rather turreted in shape and fairly thin in 
 structure. 8 to 9 moderately convex whorls are devoid of sculpture except 
-for weak, incised spiral lines and, in the early whorls, numerous but inconspicuous costae. Color straw to whitish, rarely with brown lines. Uncommon from low water to 50 fathoms. This is <tname>Scalaria borealis Beck</tname>. 
+for weak, incised spiral lines and, in the early whorls, numerous but inconspicuous costae. Color straw to whitish, rarely with brown lines. Uncommon from low water to 50 fathoms. This is Scalaria borealis Beck. 
 
-Genus <tname>Opalia H. and A. Adams 1853</tname> 
-Subgenus <tname>Demise ala de Boury 1886</tname> 
+Genus Opalia H. and A. Adams 1853 
+Subgenus Demise ala de Boury 1886 
 
-<tname>Opalia hotessieriana Orbigny</tname> Hotessier's Wentletrap 
+Opalia hotessieriana Orbigny Hotessier's Wentletrap 
 
 Plate 2 2g 
 

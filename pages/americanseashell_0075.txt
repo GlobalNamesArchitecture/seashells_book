@@ -1,17 +1,17 @@
 
 
 
-Subclass <tname>PROSOBRANCHIA</tname> Order <tname>ARCHAEOGASTROPODA</tname> 
+Subclass PROSOBRANCHIA Order ARCHAEOGASTROPODA 
 
-Superjamily <tname>PLEUROTOMARIACEA</tname> 
+Superjamily PLEUROTOMARIACEA 
 
-Family <tname>SCISSURELLIDAE</tname> 
+Family SCISSURELLIDAE 
 
-Genus <tname>Scissurella Orbigny 1823</tname> 
+Genus Scissurella Orbigny 1823 
 
-Subgenus <tname>Schizotrochus Monterosato 1884</tname> 
+Subgenus Schizotrochus Monterosato 1884 
 
-<tname>Scissurella crispata Fleming</tname> Crispate Slit-shell 
+Scissurella crispata Fleming Crispate Slit-shell 
 
 Massachusetts to eastern Florida and the West Indies. Europe. 
 
@@ -22,7 +22,7 @@ thin, sharp spiral lamellae. Between these there is an open
 slit running from the edge of the thin apertural lip back 
 about % of a whorl. Uncommon from 60 to 500 fathoms. 
 
-The Florida Slit-shell, <tname>5. proxivm Dall</tname> (fig. 29), from 
+The Florida Slit-shell, 5. proxivm Dall (fig. 29), from 
 South Carolina to the Lower Florida Keys, differs in being 
 half as large, with a more rounded periphery, and a higher 
 spire, so that the length is about equal to the width of the 
@@ -32,19 +32,19 @@ Uncommon from 20 to 434 fathoms.
 
 
 
-Fajnily <tname>PLEUROTOMARIIDAE</tname> 
-Genus <tname>Perotrochus</tname> P. Fischer 1885 
+Fajnily PLEUROTOMARIIDAE 
+Genus Perotrochus P. Fischer 1885 
 
-<tname>Perotrochus quo y anus Fischer and Bernardi</tname> 
+Perotrochus quo y anus Fischer and Bernardi 
 
-Quoy's <tname>Pleurotomaria</tname>
+Quoy's Pleurotomaria
 91 
 
 
 
 Figure 29. 
-Florida Slitshell, <tname>Scissurella 
-proxi?77a Dall</tname>, 
+Florida Slitshell, Scissurella 
+proxi?77a Dall, 
 YiQ inch (Massachusetts to Florida, 20 to 430 
 fathoms). 
 

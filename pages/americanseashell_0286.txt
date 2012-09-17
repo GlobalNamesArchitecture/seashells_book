@@ -6,15 +6,15 @@ California Bubble
 1% to 2 inches in length, rotund, fragile. Grayish brown with darker, 
 streaked mottlings which are bordered posteriorly with cream. Periostracum 
 dark-brown and microscopically crinkled. Collected abundantly at night. 
-<tname>Bulla pimctiilata A. Adams</tname> from Lower California south is much heavier 
+Bulla pimctiilata A. Adams from Lower California south is much heavier 
 and constricted or narrowed at the top third of the shell. 
 
 
 
-FaiJtily <tname>ATYIDAE</tname> 
-Genus <tname>Atys Montfort i8io </tname>
+FaiJtily ATYIDAE 
+Genus Atys Montfort i8io 
 
-<tname>Atys caribaea Orbigny</tname> 
+Atys caribaea Orbigny 
 
 Southeast Florida and the West Indies. 
 
@@ -32,18 +32,18 @@ smooth except for a dozen or so very fine, incised spiral lines at both ends.
 
 
 
-Figure 59. Paper-bubbles of the Atlantic Coast, a, <tname>Retiisa obnisa Montagu</tname>; b, 
+Figure 59. Paper-bubbles of the Atlantic Coast, a, Retiisa obnisa Montagu; b, 
 
-<tname>Diaphana vmiuta Brown</tname>; c, <tname>Atys caribaea Orbigny</tname>; d, <tname>Atys sandersoni Dall</tname>; e, 
+Diaphana vmiuta Brown; c, Atys caribaea Orbigny; d, Atys sandersoni Dall; e, 
 
-<tname>Philwe qnadrata S. Wood</tname>; f, <tname>Philiiie lima Brown</tname>. All X5. 
+Philwe qnadrata S. Wood; f, Philiiie lima Brown. All X5. 
 
 Spire concealed, marked by a twisted, spiral, funnel-like umbilicus. Columella acute, a little separated by a deep, narrow umbilicus. Common from 
 shallow water to 90 fathoms. 
 
 
 
-<tname>Atys sajidersoni Dall</tname> Sanderson's Paper-bubble 
+Atys sajidersoni Dall Sanderson's Paper-bubble 
 
 Figure 59d 
 North Carolina to southeast Florida and the West Indies. 
@@ -55,6 +55,6 @@ finer spiral lines at each end. Fairly common from shallow water to over
 
 
 
-<tname>ATYDAE</tname> 279 
+ATYDAE 279 
 
-Genus <tname>Haminoea Turton and Kingston 1830</tname> 
+Genus Haminoea Turton and Kingston 1830 

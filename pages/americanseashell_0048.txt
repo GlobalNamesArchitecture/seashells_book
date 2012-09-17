@@ -19,7 +19,7 @@ a short period of rest, the water is suddenly expelled in the opposite direction
 As in the manner of feeding among the bivalves, ciliated ridges within the 
 mantle ensure passage of food particles to the region of the mouth. However, the primary method of feeding is by means of a number of long, cephalic filaments or captacula which are anchored to the two flattened lobes 
 flanking the mouth. The club-shaped ends of these tiny filaments are tactile 
-and prehensile and are capable of capturing <tname>Foraminifera</tname> and other similar 
+and prehensile and are capable of capturing Foraminifera and other similar 
 minute organisms. These captacula project out in all directions from the 
 
 
@@ -29,10 +29,10 @@ minute organisms. These captacula project out in all directions from the
 
 
 
-Figure 19. a, Diagrammatic drawing of the internal anatomy of <tname>Deiitalmm</tname>; b, 
-radular teeth of <tname>Dentalimn</tname>; c, the central tooth found in the radula of the 
+Figure 19. a, Diagrammatic drawing of the internal anatomy of Deiitalmm; b, 
+radular teeth of Dentalimn; c, the central tooth found in the radula of the 
 
-<tname>Sipho?iodentalndae</tname>. 
+Sipho?iodentalndae. 
 
 
 
@@ -42,7 +42,7 @@ for the difference in length of the captacula in many specimens.
 
 The embryonic shell or prodissoconch of the scaphopods is cup-shaped 
 and consists of two shelly valves, which subsequently unite to form a tube. 
-They may still be seen at the initial end in some specimens of <tname>Siphonodentalium</tname>, but are always absent in adult <tname>Dentalium</tname>. The adult shell is open 
+They may still be seen at the initial end in some specimens of Siphonodentalium, but are always absent in adult Dentalium. The adult shell is open 
 at both ends. It is added to at the larger, anterior end by the mantle edge, 
 while at the posterior end there may be a gradual loss of shell through wear 
 and absorption. The tiny posterior slits or notches that are characteristic 

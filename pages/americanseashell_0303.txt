@@ -2,9 +2,9 @@
 Worldwide, pelagic. (43° N. to 42° S.). 
 
 10 to 14 mm. in length. See generic description and figure. The shell 
-varies somewhat in shape. <tname>C. oryza Benson</tname>, <tname>C. iirceolaris Morch</tname> and cmicellata Pfeffer are the same. Common. 
+varies somewhat in shape. C. oryza Benson, C. iirceolaris Morch and cmicellata Pfeffer are the same. Common. 
 
-Suborder <tname>GYMNOSOMATA</tname> 
+Suborder GYMNOSOMATA 
 
 Pteropods characterized by the absence of shell, pallial cavity and 
 mantle-skirt; by the presence of a well-developed head, bearing two pairs of 
@@ -12,32 +12,32 @@ tentacles, of which the two posterior bear rudimentary eyes. Jaws and radula
 present. Found pelagic in all seas, and sometimes in great abundance. Rarely 
 exceed one inch in length. They are carnivorous. Ascend to the surface at 
 night, and sink to a lower level in the daytime. They are not treated in this 
-book. The group contains such genera as <tname>Pjieuviodennopsis Bronn 1862</tname>, 
-<tname>Fneumodernia Cuvier 1805</tname> {=^ <tname>Piieiimono derma Agassiz</tname>), <tname>Cliopsis Troschel 
-1854</tname> {= <tname>CHonopsis Bronn</tname>), <tname>Notobrmichaea Pelseneer 1886</tname>, <tname>Clione Pallas 
-1774</tname>, <tname>PaedocUone Danforth 1907</tname>, <tname>Anopsia Gistel 1848</tname> (= <tname>Halopsyche 
-Bronn</tname> and <tname>Euribia Rang</tname>). 
+book. The group contains such genera as Pjieuviodennopsis Bronn 1862, 
+Fneumodernia Cuvier 1805 {=^ Piieiimono derma Agassiz), Cliopsis Troschel 
+1854 {= CHonopsis Bronn), Notobrmichaea Pelseneer 1886, Clione Pallas 
+1774, PaedocUone Danforth 1907, Anopsia Gistel 1848 (= Halopsyche 
+Bronn and Euribia Rang). 
 
-Order <tname>NUDIBRANCHIA</tname> 
+Order NUDIBRANCHIA 
 
 (Nudibranchs and Sea-slugs) 
 
-Super jamily <tname>DORIDACEA</tname> 
+Super jamily DORIDACEA 
 
-Family <tname>DORIDIDAE</tname> 
+Family DORIDIDAE 
 
 Branchial plumes in an arc or circle usually joined together at their bases, 
 usually retractile into a cavity. Rhinophores always with a perfoliate club. 
 Pharyngeal bulb never suctorial. 
 
-Genus <tname>Archidoris Bergh 1878</tname> 
+Genus Archidoris Bergh 1878 
 
 Body not hard, dorsum granular or tubular; tentacles short, thick, with 
 an external, longitudinal sulcus. No labial armature. Branchial plumes not 
 numerous, 3- to 4-pinnare. Center of radula naked, marginal teeth hooked 
 and bearing minute denticles. Penis and vagina unarmed (without hooks). 
 
-<tname>Archidoris montereyensis Cooper</tname> Monterey Doris 
+Archidoris montereyensis Cooper Monterey Doris 
 
 Plate i6h 
 
@@ -53,8 +53,8 @@ dilated, conical, perfoliate with 24 to 30 leaves on each side. Each of the 7
 branchial plumes large, spreading and 3- to 4-pinnate. Radula with 33 rows; 
 center naked; with 42 to 49 strongly hooked, denticulate pleural teeth. Common in tide pools. 
 
-Subgenus <tname>Anisodoris Bergh 1898</tname> 
-<tname>Archidoris 720 bills MacFarland</tname> Noble Pacific Doris 
+Subgenus Anisodoris Bergh 1898 
+Archidoris 720 bills MacFarland Noble Pacific Doris 
 
 Plate 1 6c 
 

@@ -14,12 +14,12 @@ area, smooth rostral ridge and in having much finer, more numerous, concentric t
 
 
 
-Figure 72. Pacific Coast Nut Clams, a and b, <tname>Nuculana taphria Dall</tname>, % inch 
-(California); c, <tname>Acila castrensis Hinds</tname>, ^> inch (Pacific Coast). 
+Figure 72. Pacific Coast Nut Clams, a and b, Nuculana taphria Dall, % inch 
+(California); c, Acila castrensis Hinds, ^> inch (Pacific Coast). 
 
 
 
-<tname>Nuculana taphria Dall</tname> 
+Nuculana taphria Dall 
 
 Bodego Bay, California, to Lower California. 
 
@@ -31,14 +31,14 @@ Figure 72 a, b
 
 
 
-<tname>NUCULANIDAE</tname> 3 39 
+NUCULANIDAE 3 39 
 
 About H to % inch in length, shiny green-brown, with prominent concentric sculpture and characterized by the nearly central umbones. Rostrum 
 bluntly pointed, slightly upturned at the end. Concentric ribs disappear just 
 anterior to the carinate border of the dorsal area which is strongly wrinkled. 
 Adults over K' inch become quite fat. Commonly dredged off southern California in shallow water. Sorensen reports that this species is found commonly in fish stomachs off Monterey. 
 
-<tname>Nuculana penderi Dall and Bartsch</tname> Pender's Nut Clam 
+Nuculana penderi Dall and Bartsch Pender's Nut Clam 
 
 Forrester Island, Alaska, to Santa Barbara, California. 
 
@@ -47,7 +47,7 @@ and pointed; concentric ribs prominent and evenly developed. Dorsal area
 of rostrum oval, finely ribbed and bounded by a sharp, smooth, large rib. 
 Periostracum light-brown. Moderately common offshore. 
 
-<tname>Nuculana hindsi Hanley</tname> Hinds' Nut Clam 
+Nuculana hindsi Hanley Hinds' Nut Clam 
 
 Nazan Bay, Alaska, to Costa Rica. 
 
@@ -56,5 +56,5 @@ mm. high; both valves 3.0 mm. wide); posterior end rostrate, slightly turned
 up at the end. Dorsal area of rostrum smoothish except for faint axial threads 
 bounded by smooth carinate rib. Sculpture of evenly sized, closely spaced, 
 distinct, concentric ribs which become obsolete just before the rostral rib. 
-Exterior light yellowish brown. Interior white with faint pearly sheen. <tname>N. 
-acuta Conrad</tname>, a name often given to this Pacific Coast species, has its rostral 
+Exterior light yellowish brown. Interior white with faint pearly sheen. N. 
+acuta Conrad, a name often given to this Pacific Coast species, has its rostral 

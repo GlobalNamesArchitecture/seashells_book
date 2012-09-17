@@ -1,8 +1,8 @@
-Figure 28. \'arious types of bivalve hinges, a, <tname>Arcidae</tname> {<tname>Noetia poiuierosa Say</tname>); 
-b, <tname>Spondvlidae</tname> {<tname>Spondyhis</tname>); c, <tname>Cardiidae</tname> {<tname>Dinocardhnn vanhyiiingi Clench and 
-Smith</tname>); d, <tname>Veneridae</tname> (<tname>Tivela stidtonim Mawe</tname>); e, <tname>Veneridae</tname> (<tname>Callocardia texasiaiia Dall</tname>); f, <tname>Lucinidae</tname> {<tname>Phacoides anmdatiis Reeve</tname>); g, <tname>Mactridae</tname> {<tname>Mactra alata 
-Spengler</tname>); h, <tname>Tellinidae</tname> {<tname>TelUiia idae Dall</tname>); i, <tname>Carditidae</tname> (<tname>Veiiericardia</tname>); j, <tname>A4actridae</tname> {<tname>Ra7igia</tname>); k, <tname>Crassatellidae</tname> (<tname>Crassmella himdata Conrad</tname>); 1, <tname>Periplomatidae</tname> 
-(<tname>Periploma discus Stearns</tname>); m, <tname>Corbulidae</tname> (<tname>Corbida</tname>). 
+Figure 28. \'arious types of bivalve hinges, a, Arcidae {Noetia poiuierosa Say); 
+b, Spondvlidae {Spondyhis); c, Cardiidae {Dinocardhnn vanhyiiingi Clench and 
+Smith); d, Veneridae (Tivela stidtonim Mawe); e, Veneridae (Callocardia texasiaiia Dall); f, Lucinidae {Phacoides anmdatiis Reeve); g, Mactridae {Mactra alata 
+Spengler); h, Tellinidae {TelUiia idae Dall); i, Carditidae (Veiiericardia); j, A4actridae {Ra7igia); k, Crassatellidae (Crassmella himdata Conrad); 1, Periplomatidae 
+(Periploma discus Stearns); m, Corbulidae (Corbida). 
 
 
 
@@ -27,11 +27,11 @@ types of hinges. The teeth are distinguished as cardinals, or those immediately 
 set out of place that it is often difficult to distinguish the cardinals from the 
 laterals or to determine which ones are absent. We have labeled the teeth 
 in several groups in the systematic section of this book to overcome this 
-difficulty. In <tname>Chanm</tname>, for instance, the cardinals have been pushed up into 
+difficulty. In Chanm, for instance, the cardinals have been pushed up into 
 the umbo and have become a mere ridge, while the strong anterior lateral 
 has become nearly central and simulates a cardinal. 
 
-Sculpture. In many groups, such as the scallops (<tname>Pecten</tname>), sculpture is 
+Sculpture. In many groups, such as the scallops (Pecten), sculpture is 
 of paramount importance in determining species. In most other groups it is 
 used in conjunction with other characters. There are two major types of 
 sculpture — concentric and radial — and both of these may be present in many 
@@ -40,14 +40,14 @@ threads, beads, indented striae (fine lines), etc. Concentric growth lines of
 varying degree of development are seen on most bivalves. They are always 
 parallel to the margins of the valves, may be exceedingly fine or very coarse, 
 and they generally indicate former growth and resting stages. Radial sculpture, running from the umbones to the lower or end margins of the valves, 
-is exemplified in the ribs of <tname>Cardium</tname> (pi. 32), <tname>Pectejj</tname> (pi. 33) and others. 
+is exemplified in the ribs of Cardium (pi. 32), Pectejj (pi. 33) and others. 
 Concentric and radial sculpture may occur together to form a cancellate 
-sculpture as in <tname>Chione cancellata</tname> (pi. 39h). In a few genera, such as <tname>Foromya</tname>, the valve's surface may be granulose, as if finely sugar-coated. 
+sculpture as in Chione cancellata (pi. 39h). In a few genera, such as Foromya, the valve's surface may be granulose, as if finely sugar-coated. 
 
 The periostracum or protective chitinous sheath overlaying the exterior 
 of the valves is present in most bivalves. It may be extremely thin and transparent so that it imparts a high gloss to the shell, or it may be thick and 
 matted or even very coarse and stringy so that the valves appear to be 
-bearded, as in <tname>Volsella</tname> and <tname>Area</tname>. 
+bearded, as in Volsella and Area. 
 
 
 

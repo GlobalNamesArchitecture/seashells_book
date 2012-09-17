@@ -1,12 +1,12 @@
 
-<tname>TURRIDAE</tname> 271 
+TURRIDAE 271 
 
 brown with a white band bearing about 13 knobs per whorl. Last whorl 
 with 2 or 3 spiral white bands. Fairly common in shallow water under 
-rocks. <tname>M. albomaculata C. B. Adams</tname> is a similar species from the West 
+rocks. M. albomaculata C. B. Adams is a similar species from the West 
 Indies and is figured on plate i6{. 
 
-<tname>Monilispira leucocyma Dall</tname> White-knobbed Drillia 
+Monilispira leucocyma Dall White-knobbed Drillia 
 
 Figure 57d 
 
@@ -16,10 +16,10 @@ South half of Florida and the West Indies.
 grayish brown with the nodules white. Aperture dark-brown. A common 
 shallow-water species. 
 
-Genus <tname>Inodrillia Bartsch 1943</tname> 
-Subgenus <tname>Inodrillara Bartsch 1943</tname> 
+Genus Inodrillia Bartsch 1943 
+Subgenus Inodrillara Bartsch 1943 
 
-<tname>Inodrillia aepynota Dall</tname> Tall-spired Turret 
+Inodrillia aepynota Dall Tall-spired Turret 
 
 Figure 57b 
 
@@ -28,14 +28,14 @@ North Carolina to northeast Florida.
 ^ inch in length; chalk-white to pinkish white. Moderately common 
 from 63 to 120 fathoms. 
 
-Subjamily <tname>CONORBIINAE</tname> 
+Subjamily CONORBIINAE 
 
 Shell conoidal; sinus broad and shallow, occupying the width of the 
-shoulder. Operculum absent in <tname>Genota</tname>. Radula with 2 slender marginals 
+shoulder. Operculum absent in Genota. Radula with 2 slender marginals 
 only. 
 
-Genus <tname>Genota H. and .A. Adams 1853</tname> 
-<tname>Genota viabrunnea Dall</tname> Brown-banded Genota 
+Genus Genota H. and .A. Adams 1853 
+Genota viabrunnea Dall Brown-banded Genota 
 
 Figure 57g 
 
@@ -46,7 +46,7 @@ white with a spiral, suffused band of light-brown well below the suture.
 Nucleus dark-brown and with tiny arched, smooth ribs. Anal sinus very 
 wide. Rare from 100 to 350 fathoms. 
 
-Subfamily <tname>MANGELIINAE</tname> 
+Subfamily MANGELIINAE 
 
 Shell small, ovate or fusiform, with a short canal and without an operculum. Sinus on shoulder usually very shallow. Radula with 2 slender 
 marginals. 
@@ -55,6 +55,6 @@ marginals.
 
 272 American Seashells 
 
-Genus <tname>Mangelia Risso 1826</tname> 
-<tname>Mangelia mono. Dall</tname> Morro Mangelia 
+Genus Mangelia Risso 1826 
+Mangelia mono. Dall Morro Mangelia 
 

@@ -1,11 +1,11 @@
 teeth. Found on brown kelp. Fairly common. 
 
-Genus <tname>Polycera Cuvier 1817</tname> 
+Genus Polycera Cuvier 1817 
 
 Frontal margin with finger-like processes. Finger-like processes bordering branchial plumes. Center of radula naked, flanked by 2 lateral teeth and 
 several uncini. 
 
-<tname>Polycera atra MacFarland</tname> Orange-spiked Doris 
+Polycera atra MacFarland Orange-spiked Doris 
 
 Plate i6e 
 
@@ -16,14 +16,14 @@ usually thinner and less conspicuous. 8 gill plumes. Common on brown
 algae. 9 to 10 rows of radular teeth, dark-amber; 2 pleurals, 3 to 4 uncinal 
 teeth. 
 
-Family <tname>ONCHIDORIDAE</tname> 
-Genus <tname>Acanthodoris Gray 1850</tname> 
+Family ONCHIDORIDAE 
+Genus Acanthodoris Gray 1850 
 
 Body Dorid-like with a furry back. Labial disk armed with minute 
 hooks. Center of radula naked; first pleural tooth large, external pleurals 4 
 to 8, small. Glans penis armed. Vagina very long. 
 
-<tname>Acanthodoris pilosa Abildgard</tname> Pilose Doris 
+Acanthodoris pilosa Abildgard Pilose Doris 
 
 Plate 15b 
 
@@ -42,11 +42,11 @@ out of water,
 
 306 AiJierican Seashells 
 
-<tname>Acanthodoris brunnea MacFarland</tname> Pacific Brown Doris 
+Acanthodoris brunnea MacFarland Pacific Brown Doris 
 
 Monterey Harbor, California. 
 
-% inch in length, somewhat like our figure of <tname>A. pilosa</tname> (pi. 15b). Somewhat broader at the anterior end. Brown tubercles on back rounder, fewer, 
+% inch in length, somewhat like our figure of A. pilosa (pi. 15b). Somewhat broader at the anterior end. Brown tubercles on back rounder, fewer, 
 not as pointed. Back brown with flecks of black and with small spots of 
 lemon-yellow between the tubercles. Rhinophores deep blue-black, tipped 
 with yellowish white. Club with 20 to 28 obliquely slanting leaves. 7 branchial plumes, wide-spreading, bipinnate. About 10 tubercles are included 
@@ -56,5 +56,5 @@ smaller pleural teeth. Dredged 30 to 60 fathoms.
 
 
 
-Genus <tname>Adalaria Bergh 1878</tname> 
-<tname>Adalaria proxhim Alder and Hancock</tname> Yellow False Doris 
+Genus Adalaria Bergh 1878 
+Adalaria proxhim Alder and Hancock Yellow False Doris 

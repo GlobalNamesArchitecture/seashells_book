@@ -7,8 +7,8 @@ North Carolina to the Lower Florida Keys.
 translucent-white or chalky-white. Nuclear w^horls distinct, without strong 
 sculpturing and light-brown in color. Uncommon from 70 to 140 fathoms. 
 
-Genus <tname>Mitromorpha P. P. Carpenter 1865</tname> 
-<tname>Mitromorpha filosa Carpenter</tname> Filose Turret 
+Genus Mitromorpha P. P. Carpenter 1865 
+Mitromorpha filosa Carpenter Filose Turret 
 
 Figure 57I 
 
@@ -17,7 +17,7 @@ Monterey, California, to the Gulf of Cahf ornia.
 % inch in length, solid, light orange-brown in color. Spiral cords may 
 be slightly beaded in some specimens. Uncommon offshore. 
 
-<tname>Mitromorpha aspera Carpenter</tname> Beaded Turret 
+Mitromorpha aspera Carpenter Beaded Turret 
 
 Figure 57111 
 
@@ -26,17 +26,17 @@ Monterey, California, to the Gulf of California.
 % inch in length, strongly beaded and somewhat cancellate, with a 
 glossy finish and light orange-brown in color. Moderately common offshore. 
 
-Subfamily <tname>DAPHNELLINAE</tname> 
+Subfamily DAPHNELLINAE 
 
 Shell fusiform or ovate, canal short. Operculum absent. Sinus adjoining the suture. The protoconch has diagonally cancellate sculpturing. 
 Radula with 2 slender, curved marginals only. 
 
-Genus <tname>Daphnella Hinds 1844</tname> 
-<tname>Daphnella lymneiformis Kiener</tname> Volute Turret 
+Genus Daphnella Hinds 1844 
+Daphnella lymneiformis Kiener Volute Turret 
 
 Southeast Florida and the West Indies. 
 
-Vs to y2 inch in length; resembles a miniature, elongate <tname>Scaphella</tname> voluteshell. With about 8 whorls, the nuclear ones smoothish, the next 4 with 
+Vs to y2 inch in length; resembles a miniature, elongate Scaphella voluteshell. With about 8 whorls, the nuclear ones smoothish, the next 4 with 
 
 
 
@@ -53,8 +53,8 @@ crossed by exceedingly fine growth lines. Aperture elongate, rather expanded and
 cream with yellowish brown maculations. Uncommon from shallow water 
 to 25 fathoms. 
 
-Subclass <tname>OPISTHOBRANCHIA</tname> 
+Subclass OPISTHOBRANCHIA 
 
 (Bubble-shells, Pteropods, Sea Slugs) 
 
-Order <tname>ONCHIDIATA</tname> 
+Order ONCHIDIATA 

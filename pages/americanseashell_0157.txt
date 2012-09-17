@@ -1,5 +1,5 @@
 
-<tname>Cheilea equestris Linne</tname> False Cup-and-saucer 
+Cheilea equestris Linne False Cup-and-saucer 
 
 Plate 2ip 
 
@@ -15,8 +15,8 @@ cup is attached near the center of the inside of the shell but slightly off in
 the direction in which the apex of the shell points. Exterior has small, axial 
 corrugations or tiny cords, rarely spinose. Nucleus minute, spiral and glassywhite. Uncommon except in the West Indies. 
 
-Genus <tname>Hipponix Defrance 1819</tname> 
-<tname>Hipponix antiquatus Linne</tname> White Hoof-shell 
+Genus Hipponix Defrance 1819 
+Hipponix antiquatus Linne White Hoof-shell 
 
 Plate 2 It 
 
@@ -32,7 +32,7 @@ absent or very thin and light-yellowish. Moderately common. Found clinging to ro
 Some Pacific northwest specimens are limpet-like in shape, flattish, circular, gray-white, with the apex near the center of the shell, and with smoothish, strong, circular cords (form cranoides Carpenter). Another form bears 
 foliaceous concentric lamellae which are finely striate axially {serratus Carpenter from Monterey to Panama). 
 
-<tname>Hipponix subrufus subrufus Lamarck</tname> Orange Hoof-shell 
+Hipponix subrufus subrufus Lamarck Orange Hoof-shell 
 
 Southeast Florida and the West Indies. 
 
@@ -40,11 +40,11 @@ V2 inch in size, similar to antiquatus, but usually stained with light orangebro
 about the same size. This frequently gives a beaded surface. Periostracum 
 fairly heavy, tufted and light brown. Moderately common. 
 
-<tname>Hipponix benthopbilns Dall</tname> (Dall's Deepsea Hoof-shell) is well-spired 
+Hipponix benthopbilns Dall (Dall's Deepsea Hoof-shell) is well-spired 
 in one plane and is entirely smooth. It is rare and comes from deep water 
 off" Florida and throughout the West Indies. 
 
-<tname>Hipponix szibruftis tiimens Carpenter</tname> Pacific Orange Hoof-shell 
+Hipponix szibruftis tiimens Carpenter Pacific Orange Hoof-shell 
 
 Crescent City, California, to Lower California. 
 
@@ -52,7 +52,7 @@ Very close in characters to the Atlantic subrufus subrufus, but the shell
 
 
 
-<tname>TRICHOTROPIDAE</tname> 167 
+TRICHOTROPIDAE 167 
 
 is white in color (although the periostracum is yellow-brown), with more 
 prominent spiral threads, and with coarser spiral threads in the young. Found 

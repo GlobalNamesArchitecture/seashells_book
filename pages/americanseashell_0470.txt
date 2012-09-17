@@ -4,7 +4,7 @@ Nova Scotia to both sides of Florida.
 
 
 
-<tname>LOLIGINIDAE</tname> 
+LOLIGINIDAE 
 
 
 
@@ -13,10 +13,10 @@ Nova Scotia to both sides of Florida.
 
 
 
-Figure 99. Atlantic Cephalopods. a,<tname> Loligo pealei Lesueur</tname> (length: i to 2 feet); 
-b, <tname>lllex illecebrosus Lesueur</tname> ( i to i % feet) ; c, <tname>Architeiithis harveyi Kent</tname> (40 to 
-55 feet); d, <tname>Rossia tenera Verrill</tname> (3 to 4 inches); e, <tname>Argonauta hians Solander</tname> 
-(2 to 3 inches); f, shell of same; g, <tname>Lolligimcida brevis Blainville</tname> (5 to 10 inches). 
+Figure 99. Atlantic Cephalopods. a, Loligo pealei Lesueur (length: i to 2 feet); 
+b, lllex illecebrosus Lesueur ( i to i % feet) ; c, Architeiithis harveyi Kent (40 to 
+55 feet); d, Rossia tenera Verrill (3 to 4 inches); e, Argonauta hians Solander 
+(2 to 3 inches); f, shell of same; g, Lolligimcida brevis Blainville (5 to 10 inches). 
 
 (From A. E. Verrill 1879.) 
 
@@ -32,7 +32,7 @@ hectocotylized (see fig. 99a). A very abundant species caught commercially
 for fish bait in New England. Living specimens are very beautifully speckled 
 with red, purplish and pink. 
 
-<tname>Loligo opalescens Berry</tname> Common Pacific Squid 
+Loligo opalescens Berry Common Pacific Squid 
 
 Puget Sound, Washington, to San Diego, California. 
 
@@ -41,20 +41,20 @@ squid of the Pacific Coast and can be readily recognized by the accompanying ill
 
 
 
-Genus <tname>Lolliguncula Steenstrup </tname>
+Genus Lolliguncula Steenstrup 
 
 
 
-<tname>Lolliguncula brevis Blainville</tname> Brief Squid 
+Lolliguncula brevis Blainville Brief Squid 
 
 Figure 99g 
 
 Delaware Bay to Florida and to Brazil. 
 
 Total length, including the tentacular arms, 5 to 10 inches. Characterized by its short, rounded fins, very short upper arms, and large color 
-spots. Underside of fins white. Consult the figure. Common in warm waters. This is <tname>L. brevipinna Lesueur</tname> and <tname>L. hemiptera Howell</tname>. 
+spots. Underside of fins white. Consult the figure. Common in warm waters. This is L. brevipinna Lesueur and L. hemiptera Howell. 
 
-Genus <tname>Sepioteuthis Blainville 1824</tname> 
+Genus Sepioteuthis Blainville 1824 
 
-Similar to <tname>Loligo</tname>, but with large, triangular fins that extend along the 
+Similar to Loligo, but with large, triangular fins that extend along the 
 entire length of the mantle, thus giving the animal an oval outline. Siphonal 

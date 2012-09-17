@@ -10,17 +10,17 @@ outer lip of the shell.
 
 The large group of rachiglossate snails (those having three large teeth 
 in each radular row) are for the most part predators. The Tun Shells and 
-<tname>Cassis</tname> Helmet Shells feed upon live sea urchins. The <tname>Xancus</tname> Chanks, <tname>Busy con</tname> 
+Cassis Helmet Shells feed upon live sea urchins. The Xancus Chanks, Busy con 
 Whelks and others feed upon live clams. The Nassa Mud Snails, however, 
 are purely scavengers, and their ability to detect the odor or taste of spoiled 
 meat in the water is highly developed. Among the toxoglossate snails (those 
 with tiny, needle-like, harpoon-shaped teeth as shown in figure i), the cones 
-and <tname>Terehra</tname> shells have a highly developed poison gland and duct which are 
+and Terehra shells have a highly developed poison gland and duct which are 
 presumably used in quieting their prey. 
 
 Vegetarians are found among the more primitive gastropods. All of the 
 Hmpets, nerites, trochids and turban snails graze on seaweeds. However, many 
-of the "middle-class" snails, among them the ceriths, <tname>Modulus</tname>, and some 
+of the "middle-class" snails, among them the ceriths, Modulus, and some 
 periwinkles, limit their feeding to swallowing mud detritus on the bottom 
 
 
@@ -34,7 +34,7 @@ of water is set up in the mantle cavity and the pectinate gill acts as a food
 sieve. The food particles are entrapped on the gills by a mucus secreted by 
 an endostyle which is located at the base of the gill. Tiny cilia move the 
 food along a groove on the side of the body to a pouch located near the 
-mouth where it is then taken in up through the proboscis. <tname>Turritella comrminis</tname> of Europe buries itself in mud and has a ciliary feeding habit. This 
+mouth where it is then taken in up through the proboscis. Turritella comrminis of Europe buries itself in mud and has a ciliary feeding habit. This 
 snail remains for days in one spot just below the surface of the mud. An 
 inhalant depression in the mud is made by lateral movements of the foot, and 
 the action of thousands of cilia creates a current which brings food-laden 
@@ -44,7 +44,7 @@ pellets without disturbing the surrounding mud.
 
 The most extreme modifications in the entire molluscan phylum have 
 occurred in connection with the feeding habits of certain parasitic snails. For 
-years the <tname>Entoconcha</tname> snails found inside the <tname>Synapta</tname> sea cucumbers were 
+years the Entoconcha snails found inside the Synapta sea cucumbers were 
 thought to be some form of parasitic worm. The "head" of the mollusk is 
 attached in leech-like fashion to a blood vessel of the host, and its worm-like 
 body is embedded in the gonads of the sea cucumber. The adult parasite has 
@@ -56,5 +56,5 @@ been thought to be mollusks.
 The passage of food from the buccal cavity, through the esophagus to 
 the stomach is facilitated by muscular contractions of the wall of the alimentary tract and by saliva produced by the two salivary glands. The hind end 
 of the esophagus may be modified into a gizzard, and in many Bubble Shells, 
-especially <tname>Scaphander</tname>, there are several large, cucumber-shaped plates armed 
+especially Scaphander, there are several large, cucumber-shaped plates armed 
 with hard corrugations which grind the food into small particles. The stomach proper consists of a simple enlargement of the digestive canal. Its wall 

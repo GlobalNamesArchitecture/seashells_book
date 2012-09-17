@@ -29,7 +29,7 @@ outside of the shell is protected by the mantle, there is no production of prote
 
 
 
-Figure 5. Four stages in the growth of the Keyhole Limpet, <tname>Fissiirella</tname>, showing 
+Figure 5. Four stages in the growth of the Keyhole Limpet, Fissiirella, showing 
 
 how the spire gradually disappears and the marginal slit becomes an apical hole. 
 
@@ -38,8 +38,8 @@ a, b, c, highly magnified; d, natural size. (After Boutan 1886.)
 In contrast to the bivalves, many gastropods exhibit certain modified 
 shell structures when they become reproductively mature. In many instances 
 adulthood of an individual is accompanied by the formation of a thickened 
-or flaring apertural lip. It is most pronounced in the <tname>Strombus</tname> conchs. Pelican's Foot (<tname>Aporrhais</tname>) , marginellas, cowries and others. Such development 
-is unknown in the cone shells, <tname>Busycon whelks</tname>, abalones and a host of others. 
+or flaring apertural lip. It is most pronounced in the Strombus conchs. Pelican's Foot (Aporrhais) , marginellas, cowries and others. Such development 
+is unknown in the cone shells, Busycon whelks, abalones and a host of others. 
 
 Growth of the gastropod shell is more rapid in young individuals. Some 
 species apparently continue to grow in size during their entire life span, while 

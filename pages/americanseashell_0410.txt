@@ -3,13 +3,13 @@ Palm Beach County, Florida.
 
 % inch in length, subquadrate, beaks in the center, highly polished and 
 with microscopic growth lines near the margins. Exterior glossy, tan or 
-purplish. Interior mottled with purplish brown. This is the only <tname>Tivela</tname> 
+purplish. Interior mottled with purplish brown. This is the only Tivela 
 recorded from eastern United States. Uncommon offshore. 
 
 
 
-Subgenus <tname>Pachydesma Conrad 1854</tname> 
-<tname>Tivela stultorum Mawe</tname> Pismo Clam 
+Subgenus Pachydesma Conrad 1854 
+Tivela stultorum Mawe Pismo Clam 
 
 Plate 3ih; figure iSd 
 
@@ -20,15 +20,15 @@ except for weak lines of growth. Ligament large and strong. Color brownish
 cream with wide, mauve, radial bands. Bands may be absent. Posterior end 
 marked off by a single, sharp thread. Lunule lanceolate and with vertical 
 scratches. Periostracum thin and varnish-like. A common and edible species. 
-This is the only West Coast <tname>Tivela</tname>, but it has received a number of unnecessary names, <tname>T. crassatelloides Stearns</tname> being one of many. 
+This is the only West Coast Tivela, but it has received a number of unnecessary names, T. crassatelloides Stearns being one of many. 
 
-Genus <tname>Transennella Dall 1883</tname> 
+Genus Transennella Dall 1883 
 
 Left anterior lateral fitting into a socket in the right valve. Internal 
 margins arc obliquely grooved with numerous, microscopic lines. These 
 are parallel to the growth lines at the ventral margin of the valves. 
 
-<tname>Transennella stimpsoni Dall</tname> Stimpson's Transennella 
+Transennella stimpsoni Dall Stimpson's Transennella 
 
 Figure 83a, b 
 
@@ -36,7 +36,7 @@ North Carolina to southeast Florida and the Bahamas.
 
 
 
-<tname>VENERIDAE</tname> 
+VENERIDAE 
 
 
 
@@ -53,8 +53,8 @@ common in shallow water.
 
 
 
-Figure 83. Atlantic Transennella Clams, a and b, <tname>Trfl725e72wd/a jfimp^cwi</tname>, % inch; 
+Figure 83. Atlantic Transennella Clams, a and b, Trfl725e72wd/a jfimp^cwi, % inch; 
 
-c, <tname>T. conradina Dall</tname>, % inch. 
+c, T. conradina Dall, % inch. 
 
 

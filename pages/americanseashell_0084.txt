@@ -6,7 +6,7 @@ deep, flat inner sides. Sculpture of numerous rather large, but low and
 
 
 
-<tname>ACMAEIDAE</tname> 101 
+ACMAEIDAE 101 
 
 rounded, radial ribs of varying sizes. Base of shell slightly crenulate and with 
 color blotches. Exterior grayish white to dark-slate with numerous radial 
@@ -15,8 +15,8 @@ the callus at the apex. Foot of animal yellow; mantle with red stripes. Very
 common on rocky rubble at low tide. The variety crucifera Dall is merely a 
 color form with white radial bands. 
 
-Subgenus <tname>Clypidella Swainson 1840</tname> 
-<tname>Fissurella fascicularis Lamarck</tname> Wobbly Keyhole Limpet 
+Subgenus Clypidella Swainson 1840 
+Fissurella fascicularis Lamarck Wobbly Keyhole Limpet 
 
 Plate lyg 
 
@@ -27,15 +27,15 @@ forth on a flat table). Orifice toward the anterior end, keyhole in shape.
 Color a faded magenta. Interior whitish, tinged with pale-green or pink. 
 Inner callus of orifice white with a narrow red line. Uncommon in Florida. 
 
-Superfamily <tname>PATELLACEA</tname> 
+Superfamily PATELLACEA 
 
-Family <tname>ACMAEIDAE</tname> 
+Family ACMAEIDAE 
 
-Subfamily <tname>ACMAEINAE</tname> 
+Subfamily ACMAEINAE 
 
-Genus <tname>Lottia Sowerby 1833</tname> 
+Genus Lottia Sowerby 1833 
 
-<tname>Lottia gigantea Gray</tname> Giant Owl Limpet 
+Lottia gigantea Gray Giant Owl Limpet 
 
 Plate 18) 
 
@@ -48,10 +48,10 @@ with an "owl-shaped" whitish to brownish scar in the very center. Very
 common at or above high tide line where the sea spray may reach them. In 
 the south they grow to a large size. Frequently polished and used as souvenirs. 
 
-Genus <tname>Acmaea Eschscholtz 1830</tname> 
-Subgenus <tname>Acmaea s. str.</tname> 
+Genus Acmaea Eschscholtz 1830 
+Subgenus Acmaea s. str. 
 
-<tname>Acmaea mitra Eschscholtz</tname> White-Cap Limpet 
+Acmaea mitra Eschscholtz White-Cap Limpet 
 
 Plate i8r 
 

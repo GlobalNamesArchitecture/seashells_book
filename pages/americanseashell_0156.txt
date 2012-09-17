@@ -4,23 +4,23 @@ which are very slightly reflected backwards and which are usually angulated at t
 formed in line with those on the whorl above and are fused at their points 
 of contact. Outer lip thickened and reflected. Color china-white. One of 
 the commonest Atlantic wentletraps found in shallow water to 25 fathoms. 
-Do not confuse with <tname>E. humphrey si</tname>. 
+Do not confuse with E. humphrey si. 
 
-<tname>Epitonium foliaceicostwm Orbigny</tname> Wrinkled-ribbed Wentletrap 
+Epitonium foliaceicostwm Orbigny Wrinkled-ribbed Wentletrap 
 
 Southeast Florida to the Lesser Antilles. 
 
 
 
-<tname>HIPPONICIDAE</tname> 165 
+HIPPONICIDAE 165 
 
 % to % inch in length, moderately stout, without an umbilicus, and 
-similar to <tname>E. angulatum</tname>, except that the 7 to 8 costae per whorl are thinner, 
+similar to E. angulatum, except that the 7 to 8 costae per whorl are thinner, 
 more highly developed and usually quite angular. Moderately common from 
 low water to 120 fathoms. Alias muricata Sby., spina-rosae Morch and pretiosula Morch. 
 
-Subgenus <tname>Gyroscala Boury 1887</tname> 
-<tname>Epitonium lamellosum Lamarck</tname> Lamellose Wentletrap 
+Subgenus Gyroscala Boury 1887 
+Epitonium lamellosum Lamarck Lamellose Wentletrap 
 
 Plate 2 23 
 
@@ -29,10 +29,10 @@ South half of Florida and the Caribbean. Also Europe.
 % to I % inches in length, without an umbilicus. 1 1 whorls whitish with 
 irregular, brownish markings. Costae thin, high, always white. Characterized 
 by a fairly strong, raised, spiral thread on the base of the shell. Moderately 
-common from low water to 33 fathoms. Ahas <tname>E. clathrmn</tname> of authors, not 
+common from low water to 33 fathoms. Ahas E. clathrmn of authors, not 
 Linne. 
 
-<tname>Epitonium rupicola Kurtz </tname>Brown-banded Wentletrap 
+Epitonium rupicola Kurtz Brown-banded Wentletrap 
 
 Plate 2 2e 
 
@@ -45,7 +45,7 @@ sometimes present. Base of shell with a single, fine, spiral thread. Formerly
 known as lineatum Say and reynoldsi Sby. Common from low water to 
 about 20 fathoms. 
 
-<tname>Epitonium indianorum Carpenter</tname> Money Wentletrap 
+Epitonium indianorum Carpenter Money Wentletrap 
 
 Forrester Island, Alaska, to Lower California. 
 
@@ -53,8 +53,8 @@ I inch in length, slender, pure white, of 1 1 whorls, each of which has
 13 to 14 sharp costae which are slightly bent backwards. The tops of the 
 costae are slightly pointed. Fairly common offshore. 
 
-Superfamily <tname>HIPPONICACEA</tname> 
+Superfamily HIPPONICACEA 
 
-Family <tname>HIPPONICIDAE</tname> 
+Family HIPPONICIDAE 
 
-Genus <tname>Cheilea Modeer 1793</tname> 
+Genus Cheilea Modeer 1793 

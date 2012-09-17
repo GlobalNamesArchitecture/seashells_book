@@ -6,7 +6,7 @@ with a single, strong fold near the bottom. A fairly rare species.
 
 266 American Seashells 
 
-<tname>Terebra concava Say</tname> Concave Auger 
+Terebra concava Say Concave Auger 
 
 Plate 26) 
 North Carolina to both sides of Florida. 
@@ -15,10 +15,10 @@ North Carolina to both sides of Florida.
 concave whorls. Whorls in spire with a large, heavily nodulated or beaded, 
 swollen spiral cord just below the suture. Above the suture there is a spiral 
 series of 20 very small beads per whorl. The concave middle of the whorl 
-bears about 5 microscopic, incised spiral lines. Color yellowish gray. Common in shallow water. Do not confuse with the larger yellow <tname>T. floridana</tname> 
+bears about 5 microscopic, incised spiral lines. Color yellowish gray. Common in shallow water. Do not confuse with the larger yellow T. floridana 
 which has 2 spiral rows of elongate beads just below the suture. 
 
-<tname>Terebra protexta Conrad</tname> Fine-ribbed Auger 
+Terebra protexta Conrad Fine-ribbed Auger 
 
 Plate 26k 
 
@@ -35,7 +35,7 @@ by the spiral lines; in the form limatula Dall, the ribs and the spiral threads
 are about equal in size and give a reticulated pattern. All occur together in 
 fairly deep water and are common. 
 
-<tname>Terebra hastata Gmelin</tname> Shiny Atlantic Auger 
+Terebra hastata Gmelin Shiny Atlantic Auger 
 
 Plate 26h 
 
@@ -46,7 +46,7 @@ finish, its numerous axial ribs which extend from suture to suture, and by its
 bright yellowish color and white band below the suture. Columella smoothish and white. This is the "fattest" species in the western Atlantic, and is 
 fairly common in the West Indies. 
 
-<tname>Terebra cinerea Born</tname> Gray Atlantic Auger 
+Terebra cinerea Born Gray Atlantic Auger 
 
 Plate 26g 
 

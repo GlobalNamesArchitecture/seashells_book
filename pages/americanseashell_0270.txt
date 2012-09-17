@@ -1,9 +1,9 @@
 from low-tide line to 40 fathoms. On mud, gravel or backs of abalones. 
 
-Family <tname>CONIDAE</tname> 
-Genus <tname>Conus Linne 1758</tname> 
+Family CONIDAE 
+Genus Conus Linne 1758 
 
-<tname>Conus spurius atlanticus</tname> Clench Alphabet Cone 
+Conus spurius atlanticus Clench Alphabet Cone 
 
 Plate 14P 
 
@@ -16,7 +16,7 @@ attractive species found in shallow water. True spurius spurius Gmelin from
 the Bahamas and Antilles differs only in having the spots merging into occasional mottlings. Another race occurs off Yucatan in which the spots are 
 sometimes smaller and a rather dark bluish purple. 
 
-<tname>Conus aureofasciatus Rehder and Abbott</tname> Golden-banded Cone 
+Conus aureofasciatus Rehder and Abbott Golden-banded Cone 
 
 Plate i4g 
 
@@ -26,7 +26,7 @@ Tortugas to off Yucatan, Mexico.
 more slender. Characterized by several spiral bands of light-yellow. Dredged 
 in several fathoms of water. Uncommon to rare. It is possible that this species may be only a freak color form of spurius. 
 
-<tname>Conus daucus Hwass</tname> Carrot Cone 
+Conus daucus Hwass Carrot Cone 
 
 Plate 14a 
 
@@ -38,13 +38,13 @@ orange to lemon-yellow, rarely with a lighter band. Spiral rows of minute
 
 
 
-<tname>CONIDAE</tname> 261 
+CONIDAE 261 
 
 brown dots sometimes present on sides. Interior of aperture pinkish white. 
 Color of spire is orange with large white splotches. Uncommon below 15 
 feet of water. 
 
-<tname>Conus juliae Clench</tname> Julia's Cone 
+Conus juliae Clench Julia's Cone 
 
 Plate 14b 
 

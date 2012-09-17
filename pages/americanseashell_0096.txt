@@ -5,15 +5,15 @@
 
 Plate 1 - THE FIVE CLASSES OF MOLLUSKS 
 
-<tname>GASTROPODA</tname> <tname>PELEC YPODA</tname> 
+GASTROPODA PELEC YPODA 
 
 (a) Turnip Whelk, p. 237. (b) Calico Clam, p. 416. 
 
-<tname>CEPHALOPODA</tname> 
+CEPHALOPODA 
 
 (c) Paper Nautilus, p. 485. 
 
-<tname>AMPHINEURA</tname> <tname>SCAPHOPODA</tname> 
+AMPHINEURA SCAPHOPODA 
 
 (d) West Indian Chiton, p. 324. (e) Ball's Pacific Tusk, p. 327. 
 
@@ -24,23 +24,23 @@ PACIFIC COAST ABALONES
 
 
 
-a. Red Aealone, <tname>Haliotis rujescens Swainson</tname>, 10 to 12 inches. Left, artificially polished; right, natural (Northern California to Mexico), p. 92. 
+a. Red Aealone, Haliotis rujescens Swainson, 10 to 12 inches. Left, artificially polished; right, natural (Northern California to Mexico), p. 92. 
 
-b. Green AbalonE;, <tname>H. fulgens Philippi</tname>, 7 to 8 inches. Left, exterior; right, 
+b. Green AbalonE;, H. fulgens Philippi, 7 to 8 inches. Left, exterior; right, 
 
 interior (California to Mexico), p. 93. 
 
-c. Pink Abalone^, <tname>H. corrugata Gray</tname>, 5 to 7 inches (Monterey, California 
+c. Pink Abalone^, H. corrugata Gray, 5 to 7 inches (Monterey, California 
 
 to Mexico), p. 93. 
 
-d. Threaded Abalone. <tname>H. assimilis Dall</tname>, 4 to 5 inches (California), p. 93. 
+d. Threaded Abalone. H. assimilis Dall, 4 to 5 inches (California), p. 93. 
 
-e. Japanese Abalone, <tname>H. kamtschatkana Jonas</tname>, 4 to 6 inches (Japan, 
+e. Japanese Abalone, H. kamtschatkana Jonas, 4 to 6 inches (Japan, 
 
 southern Alaska to northern California), p. 94. 
 
-f. Black Abalone^ <tname>H. cracherodi Leach</tname>, 4 to 6 inches (California to 
+f. Black Abalone^ H. cracherodi Leach, 4 to 6 inches (California to 
 
 Mexico), p. 92. 
 
@@ -51,10 +51,10 @@ TURBANS, TOP-SHELLS, STAR-SHELLS
 
 
 
-a. Channeled Turban^ <tname>Turbo canaliculatus Hermann</tname>, 2 inches (Southeastern Florida and the West Indies), p. 123. 
+a. Channeled Turban^ Turbo canaliculatus Hermann, 2 inches (Southeastern Florida and the West Indies), p. 123. 
 
-b. Superb Gaza_,<tname> Gaza superba Dall</tname>. 1 inch (Gulf of Mexico), p. 118. 
+b. Superb Gaza_, Gaza superba Dall. 1 inch (Gulf of Mexico), p. 118. 
 
-c. Baird's Spiny <tname>Margarite^ Lischkeia bairdi Dall</tname>, 2 inches (Pacific Coast), 
+c. Baird's Spiny Margarite^ Lischkeia bairdi Dall, 2 inches (Pacific Coast), 
 
 p. 109. 

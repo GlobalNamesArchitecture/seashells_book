@@ -1,7 +1,7 @@
 
-Family <tname>ONCHIDIIDAE</tname> 
+Family ONCHIDIIDAE 
 
-Genus <tname>Onchidella Gray 1850</tname> 
+Genus Onchidella Gray 1850 
 
 Without a shell, animal slug-like, low, oval, with two short tentacles 
 or eyestalks at the end of which are the eyes. Mantle entirely covering the 
@@ -46,9 +46,9 @@ CluiPiRV fcCOOve
 
 
 
-Figure 58. Underside of the marine slug, <tname>Ojichidella</tname>, % inch. 
+Figure 58. Underside of the marine slug, Ojichidella, % inch. 
 
-<tname>Onchidella floridana Dall</tname> Florida Onchidella 
+Onchidella floridana Dall Florida Onchidella 
 
 West coast of Florida, the Lower Keys and Bermuda. 
 

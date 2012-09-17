@@ -1,5 +1,5 @@
 
-<tname>Homalopoma bacula Carpenter</tname> Berry Dwarf Turban 
+Homalopoma bacula Carpenter Berry Dwarf Turban 
 
 Puget Sound to Lower California. 
 
@@ -9,27 +9,27 @@ threads. Color dark, rosy-brown. A moderately common shallow-water
 species, sometimes found with carpe?iteri. A thorough anatomical and life 
 history study of this genus is needed to ascertain the validity of these species. 
 
-Fa7mly <tname>PHASIANELLIDAE</tname> 
-Genus <tname>Tricolia Risso 1826</tname> 
+Fa7mly PHASIANELLIDAE 
+Genus Tricolia Risso 1826 
 
-<tname>Tricolia affinis C. B. Adams</tname> Checkered Pheasant 
+Tricolia affinis C. B. Adams Checkered Pheasant 
 
 
 
-<tname>PHASIANELLIDAE</tname> 1 2 7 
+PHASIANELLIDAE 1 2 7 
 
 Lower Florida Keys and the West Indies. 
 
 % to M inch in length, moderately elongate, smoothish except for microscopic spiral grooves in some specimens. Color rose to brownish, sometimes whitish. Always with numerous small dots of pink, orange or a brownish color. Frequently with zigzag, axial bars of rose or brownish yellow. 
 Often with irregular small spots or blotches of opaque-white. Umbilicus 
-slit-like. Moderately common. <tname>T. concinna C. B. Adams</tname> is probably the 
+slit-like. Moderately common. T. concinna C. B. Adams is probably the 
 same. 
 
-<tname>Tricolia tessellata Pot. and Mich</tname>, from the West Indies is somewhat the 
+Tricolia tessellata Pot. and Mich, from the West Indies is somewhat the 
 same, but it is characterized by distinct, revolving lines of orange or red 
 that descend obliquely over the whorls. Common. 
 
-<tname>Tricolia pulchella C. B. Adams</tname> Shouldered Pheasant 
+Tricolia pulchella C. B. Adams Shouldered Pheasant 
 
 Plate i-jT 
 Southeast Florida and the West Indies. 
@@ -43,11 +43,11 @@ dots of rose, yellow-brown or purplish brown. Umbilicus a mere chink.
 Operculum calcareous, convex, half smooth, the other half with fine, arched 
 riblets. Common in shallow water among dead corals. 
 
-<tname>Tricolia compta Gould</tname> Californian Banded Pheasant 
+Tricolia compta Gould Californian Banded Pheasant 
 
 Crescent City, California, to the Gulf of California. 
 
-/4 to H inch in length, resembling a moderately high-spired <tname>Littorina</tname>, 
+/4 to H inch in length, resembling a moderately high-spired Littorina, 
 but distinguished from that genus by its calcareous operculum. Shell smooth, 
 in life covered by a thin gray-green, translucent periostracum. Characterized 
 by the numerous, spiral lines of blackish green, red, brown or purplish which 
@@ -55,6 +55,6 @@ slant slightly downward, so that they are not parallel to the suture. Axial
 zigzag, wider bands are also present. Very abundant on eel-grass in shallow 
 bays. Frequently washed ashore. 
 
-Genus <tname>Eulithidium Pilsbry 1898</tname> 
-<tname>Eulithidium rubrilineatwn Strong</tname> Miniature Pheasant 
+Genus Eulithidium Pilsbry 1898 
+Eulithidium rubrilineatwn Strong Miniature Pheasant 
 

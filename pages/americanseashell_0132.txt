@@ -3,14 +3,14 @@ with a glossy sheen. Outer surface covered with numerous, crowded, spiral,
 incised lines. Umbilicus with rounded sides, deep, rather narrow. 50 to 100 
 fathoms. Locally common. 
 
-Subgenus <tname>Solariorbis Conrad 1865</tname> 
-<tname>Vitrinella beaui Fischer</tname> Beau's Vitrinella 
+Subgenus Solariorbis Conrad 1865 
+Vitrinella beaui Fischer Beau's Vitrinella 
 
 North Carolina to Florida and the West Indies. 
 
 
 
-<tname>VITRINELLIDAE</tname> 139 
+VITRINELLIDAE 139 
 
 Vs inch in diameter, strong, opaque-white, depressed, 4 whorls. Top of 
 whorls rounded, slightly concave just below the fine suture; bearing 5 or 6 
@@ -19,8 +19,8 @@ widely funnel-shaped, deep. Outer lip crenulate above. Not uncommon in
 shallow water. One of our largest American Vitrinellid species. Provisionally 
 placed in this subgenus. 
 
-Genus <tname>Pseudomalaxts P. Fischer 1885</tname> 
-<tname>Fseudomalaxis nobilis \^errill</tname> Noble False Dial 
+Genus Pseudomalaxts P. Fischer 1885 
+Fseudomalaxis nobilis \^errill Noble False Dial 
 
 Virginia to southeast Florida and the West Indies. 
 
@@ -30,7 +30,7 @@ and below by one or two spiral cords of small beads. Aperture squarish.
 Operculum round, multispiral with a chitinous pimple on the inside. A rare 
 and choice collector's item. Deep water. 70 fathoms. 
 
-<tname>Fseudomalaxis balesi Pilsbry and McGinty</tname> Bales' False Dial 
+Fseudomalaxis balesi Pilsbry and McGinty Bales' False Dial 
 
 Palm Beach and along the Lower Keys, Florida. 
 
@@ -38,9 +38,9 @@ Palm Beach and along the Lower Keys, Florida.
 sienna. Sculpture of fine, spiral striae and strong, widely spaced, radial ribs. 
 Peripheral zone flattened or concave between 2 projecting nodulose keels. 
 Under rocks. Moderately common to rare. This genus was formerly placed 
-in the family <tname>Architectonicidae</tname>. 
+in the family Architectonicidae. 
 
-Genus <tname>Teinostoma H. and A. Adams 1854</tname> 
+Genus Teinostoma H. and A. Adams 1854 
 
 Shells usually about 2 to 3 mm. in diameter, depressed, glossy, white, 
 usually smooth, and with an umbilical callus. They are very distinctive little 
@@ -48,11 +48,11 @@ shells, but require a high-powered lens for their inspection. We have figured
 only one species, but have included a key from the work of Pilsbry and 
 McGinty (1945) (see pi. lyy). 
 
-Key to the Florida <tname>Teinostoma</tname> 
+Key to the Florida Teinostoma 
 
 1. Umbilical callus encircled by a keel. 1.7 mm.; Palm Beach to Cape Florida. 
 
-1 2 to 50 faths. <tname>T. (Ajinulicalhis) lituspalmarum Pils. and McG.</tname> 
+1 2 to 50 faths. T. (Ajinulicalhis) lituspalmarum Pils. and McG. 
 
 2. Umbilical callus and columellar lobe not closing the umbilicus completely; 
 

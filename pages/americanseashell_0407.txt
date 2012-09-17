@@ -1,4 +1,4 @@
-<tname>Chione paphia Linne</tname> King Venus 
+Chione paphia Linne King Venus 
 
 Plate 39a 
 
@@ -9,7 +9,7 @@ smaller, concentric ribs which are thin at their ends. From a side view, the
 dorsal margin of the lunule is very concave. Not very common in the United 
 States. 
 
-<tname>Chione latilirata Conrad</tname> Imperial Venus 
+Chione latilirata Conrad Imperial Venus 
 
 Plate 39c 
 
@@ -21,8 +21,8 @@ a side view, its dorsal margin is almost straight. Surface of shell glossy, crea
 with rose and brown mottlings. Rather uncommon offshore in about 20 
 fathoms. 
 
-Genus <tname>Aiiovralocardia Schumacher 18 17</tname> 
-<tname>Anomalocardia cuneimeris Conrad</tname> Pointed Venus 
+Genus Aiiovralocardia Schumacher 18 17 
+Anomalocardia cuneimeris Conrad Pointed Venus 
 
 Plate 39) 
 
@@ -37,7 +37,7 @@ white or tan with brown or purple rays of fine specklings. Interior white,
 purple or brown. Brackish water specimens are dwarfed. A common sandy 
 shore species. 
 
-<tname>A. brasiliana Gmelin</tname> (West Indian Pointed Venus) which is twice as 
+A. brasiliana Gmelin (West Indian Pointed Venus) which is twice as 
 large, less elongate, and with the concentric ribs extending over into the 
 escutcheon area, has been erroneously reported from the United States. 
 Common in the West Indies and south to Brazil. 
@@ -46,9 +46,9 @@ Common in the West Indies and south to Brazil.
 
 410 Aviericmi Seas hells 
 
-Genus <tname>Protothaca Dall 1902</tname> 
+Genus Protothaca Dall 1902 
 
-<tname>Frotothaca tenerrima Carpenter</tname> Thin-shelled Littlcneck 
+Frotothaca tenerrima Carpenter Thin-shelled Littlcneck 
 
 Vancouver, B.C., to Lower California. 
 
@@ -56,5 +56,5 @@ About 4 inches in length and 2 % inches high, very compressed, relatively
 thin, with a chalky texture, with a few raised concentric lines and numerous very small radial threads. Lunule fairly defined. Exterior light graybrown. Interior chalky-white. A fairly common species, commonly washed 
 ashore on Californian beaches. 
 
-<tname>Frotothaca staininea Conrad</tname> Common Pacific Littleneck 
+Frotothaca staininea Conrad Common Pacific Littleneck 
 

@@ -1,24 +1,24 @@
-<tname>Barnea costata Linne</tname>; b, <tname>Petricola pholadifonnis Lamarck</tname>, False Angel Wing 
+Barnea costata Linne; b, Petricola pholadifonnis Lamarck, False Angel Wing 
 
-(p. 420); c, Northern Piddock, <tname>Zirfaea crispata Linne</tname>. All slightly reduced. 
+(p. 420); c, Northern Piddock, Zirfaea crispata Linne. All slightly reduced. 
 
 (From Gould and Binney 1870.) 
 
-<tname>Barnea truncata Say</tname> Fallen Angel Wing 
+Barnea truncata Say Fallen Angel Wing 
 
 Massachusetts Bay to south Florida. 
 
-2 to 2/4 inches in length, somewhat resembling the Angel Wing,<tname> B. 
-costata</tname>, but widely gaping at both ends, truncate at the posterior end, 
+2 to 2/4 inches in length, somewhat resembling the Angel Wing, B. 
+costata, but widely gaping at both ends, truncate at the posterior end, 
 smoothish at the posterior half, and with an elongate, narrow accessory 
 plate over the beak area. Shell fragile, white to grayish white. The internal 
 condyle is long and about the thickness of a toothpick. The siphons are 
 encased in a large, rough, gray, tubular sheath which may be extended 2 to 
 3 times the length of the shell. Bores into clay, soft rock or wood. Common 
-in intertidal zones. Do not confuse with <tname>Zirfaea crispata</tname> which is much 
+in intertidal zones. Do not confuse with Zirfaea crispata which is much 
 more squat and has a radial, indented line dividing each valve into 2 areas. 
 
-<tname>Barnea siibtnmcata Sowcrby 1834</tname> Pacific Mud Piddock 
+Barnea siibtnmcata Sowcrby 1834 Pacific Mud Piddock 
 
 San Francisco, California, to Lower California. 
 
@@ -33,11 +33,11 @@ radial groove on the sides of the valves. Sculpture at anterior end is of prickl
 concentric lamellae which fade out toward the smoothish posterior third. 
 Siphon covered with a heavy, brown periostracum. May be dug out of 
 very soft shale at very low tides in a few localities. Moderately common. 
-Miss Turner advises me that this species must take the earlier name of <tname>Barnea 
-spathidata Deshayes</tname>. It was formerly known as<tname> B. pacifica Stearns</tname>. 
+Miss Turner advises me that this species must take the earlier name of Barnea 
+spathidata Deshayes. It was formerly known as B. pacifica Stearns. 
 
-Genus <tname>Zirfaea Gray 1842 </tname>
-<tname>Zirfaea crispata Linne</tname> Great Piddock 
+Genus Zirfaea Gray 1842 
+Zirfaea crispata Linne Great Piddock 
 
 Figure 94c 
 
@@ -49,7 +49,7 @@ section which has fimbriated or scaled growth lines and a serrated edge.
 A4oderately common in cold water where it burrows into soft r^ck. This is 
 the only member of the genus on the Atlantic Coast. 
 
-<tname>Zirfaea pilsbryi Lowe</tname> Pacific Rough Piddock 
+Zirfaea pilsbryi Lowe Pacific Rough Piddock 
 
 Bering Sea to San Diego, California. 
 
@@ -57,4 +57,4 @@ Bering Sea to San Diego, California.
 accessory plates present, except for a small mesoplax. The folded-back dorsal 
 margin at, and in front of, the beaks is covered with a thin, periostracal 
 membrane in fresh material. The yellowish periostracum at the posterior 
-end (siphonal end) is thin, but is not leaf-like as in <tname>Parapholas</tname>. No eggshelllike material over the anterior foot gape. This species appears in old books 
+end (siphonal end) is thin, but is not leaf-like as in Parapholas. No eggshelllike material over the anterior foot gape. This species appears in old books 

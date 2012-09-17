@@ -8,7 +8,7 @@ southern California. It lives 3 to 6 inches below the surface of the sand.
 
 
 
-<tname>Mactra nasuta Gould</tname> Gould's Pacific Mactra 
+Mactra nasuta Gould Gould's Pacific Mactra 
 
 San Pedro, California, to Mazatlan, Mexico. 
 
@@ -18,9 +18,9 @@ distinct, raised, radial ridges on the posterior dorsal margin. The whitish
 shell is glossy and the periostracum is shiny and yellowish tan. Not very 
 common. 
 
-Genus <tname>Spisula Gray 1837</tname> 
+Genus Spisula Gray 1837 
 
-<tname>Spisiila soUdissima Dillwyn</tname> Atlantic Surf Clam 
+Spisiila soUdissima Dillwyn Atlantic Surf Clam 
 
 Plate 32P 
 Nova Scotia to South Carolina. 
@@ -41,7 +41,7 @@ larger pallial sinus.
 
 
 
-<tname>Spisula polynyma Stimpson</tname> Stimpson's Surf Clam 
+Spisula polynyma Stimpson Stimpson's Surf Clam 
 
 Plate 31W; figure 26k 
 
@@ -50,7 +50,7 @@ Arctic Seas to Rhode Island. Arctic Seas to Puget Sound. Also Japan.
 
 
 
-<tname>MACTRIDAE</tname> 
+MACTRIDAE 
 
 
 

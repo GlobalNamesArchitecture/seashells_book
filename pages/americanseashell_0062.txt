@@ -27,12 +27,12 @@ How to Know American Seashells
 
 
 
-Figure 22. Various shapes of gastropods, a, globose {<tname>Lunaiia heros Say</tname>); b, capshaped (<tname>Acjnaea testitdinalis Miiller</tname>); c, fusiform and with an anal notch on the 
-outer lip {<tname>Cerodrillia acestra Dall</tname>); d, sinistral or left-handed (<tname>A?itiplanes vinosa 
-Dall</tname>); e, slipper-shaped (<tname>Crepidiila fomicata Linne</tname>); f, high-spired (<tname>Terebra 
-nassida Dall</tname>); g, low-spired (<tname>Architectojiica peracuta Dall</tname>); h, cone-shaped 
-(<tname>Conus</tname>) ; i, whorls freely coiled ( <tname>Vermicidaria spirata Philippi</tname>) ; j, spinose {<tname>Murex 
-hystricimis Dall</tname>); k, spindle-shaped (<tname>FiisiJius eucosinms Dall</tname>). 
+Figure 22. Various shapes of gastropods, a, globose {Lunaiia heros Say); b, capshaped (Acjnaea testitdinalis Miiller); c, fusiform and with an anal notch on the 
+outer lip {Cerodrillia acestra Dall); d, sinistral or left-handed (A?itiplanes vinosa 
+Dall); e, slipper-shaped (Crepidiila fomicata Linne); f, high-spired (Terebra 
+nassida Dall); g, low-spired (Architectojiica peracuta Dall); h, cone-shaped 
+(Conus) ; i, whorls freely coiled ( Vermicidaria spirata Philippi) ; j, spinose {Murex 
+hystricimis Dall); k, spindle-shaped (FiisiJius eucosinms Dall). 
 
 
 
@@ -55,6 +55,6 @@ identifying a snail shell, and little would be gained in discussing at length
 what our photographs so clearly demonstrate. However, the shape of the 
 adult shell in some species may differ radically from its young stages as may 
 be seen in the illustrations of the cowries (pi. 6g) or the American Pelican 
-Foot (<tname>Aporj'hais</tname>, pi. 23c). Monstrosities caused by embryological defaults 
+Foot (Aporj'hais, pi. 23c). Monstrosities caused by embryological defaults 
 or by injury in early life have always been a source of error in identification, 
 and in certain extreme cases many species have been erroneously described 

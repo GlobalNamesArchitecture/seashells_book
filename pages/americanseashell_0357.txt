@@ -2,7 +2,7 @@ in or on dead or live Pinna shells.
 
 
 
-<tname>Atrina serrata Sowerby</tname> Saw-toothed Pen Shell 
+Atrina serrata Sowerby Saw-toothed Pen Shell 
 
 Plate 27V 
 
@@ -11,19 +11,19 @@ North Carolina and south half of Florida.
 Similar in size and shape to rigida, but covered with many more, much 
 smaller, sharp spines. It is usually thinner-shelled and lighter in color. Commonly washed ashore with rigida. 
 
-Super jamily <tname>PECTINACEA</tname> 
+Super jamily PECTINACEA 
 
-Family <tname>PLICATULIDAE</tname> 
+Family PLICATULIDAE 
 
-Genus <tname>Plicatula Lamarck 1801</tname> 
+Genus Plicatula Lamarck 1801 
 
 Shell trigonal or spathate, thick-shelled and attached by either valve 
-to rocks or other shells. Sculpture of broad, radial ribs. Hinge with a nar<tname>PECTINIDAE</tname> 361 
+to rocks or other shells. Sculpture of broad, radial ribs. Hinge with a narPECTINIDAE 361 
 
 row, elongate chondrophore which is flanked on each side by a fluted tooth 
 and a socket. 
 
-<tname>Plicatula gibbosa Lamarck</tname> Kitten's Paw 
+Plicatula gibbosa Lamarck Kitten's Paw 
 
 Plate 356 
 
@@ -36,23 +36,23 @@ attached valve with 2 sockets in the hinge with 2 smaller teeth set rather
 close together. Color dirty-white to gray with red-brown or purplish lines 
 on the ribs. A common intertidal to offshore species. 
 
-Family <tname>PECTINIDAE</tname> 
+Family PECTINIDAE 
 
 Because of the great number of fossil and living species of scallops and 
 the almost limitless modifications exhibited by them, there have been no 
 less than 50 genera and subgenera proposed in this family by various authors. 
 Doubtlessly, many more will be invented. Most, if not all, of these genera 
 are closely integrated by connecting species. Workers have a choice of 
-using the single genus, <tname>Pecteji</tname>, or employing a genus for nearly every species. 
-We are arbitrarily employing only six genera — <tname>Pecte</tname>??, <tname>Aequipecten</tname>, <tname>Chla772ys</tname>, <tname>Placopecten</tname>, <tname>Lyropecteii</tname> and <tname>Himiites</tname> — and we cannot justify these 
-on biological grounds. It may be noted that we have moved the glassy, thinshelled <tname>Propeamiisshim</tname> from the <tname>Pectinidae</tname> into a family of its own on 
-anatomical grounds. This new family refers to what was once called "<tname>Amussiidae</tname>." True <tname>Aumsiwn</tname>, however, is merely a subgenus of <tname>Pecteii</tname> connected 
-to it by a series of species in the <tname>Euvola</tname> group. 
+using the single genus, Pecteji, or employing a genus for nearly every species. 
+We are arbitrarily employing only six genera — Pecte??, Aequipecten, Chla772ys, Placopecten, Lyropecteii and Himiites — and we cannot justify these 
+on biological grounds. It may be noted that we have moved the glassy, thinshelled Propeamiisshim from the Pectinidae into a family of its own on 
+anatomical grounds. This new family refers to what was once called "Amussiidae." True Aumsiwn, however, is merely a subgenus of Pecteii connected 
+to it by a series of species in the Euvola group. 
 
-Genus <tname>Pecten Miiller 1776</tname> 
-Subgenus <tname>Pecten s. str.</tname> 
+Genus Pecten Miiller 1776 
+Subgenus Pecten s. str. 
 
-<tname>Pecten diegensis Dall</tname> San Diego Scallop 
+Pecten diegensis Dall San Diego Scallop 
 
 Plate 336 
 

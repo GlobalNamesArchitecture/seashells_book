@@ -10,8 +10,8 @@ rock.
 
 
 
-Subgenus <tname>Dibenis Dall 1898</tname> 
-<tname>Lithophaga bisulcata Orbigny</tname> Mahogany Date Mussel 
+Subgenus Dibenis Dall 1898 
+Lithophaga bisulcata Orbigny Mahogany Date Mussel 
 
 Plate 28n 
 
@@ -25,13 +25,13 @@ edge of the shell. A fairly common rock-boring species.
 
 
 
-<tname>Lithophaga plujnula kelseyi Hertlein and Strong</tname> Kelsey's Date Mussel 
+Lithophaga plujnula kelseyi Hertlein and Strong Kelsey's Date Mussel 
 
 Plate i()i 
 
 San Diego north to Mendocino County, California. 
 
-I to 2 inches in length, similar to <tname>L. bisulcata</tname>, but the calcareous matter 
+I to 2 inches in length, similar to L. bisulcata, but the calcareous matter 
 on the posterior end is strongly pitted and furrowed to look like a wet, ruffled 
 feather. Typical plmnula Hanley ranges from Lower California to Peru. 
 Both fairly common in rocks. 
@@ -40,20 +40,20 @@ Both fairly common in rocks.
 
 358 America}! Seashells 
 
-Superfamily <tname>PTERIACEA</tname> 
+Superfamily PTERIACEA 
 
-Family <tname>ISOGNOMONIDAE</tname> 
+Family ISOGNOMONIDAE 
 
-Genus <tname>Isognomon Solander 1786</tname> 
+Genus Isognomon Solander 1786 
 
 Shell thin and greatly compressed; interior pearly; anterior margin with 
 a narrow byssal gape near the dorsal margin. Hinge with numerous parallel 
-grooves perpendicular to the dorsal margin of the valve. <tname>Perna Bruguiere </tname>
-and <tname>Pedalion Dillwyn</tname> are synonyms. <tname>Pedalion Solander 1770</tname> is invalid. 
+grooves perpendicular to the dorsal margin of the valve. Perna Bruguiere 
+and Pedalion Dillwyn are synonyms. Pedalion Solander 1770 is invalid. 
 
 
 
-<tname>tsognomon alatus Gmelin</tname> Flat Tree Oyster 
+tsognomon alatus Gmelin Flat Tree Oyster 
 
 Plate 35b 
 

@@ -1,8 +1,8 @@
 
-Family <tname>MAGILIDAE</tname> 
-Genus <tname>Coralliophila H. and A. Adams 1853</tname> 
+Family MAGILIDAE 
+Genus Coralliophila H. and A. Adams 1853 
 
-<tname>CoralUophila abbreviata Lamarck</tname> Short Coral-shell 
+CoralUophila abbreviata Lamarck Short Coral-shell 
 
 Southeast Florida and the West Indies. 
 
@@ -16,11 +16,11 @@ ridges. Spiral sculpture of crowded, variously sized spiral cords which are
 made up of numerous microscopic scales. Aperture enamel-white, rounded 
 above and constricted into a short siphonal canal below. Umbilicus small, 
 shallow and funnel-shaped. A common species found living in the bases of 
-seafans. <tname>C. deburghiae Reeve</tname> is a deep-water form or species with long, triangular ribs projecting straight out from the periphery of the whorl. It is 
+seafans. C. deburghiae Reeve is a deep-water form or species with long, triangular ribs projecting straight out from the periphery of the whorl. It is 
 uncommon. 
 
-Subgenus <tname>Latiaxis Swainson 1840</tname> 
-<tname>Coralliophila costata Blainville</tname> California Latiaxis 
+Subgenus Latiaxis Swainson 1840 
+Coralliophila costata Blainville California Latiaxis 
 
 Point Conception, Cahfornia, to Panama. 
 
@@ -28,13 +28,13 @@ I to I % inches in length, variable in shape and the development of frills
 and spines. Deep-water forms (called hindsi Carpenter) bear triangular, flattened, up-turned spines on the periphery of the whorl. Spiral cords are 
 strongly scaled. Color light-gray with an enamel-white aperture. Moderately common offshore. A choice collector's item. 
 
-Superfamily <tname>BUCCINACEA</tname> 
-Family <tname>COLUMBELLIDAE</tname> 
+Superfamily BUCCINACEA 
+Family COLUMBELLIDAE 
 
-(<tname>Pyrenidae</tname>) 
-Genus <tname>Colmnbella Lamarck 1799</tname> 
+(Pyrenidae) 
+Genus Colmnbella Lamarck 1799 
 
-<tname>Columbella 7nercatoria Linne</tname> Common Dove-shell 
+Columbella 7nercatoria Linne Common Dove-shell 
 
 Plate 25bb 
 
@@ -45,11 +45,11 @@ brown, interrupted spiral bars over yellow, pink or orange background.
 Sometimes only maculated with one color (orange, brown or yellow). Outer 
 lip thick, bearing about a dozen white teeth. A common shallow-water species frequently cast up on beaches. Not found on the west coast of Florida. 
 
-<tname>Colwnbella rusticoides Heilprin</tname> Rusty Dove-shell 
+Colwnbella rusticoides Heilprin Rusty Dove-shell 
 
 Key West north along the west coast of Florida. 
 
-Similar to <tname>C. mercatoria</tname>, but much more slender, smooth on the center 
+Similar to C. mercatoria, but much more slender, smooth on the center 
 of the body whorl, and with mauve-brown marks between the apertural 
 teeth. Also more faintly colored and lacking spiral bars or lines of brown. 
 Common down to 20 feet. 

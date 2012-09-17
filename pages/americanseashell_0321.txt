@@ -5,15 +5,15 @@ a small, single-lobed lappet. Common from
 I to 15 fathoms. 
 
 In the north, the exterior color is buff to ashen, rarely reddish. On the 
-west coast of Florida, where they are commonly found attached to <tname>Finna</tname> 
+west coast of Florida, where they are commonly found attached to Finna 
 shells, the colors vary from light-gray, mauve, yellow to white, and are 
 commonly with a darker or lighter streak down the center or rarely with 
 longitudinal blue stripes. 
 
-Genus <tname>Ischnochiton Gray 1847 </tname>
-Subgenus<tname> Stenoplax Carpenter 1878 </tname>
+Genus Ischnochiton Gray 1847 
+Subgenus Stenoplax Carpenter 1878 
 
-<tname>Ischnochiton floridanus Pilsbry</tname> Florida Slender Chiton 
+Ischnochiton floridanus Pilsbry Florida Slender Chiton 
 
 Miami to Dry Tortugas, Florida. 
 
@@ -27,17 +27,17 @@ axially) beaded. Intermediate valves with i slit, posterior valve with 9.
 Girdle marbled with bluish and gray, and densely covered with round, solid, 
 finely striated scales. Moderately common. 
 
-<tname>Ischnochiton purpmascens C. B. Adams</tname> (Purplish Slender Chiton) 
+Ischnochiton purpmascens C. B. Adams (Purplish Slender Chiton) 
 from the West Indies is very similar, but the end valves and lateral areas 
 have smooth, instead of beaded, wavy, concentric riblets. Common. 
 
-<tname>Ischnochitoji papillosus C. B. Adams</tname> Mesh-pitted Chiton 
+Ischnochitoji papillosus C. B. Adams Mesh-pitted Chiton 
 
 Tampa to the Lower Keys and the West Indies. 
 
 
 
-<tname>ISCHNOCHITONIDAE</tname> 3 2 1 
+ISCHNOCHITONIDAE 3 2 1 
 
 % to /4 inch in length, oval. Moderately sculptured and without very 
 distinct lateral areas. It has microscopic, even, quincunx pittings on the upper 
@@ -49,7 +49,7 @@ which are finely striated. A fairly common shallow-water species.
 
 
 
-<tname>Ischnochiton magdalenensis Hinds</tname> Magdalena Chiton 
+Ischnochiton magdalenensis Hinds Magdalena Chiton 
 
 Coos Bay, Oregon, to Lower California. 
 

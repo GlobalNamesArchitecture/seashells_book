@@ -3,12 +3,12 @@
 with numerous, small, opaque-white granules. Uncommon from 30 to 100 
 fathoms. 
 
-Genus <tname>Cardiojnya A. Adams 1864</tname> 
+Genus Cardiojnya A. Adams 1864 
 
 With strong, sharp radial ribs; fossette more vertical and prominent, 
-otherwise like <tname>Cuspidaria</tname>. 
+otherwise like Cuspidaria. 
 
-<tname>Cardioviya costellata Deshayes</tname> Costate Cuspidaria 
+Cardioviya costellata Deshayes Costate Cuspidaria 
 
 North Carolina to south Florida and the West Indies. 
 
@@ -16,14 +16,14 @@ North Carolina to south Florida and the West Indies.
 of the valve in that area a scalloped edge. Anteriorly, the radial ribs are closer 
 together, but weaker, and are rarely present at the anterior end of the shell. 
 Additional ribs may develop in older specimens and become more even in 
-size. (<tname>C. midticostata Verrill and Smith</tname> may be the old form and <tname>C. geirnna 
-Verrill and Bush</tname> the young form.) Commonly dredged off eastern Florida. 
+size. (C. midticostata Verrill and Smith may be the old form and C. geirnna 
+Verrill and Bush the young form.) Commonly dredged off eastern Florida. 
 
 
 
-<tname>CUSPIDARIIDAE</tname> 477 
+CUSPIDARIIDAE 477 
 
-<tname>Cardio7nya pectinata Carpenter</tname> Pectinate Cuspidaria 
+Cardio7nya pectinata Carpenter Pectinate Cuspidaria 
 
 Puget Sound, Washington, to Panama. 
 
@@ -55,6 +55,6 @@ CHAPTER XI
 Squid, 
 Octopus and Cuttlefish 
 
-Class <tname>CEPHALOPODA</tname> 
+Class CEPHALOPODA 
 
-Subclass <tname>TETRABRANCHIA</tname> 
+Subclass TETRABRANCHIA 

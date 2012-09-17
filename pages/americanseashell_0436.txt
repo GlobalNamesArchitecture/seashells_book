@@ -6,13 +6,13 @@ The valves are reinforced internally by a very weak, radial rib (commonly
 
 
 
-<tname>SANGUINOLARllDAE</tname> 441 
+SANGUINOLARllDAE 441 
 
 obscure) running across the center of the valve just anterior to the 2 small, 
 projecting cardinal teeth. Color of shell whitish purple, covered externally 
 with a very thin, chestnut-brown, glossy periostracum. A common shallowwater species. 
 
-<tname>Tagehis subteres Conrad</tname> Purplish Pacific Tagelus 
+Tagehis subteres Conrad Purplish Pacific Tagelus 
 
 Plate 29s 
 
@@ -23,17 +23,17 @@ margins sloping down from the beaks. Color pale purple inside and out.
 Periostracum yellowish brown and finely wrinkled. Moderately common in 
 shallow water in sandy mud. 
 
-<tname>Tagehis politiis Carpenter</tname> from Central America does not slope down 
+Tagehis politiis Carpenter from Central America does not slope down 
 from the beaks so strongly, is a thinner shell and much more darkly colored 
 with violet. 
 
-Genus <tname>Meter odonax Morch 1853</tname> 
+Genus Meter odonax Morch 1853 
 
 Shell less than i inch in length, resembling a strong, oval Tellina. Two 
 cardinals and two lateral teeth in each valve, the laterals usually not very 
 distinct. Pallial sinus extends % the length of the shell. 
 
-<tname>Heterodonax bimaculatus Linne</tname> Small False Donax 
+Heterodonax bimaculatus Linne Small False Donax 
 
 Plate 3oh 
 
@@ -46,15 +46,15 @@ in each valve. Anterior to the beaks (which point forward), the hinge is
 thick for a short distance, then followed by a thinner, concave portion. Color 
 variable: white with 2 oblong crimson spots inside; violet with radial streaks; 
 pink, yellow or mauve; some are speckled with black or brown. This is a 
-common species found with <tname>Donax</tname> on the slopes of sandy beaches. <tname>H. pacificiis Conrad</tname> is a synonym. 
+common species found with Donax on the slopes of sandy beaches. H. pacificiis Conrad is a synonym. 
 
-Genus <tname>Gari Schumacher 18 17</tname> 
+Genus Gari Schumacher 18 17 
 
 Shell fairly large, elongate-oval, beaks near the center; hinge thick and 
-with 2 small, bifid teeth just under the beak. Alias<tname> Psainmobia Lam. 18 18</tname>. 
+with 2 small, bifid teeth just under the beak. Alias Psainmobia Lam. 18 18. 
 
-Subgenus <tname>Fsamvtocola Blainville 1824</tname> 
-<tname>Gari californica Conrad</tname> Californian Sunset Clam 
+Subgenus Fsamvtocola Blainville 1824 
+Gari californica Conrad Californian Sunset Clam 
 
 Plate 2911 
 

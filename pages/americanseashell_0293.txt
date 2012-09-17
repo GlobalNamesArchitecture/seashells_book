@@ -1,13 +1,13 @@
 
 
 
-Family <tname>PLEUROBRANCHIDAE</tname> 
+Family PLEUROBRANCHIDAE 
 
-Genus <tname>Fleiirobranchiis Cuvier 1805 </tname>
+Genus Fleiirobranchiis Cuvier 1805 
 
-Subgenus <tname>Siisania Gray 1857 </tname>
+Subgenus Siisania Gray 1857 
 
-<tname>Pleurobranchus atlanticus Abbott</tname> Atlantic Pleurobranch 
+Pleurobranchus atlanticus Abbott Atlantic Pleurobranch 
 
 Figure 61 
 
@@ -17,7 +17,7 @@ I % to 2 inches in length. Mantle with U-shaped notch in front where
 two tube-like rhinophores protrude up. Dorsum or back with numerous 
 small rounded warts. Color yellowish orange with irregular splotches of deep 
 maroon-brown. Largest warts translucent pale-yellow with a chocolate ring 
-around the base. Some tipped with chalk-white. Foot pale-yellow to orang<tname>PLEUROBRANCHIDAE</tname> 
+around the base. Some tipped with chalk-white. Foot pale-yellow to orangPLEUROBRANCHIDAE 
 
 
 
@@ -32,7 +32,7 @@ with 1 5 smaller leaflets, each of which has 5 to i o microscopic plates. Shell
 
 
 
-Figure 61. <tname>Pleiirobranchus atlmiticits Abbott</tname>, i V2 inches. 2 and 3, entire animal; 
+Figure 61. Pleiirobranchus atlmiticits Abbott, i V2 inches. 2 and 3, entire animal; 
 4, rhinophore; 5, cross-section of velum; 6, genitalia; 7, details of gill plume; 8, 
 shell; 9, radula; 10, platelets in mandibles. (From R. T. Abbott 1949, Nautilus 
 
@@ -40,15 +40,15 @@ vol. 62.)
 
 small, calcareous, pinkish white, flat with a small spire, and located under the 
 dorsum. Moderately common in shallow water in winter on Soldier Key, 
-near Miami. Originally collected by F. M. Bayer, <tname>P. gardineri White</tname> is a 
+near Miami. Originally collected by F. M. Bayer, P. gardineri White is a 
 synonym. 
 
 
 
 288 American Seashells 
 
-Superjamily <tname>PYRAMIDELLACEA</tname> 
-Family <tname>PYRAMIDELLIDAE</tname> 
+Superjamily PYRAMIDELLACEA 
+Family PYRAMIDELLIDAE 
 
 This is a well-known family of very small gastropods which are extremely baffling to novices attempting to identify any one of the several hundred so-called species. Even among the experts there is not always agreement 
 on what constitutes a species, subgenus or genus in this group. It would be 

@@ -1,9 +1,9 @@
 
 
-<tname>COLUMBELLIDAE</tname> 221 
+COLUMBELLIDAE 221 
 
-Genus <tname>Anachis H. and A. Adams 1853</tname> 
-<tname>Anachis avara Say</tname> Greedy Dove-shell 
+Genus Anachis H. and A. Adams 1853 
+Anachis avara Say Greedy Dove-shell 
 
 Plate 2566 
 
@@ -18,7 +18,7 @@ axial riblets. Color yellowish brown to dark gray-brown over which may be
 seen a faint pattern of irregular, white, large dots. Sometimes with darkbrown specklings. 4 weak teeth inside inner lip. A very common low-tide 
 mark species. 
 
-<tname>Anachis obesa C. B. Adams</tname> Fat Dove-shell 
+Anachis obesa C. B. Adams Fat Dove-shell 
 
 Virginia to Florida, the Gulf States and the West Indies. 
 
@@ -29,7 +29,7 @@ Parietal shield faintly developed, but with a sharp edge. Inner wall of outer
 lip with about 3 to 5 small teeth. The form ostreicola Melville from northwest Florida is dark-brown and with stronger spiral threads or wider incised 
 lines. This is a common shallow-water species. 
 
-<tname>Anachis translirata Ravenel</tname> Well-ribbed Dove-shell 
+Anachis translirata Ravenel Well-ribbed Dove-shell 
 
 Plate 25flF 
 
@@ -40,7 +40,7 @@ entire depth of each whorl, and with strong incised spiral lines throughout.
 Outer lip with about a dozen tiny teeth. Color drab yellowish to brown, but 
 sometimes with wide, subdued, spiral bands of darker brown. Dredged commonly just offshore usually from 2 to 20 fathoms. 
 
-<tname>Anachis penicillata Carpenter</tname> Penciled Dove-shell 
+Anachis penicillata Carpenter Penciled Dove-shell 
 
 San Pedro to Lower California. 
 
@@ -55,6 +55,6 @@ whorl, which are made slightly uneven by numerous very fine spiral threads.
 Color translucent-cream with sparse spottings of brown. Common under 
 rocks between tide marks. 
 
-Genus <tname>Nitidella Swainson 1840</tname> 
-<tname>Nitidella ocellata Gmelin</tname> White-spotted Dove-shell 
+Genus Nitidella Swainson 1840 
+Nitidella ocellata Gmelin White-spotted Dove-shell 
 

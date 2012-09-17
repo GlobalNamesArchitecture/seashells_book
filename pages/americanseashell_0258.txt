@@ -4,11 +4,11 @@ or Golden Panama is merely a rare orange form of this species. Sometimes
 pure white or very dark-brown in color. A common West Indian species. 
 See remarks under say ana. 
 
-Genus <tname>Olwella Swainson 183 1</tname> 
+Genus Olwella Swainson 183 1 
 
-Distinguished from the genus <tname>Oliva</tname> by its much smaller shell and in possessing an operculum. 
+Distinguished from the genus Oliva by its much smaller shell and in possessing an operculum. 
 
-<tname>Olivella miitica Say</tname> Variable Dwarf Olive 
+Olivella miitica Say Variable Dwarf Olive 
 
 Plate 22V 
 North Carolina to Florida, Texas and the West Indies. 
@@ -18,7 +18,7 @@ callus is present on the parietal wall at the upper end of the aperture. Variabl
 wide bluish-gray spiral bands. Sometimes brightly banded with white and 
 browns. A very common species found in warm, shallow waters. 
 
-<tname>Olivella nivea Gmelin</tname> West Indian Dwarf Olive 
+Olivella nivea Gmelin West Indian Dwarf Olive 
 
 Plate iih, j 
 Southeast Florida, the West Indies and Bermuda. 
@@ -31,7 +31,7 @@ fasciole (that raised spiral ridge at the base of the shell). Fasciole lacks col
 Common from shore to 25 fathoms. Compare with jaspidea which has a 
 more bulbous apex. 
 
-<tname>Olivella jaspidea Gmelin</tname> Jasper Dwarf Olive 
+Olivella jaspidea Gmelin Jasper Dwarf Olive 
 
 Plate 1 1 -i 
 Southeast Florida to Barbados. 
@@ -42,19 +42,19 @@ brown. Fasciole at base of columella with irregular, brown spots and bars.
 A common West Indian species found in shallow water in sand. Compare 
 with nivea. 
 
-<tname>Olivella moorei Abbott</tname> Moore's Dwarf Olive 
+Olivella moorei Abbott Moore's Dwarf Olive 
 
 Off Key Largo to Key West, Florida. 
 
 
 
-<tname>OLIVIDAE</tname> 247 
+OLIVIDAE 247 
 
 % inch in length, apex bulbous. Characterized by its translucent shell 
 with numerous, long, wavy, axial flammules of reddish brown on the sides of 
 the whorls. Dredged from 115 to 144 fathoms. Named for Hilary B. Moore 
 of the University of Miami, Florida. 
 
-<tname>Olivella floralia Duclos</tname> Common Rice Olive 
+Olivella floralia Duclos Common Rice Olive 
 
 North Carolina to both sides of Florida and the West Indies. 

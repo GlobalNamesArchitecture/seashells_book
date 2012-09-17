@@ -1,10 +1,10 @@
-<tname>CARDIIDAE</tname> 401 
+CARDIIDAE 401 
 
 Exterior orange-yellow; interior china-white. This is the largest species of 
 recent cockles and is moderately common. 
 
-Genus <tname>Dinocardium Dall 1900</tname> 
-<tname>Dinocardiu77t robustum Solander</tname> Giant Atlantic Cockle 
+Genus Dinocardium Dall 1900 
+Dinocardiu77t robustum Solander Giant Atlantic Cockle 
 
 Plate 32a 
 
@@ -18,11 +18,11 @@ in southwest Florida.
 
 When the Florida Canal project was begun in 1935, President F. D. 
 Roosevelt was presented with a large silver platter on which was set a 
-specimen of <tname>Di7iocardium</tname>, encased in gold and containing a portion of the 
+specimen of Di7iocardium, encased in gold and containing a portion of the 
 first earth excavated as a result of the blast set off by the President. The 
 canal was never completed. 
 
-<tname>Dinocardium robustwit vanhyningi Clench and L. C. Smith</tname> 
+Dinocardium robustwit vanhyningi Clench and L. C. Smith 
 
 Vanhyning's Cockle 
 
@@ -37,13 +37,13 @@ more colorful than robustum, and is the common, large cockle on the west
 coast of Florida. They are popular souvenirs, being used for ash trays, 
 melted-butter dishes, baking dishes and for holding pincushions. 
 
-Genus <tname>Serripes Gould 1841</tname> 
+Genus Serripes Gould 1841 
 
 There is only one species of this peculiar genus of cockles in North 
 American waters. The hinge is narrow, the cardinal teeth weak, and the 
 ligament is large. The radial ribs are very weak. 
 
-<tname>Serripes groenlandiczis Bruguiere</tname> Greenland Cockle 
+Serripes groenlandiczis Bruguiere Greenland Cockle 
 
 Plate 32d 
 

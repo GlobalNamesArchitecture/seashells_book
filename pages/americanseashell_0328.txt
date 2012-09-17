@@ -1,6 +1,6 @@
 
 
-<tname>DENTALIIDAE</tname> 
+DENTALIIDAE 
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-<tname>Dentalium texasianum Philippi </tname>
+Dentalium texasianum Philippi 
 
 North Carolina and the Gulf States. 
 
@@ -38,19 +38,19 @@ o
 
 
 
-Figure 69. Tusk Shells, a, <tname>Cadiihis carolmensis Bush</tname>, % inch (southeast United 
-States), showing an enlargement of the apical end; b, apical end of <tname>Caduliis qiiadridentatiis Dall</tname>, % inch (southeast United States); c, <tname>Dentalium texasiamnn Philippi</tname>, 
+Figure 69. Tusk Shells, a, Cadiihis carolmensis Bush, % inch (southeast United 
+States), showing an enlargement of the apical end; b, apical end of Caduliis qiiadridentatiis Dall, % inch (southeast United States); c, Dentalium texasiamnn Philippi, 
 I inch (southeast United States), showing cross-section at each end; d, cross-section 
-of <tname>D. pilsbryi Rehder</tname>, i inch (west Florida); e,<tname> D. eboreum Conrad</tname>, 2 inches 
-(southeast United States); f, <tname>D. pretiosiim Sowerby</tname>, 2 inches (Pacific Coast). 
+of D. pilsbryi Rehder, i inch (west Florida); e, D. eboreum Conrad, 2 inches 
+(southeast United States); f, D. pretiosiim Sowerby, 2 inches (Pacific Coast). 
 
 
 
-Subgenus <tname>Dentale Da Costa 1778</tname> 
+Subgenus Dentale Da Costa 1778 
 
 
 
-<tname>Dentalium entale stimpsoni Henderson</tname> 
+Dentalium entale stimpsoni Henderson 
 
 
 

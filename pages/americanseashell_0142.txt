@@ -10,17 +10,17 @@ Shell elongate, round in cross-section. Aperture moderately oblique; apical
 
 plug dome-shaped with a tiny pimple on one side. Color translucent-tan to 
 light-brown. Old specimens are whitish, often with a purplish stain. The 
-shell has a white band behind the aperture. <tname>C. hemphilli Bartsch</tname> and <tname>C. bakeri 
-Bartsch</tname> are probably diminutive forms of this species. The development of 
+shell has a white band behind the aperture. C. hemphilli Bartsch and C. bakeri 
+Bartsch are probably diminutive forms of this species. The development of 
 the small pimple on top of the dome-shaped plug is variable. 
 
-Subgenus <tname>Meioceras Carpenter 1858</tname> 
+Subgenus Meioceras Carpenter 1858 
 
 Shells 2 to 4 mm. in length, very bulbous in the middle, smooth, and 
-with an oblique, constricted aperture. Resembles a miniature <tname>Cadulus</tname> 
+with an oblique, constricted aperture. Resembles a miniature Cadulus 
 (Scaphopoda). 
 
-<tname>Caecum nitidwn Stimpson</tname> Little Horn Caecum 
+Caecum nitidwn Stimpson Little Horn Caecum 
 
 Figure 376 
 
@@ -29,14 +29,14 @@ Southern half of Florida and the West Indies,
 2.0 mm. in length, glassy translucent-white with irregular specks or mottlings of chalk-white; bulbous in the center; apex with a lopsided, rounded 
 plug which has a tiny projection on the highest side. 
 
-<tname>Caecum lennondi Dall</tname> from the west coast of Florida differs in having 
+Caecum lennondi Dall from the west coast of Florida differs in having 
 a single, moderately well-raised, circular hump around the middle of the 
 shell. Uncommonly dredged just offshore. 
 
-Family <tname>PLANAXIDAE</tname> 
-Genus <tname>Flanaxis Lamarck 1822</tname> 
+Family PLANAXIDAE 
+Genus Flanaxis Lamarck 1822 
 
-<tname>Planaxis lineatus da Costa</tname> Dwarf Atlantic Planaxis 
+Planaxis lineatus da Costa Dwarf Atlantic Planaxis 
 
 Lower Florida Keys and the West Indies. 
 
@@ -46,8 +46,8 @@ in top of spire with 4 or 5 small spiral cords, later becoming obsolete. Apertur
 outer lip. Nuclear whorls very small, glossy, translucent-brown and sharply 
 pointed. 
 
-Subgenus <tname>Supplanaxis Thiele 1929</tname> 
-<tname>Planaxis nucleus Bruguiere</tname> Black Atlantic Planaxis 
+Subgenus Supplanaxis Thiele 1929 
+Planaxis nucleus Bruguiere Black Atlantic Planaxis 
 
 Southeast Florida and the West Indies. 
 
@@ -56,5 +56,5 @@ periwinkle. Characterized by 5 strong spiral cords which are developed on
 
 
 
-<tname>POTAMIDIDAE</tname> 
+POTAMIDIDAE 
 

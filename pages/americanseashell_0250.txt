@@ -1,12 +1,12 @@
 spines, and by its golden-yellow aperture. 5 inches in length. 
 
-Family <tname>NASSARIIDAE</tname> 
+Family NASSARIIDAE 
 
-Genus <tname>Nassarms Dumeril 1806 </tname>
+Genus Nassarms Dumeril 1806 
 
-Subgenus <tname>Nassarms s. str.</tname> 
+Subgenus Nassarms s. str. 
 
-<tname>Nassarms vibex Say</tname> Common Eastern Nassa 
+Nassarms vibex Say Common Eastern Nassa 
 
 Plate 2 3q 
 Cape Cod to Florida, the Gulf States and the AVest Indies. 
@@ -19,7 +19,7 @@ specimens have numerous weak spiral cords. Parietal shield sometimes yellowish.
 
 
 
-<tname>Nassarms acjitus Say</tname> Sharp-knobbed Nassa 
+Nassarms acjitus Say Sharp-knobbed Nassa 
 
 Figure 53c 
 
@@ -29,7 +29,7 @@ Ya: inch in length, characterized by its glossy shell, its strong, pointed
 beads, and in occasionally having a narrow, brown, spiral thread connecting 
 the beads. Moderately common. Fossil specimens are twice as large. 
 
-<tname>Nassarms insculptus Carpenter</tname> Smooth Western Nassa 
+Nassarms insculptus Carpenter Smooth Western Nassa 
 
 Figure 53f 
 
@@ -50,7 +50,7 @@ American Seashells
 
 
 
-<tname>Nassarms tegnla Reeve</tname> 
+Nassarms tegnla Reeve 
 
 San Francisco to Lower California. 
 

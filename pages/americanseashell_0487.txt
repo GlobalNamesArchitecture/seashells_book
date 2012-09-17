@@ -8,8 +8,8 @@ useful, ranges fairly good, but the names out-of-date. Out of print.
 
 Blake Reports. Reports on the Results of the Dredging ... in the Gulf of 
 Mexico and the Caribbean Sea by the . . . Steamer 'Blake'. 1886. Pt. I. 
-<tname>Brachiopoda</tname> and <tname>Pelecypoda</tname>. W. H. Dall. Bnll. Mus. Comp. ZooL, vol. 
-12, pp. 171-318, 9 pis.; 1889, Pt. II, <tname>Gastropoda</tname> and <tname>Scaphopoda</tname>. Ibid., vol. 
+Brachiopoda and Pelecypoda. W. H. Dall. Bnll. Mus. Comp. ZooL, vol. 
+12, pp. 171-318, 9 pis.; 1889, Pt. II, Gastropoda and Scaphopoda. Ibid., vol. 
 18, pp. 1-492, 30 pis. Numerous deep-sea species with excellent drawings. 
 
 Contributions to the Tertiary Fauna of Florida. W. H. Dall. i 890-1903. 6 parts. 
@@ -48,7 +48,7 @@ Board Canada, pp. 1-36, 22 pis. M. C. Sullivan. 1948.
 
 New England 
 
-Report on the <tname>Invertebrata</tname> of Massachusetts. Second ed. 1870. A. A. Gould. 
+Report on the Invertebrata of Massachusetts. Second ed. 1870. A. A. Gould. 
 
 W. G. Binney, ed. 524 pp., 755 fig., 27 pis. Mollusca. Boston: Wright and 
 

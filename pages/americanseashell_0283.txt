@@ -1,6 +1,6 @@
 
 
-<tname>Onchidella carpenteri Binney</tname> 
+Onchidella carpenteri Binney 
 
 Puget Sound to Lower California. 
 
@@ -10,14 +10,14 @@ Carpenter's Onchidella
 
 
 
-<tname>ACTEONIDAE</tname> 275 
+ACTEONIDAE 275 
 
 5 mm. in length; body oblong, with its ends circularly rounded; upper 
 surface regularly arched; uniform smoke-gray in color. Fresh specimens 
 are needed to make a better description. Littoral to shallow water. Habits 
 not known. 
 
-<tname>Onchidella borealis Dall</tname> Northwest Onchidella 
+Onchidella borealis Dall Northwest Onchidella 
 
 Alaska to Coos Bay, Oregon. 
 
@@ -25,18 +25,18 @@ Alaska to Coos Bay, Oregon.
 pointed in the middle, smooth or very finely granulose, tough and coriaceous. 
 Color black or gray, with dots and streaks of yellowish white; foot lightcolored, also the head and tentacles. On rocks near high-tide mark. Gregarious. Common. 
 
-Order <tname>TECTIBRANCHIA</tname> 
+Order TECTIBRANCHIA 
 
 (Bubble-shells, Sea-hares) 
 
-Faimly <tname>ACTEONIDAE</tname> 
+Faimly ACTEONIDAE 
 
-Genus <tname>Acteo7i Montfort i8io</tname> 
+Genus Acteo7i Montfort i8io 
 
 External shell with a prominent spire; cephalic disk divided; operculum 
 thin, corneous. Erroneously spelled Actaeon. 
 
-<tname>Acteon piinctostrianis C. B. Adams</tname> Adams' Baby-bubble 
+Acteon piinctostrianis C. B. Adams Adams' Baby-bubble 
 
 Plate 26t 
 
@@ -46,7 +46,7 @@ Cape Cod to the Gulf of Mexico and the West Indies.
 Columella with a single, twisted fold. Lower half of body whorl with numerous spiral rows of fine, punctate dots. Color white. Commonly found 
 from low tide to 6o fathoms. 
 
-<tname>Acteon punctocaelatiis Carpenter</tname> Carpenter's Baby-bubble 
+Acteon punctocaelatiis Carpenter Carpenter's Baby-bubble 
 
 British Columbia to Lower California. 
 
@@ -54,7 +54,7 @@ lo to 2o mm. (% inch) in length, solid, oblong, 4 to 5 whorls, with
 two broad, ashy or brown spiral zones and about 16 spiral grooves on the 
 body whorl. Columella obliquely truncated at base, and with one spiral 
 fold. Base stained orange. Commonly found in shallow water in sand. 
-<tname>A. vancouverensis Oldroyd</tname> is the same species. 
+A. vancouverensis Oldroyd is the same species. 
 
-<tname>Acteon candens Rehder</tname> Rehder's Baby-bubble 
+Acteon candens Rehder Rehder's Baby-bubble 
 

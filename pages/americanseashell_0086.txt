@@ -1,14 +1,14 @@
-<tname>ACMAEIDAE</tname> 103 
+ACMAEIDAE 103 
 
 I to 1% inches in maximum diameter, elliptical to almost round in outline, low to quite flat. Characterized by radial rows of small beads which 
 sometimes may be crowded together to form tiny, rough riblets. Exterior 
 greenish black. Interior glossy-white, younger specimens having a blue tint. 
 Patch of brown on inside generally weak or absent. Edge of shell usually with 
 solid, black-brown, narrow band. Occasional albinos are cream-brown or tan 
-on the outside. Compare with <tname>A. scutum</tname> which is smooth and has a barred 
+on the outside. Compare with A. scutum which is smooth and has a barred 
 band of color on its under edge. 
 
-<tname>Ac77mea digitalis Eschscholtz</tname> Fingered Limpet 
+Ac77mea digitalis Eschscholtz Fingered Limpet 
 
 Plate i8f 
 
@@ -21,10 +21,10 @@ Color grayish with tiny, distinct mottlings of white dots and blackish streaks
 and lines. Inside white with faint bluish tint and with a large, usually even, 
 patch of dark-brown in the center. Edge of shell v/ith a solid or broken, 
 narrow band of black-brown. Common. Do not confuse this species with 
-<tname>A. scabra</tname> which does not have the "hooked-forward" apex and is not glossy 
+A. scabra which does not have the "hooked-forward" apex and is not glossy 
 on its internal brown patch. Compare also with persona. 
 
-<tname>Acmaea persona Eschscholtz</tname> Mask Limpet 
+Acmaea persona Eschscholtz Mask Limpet 
 
 Plate i8q 
 
@@ -43,7 +43,7 @@ hours. The small southern subspecies, <tlawname>strigatella Carpenter</tlawname>
 in size, dark gray-blue inside, and externally with a mass of intertwining or 
 joining radial bars of brown on a bluish or gray-white background. 
 
-<tname>Acmaea scabra Gould</tname> Rough Limpet 
+Acmaea scabra Gould Rough Limpet 
 
 Plate 1 81 
 

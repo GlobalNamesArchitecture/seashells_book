@@ -2,12 +2,12 @@ sinus, and (contrary to reports) is a more fragile shell. Its anterior end is
 
 
 
-<tname>TELLINIDAE</tname> 421 
+TELLINIDAE 421 
 
 pointed and slightly uplifted. Interior blushed with mottlings of chestnut 
 to purplish brown. 
 
-<tname>Rupellaria carditoides Conrad</tname> Hearty Rupellaria 
+Rupellaria carditoides Conrad Hearty Rupellaria 
 
 Vancouver, B.C., to Lower California. 
 
@@ -16,16 +16,16 @@ squat and almost orbicular. Shell white to grayish white and very chalky in
 texture. Concentric growth lines quite coarse and irregular. Radial sculpture 
 of pecuhar, fine, scratched lines crowded together, but worn away in some 
 specimens. Fairly common. Found boring into hard rock. Nepionic shell 
-usually oblong. <tname>R. californica Conrad</tname> is the same. 
+usually oblong. R. californica Conrad is the same. 
 
-Subfamily <tname>COOPERELLINAE</tname> 
-Genus <tname>Cooperella Carpenter 1864</tname> 
+Subfamily COOPERELLINAE 
+Genus Cooperella Carpenter 1864 
 
 Hinge plate narrow, with 2 right and 3 left short, divaricating cardinals 
 under the beaks. The left central cardinal is always, and the others commonly, split or bifid. No laterals. Muscle scars small and oval. Pallial line 
 narrow, the sinus long. 
 
-<tname>Cooperella subdiaphana Carpenter</tname> Shiny Cooper's Clam 
+Cooperella subdiaphana Carpenter Shiny Cooper's Clam 
 
 Southern California to Lower California. 
 
@@ -33,15 +33,15 @@ About % inch in length, oval-oblong, opaque-white with a brilliant gloss
 and slight opalescence. Fragile. Outer surface with slightly wavy concentric 
 growth lines. Ligament tiny, short, set just behind the beaks and visible externally. Moderately common offshore to 40 fathoms. 
 
-Superfamily <tname>TELLINACEA</tname> 
+Superfamily TELLINACEA 
 
-Family <tname>TELLINIDAE</tname> 
+Family TELLINIDAE 
 
-Genus <tname>Tellina Linne 1758</tname> 
+Genus Tellina Linne 1758 
 
-Subgenus <tname>Tellina s. str.</tname> 
+Subgenus Tellina s. str. 
 
-<tname>Tellina radiata Linne </tname>Sunrise Tellin 
+Tellina radiata Linne Sunrise Tellin 
 
 Plate 4oe 
 
@@ -56,5 +56,5 @@ in the West Indies.
 
 422 American Seashells 
 
-<tname>Tellina laevigata Linne</tname> Smooth Tellin 
+Tellina laevigata Linne Smooth Tellin 
 

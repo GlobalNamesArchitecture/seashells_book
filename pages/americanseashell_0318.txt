@@ -21,12 +21,12 @@ especially in the Greater Antilles.
 
 
 
-Family <tname>CRYPTOPLACIDAE</tname> 
-Genus <tname>Cryptoconchus Burrow 1815 </tname>
+Family CRYPTOPLACIDAE 
+Genus Cryptoconchus Burrow 1815 
 
 
 
-<tname>Cryptoconchiis floridanus Dall</tname> 
+Cryptoconchiis floridanus Dall 
 
 Southeast Florida to Puerto Rico. 
 
@@ -52,8 +52,8 @@ short bristles, but these 2 features are commonly difficult to see. A variety
 is found with a brown-colored girdle. 16 gill lamellae. They begin halfway 
 back along the side of the foot. Uncommon. 
 
-Genus <tname>Acanthochitona Gray 1821 </tname>
-<tname>Acanthochitona spicnlosa Reeve</tname> Glass-haired Chiton 
+Genus Acanthochitona Gray 1821 
+Acanthochitona spicnlosa Reeve Glass-haired Chiton 
 
 Southeast Florida and the West Indies. 
 

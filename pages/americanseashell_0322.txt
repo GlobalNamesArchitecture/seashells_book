@@ -2,7 +2,7 @@ each whitish. Girdle rather narrow and with alternating, faint bars of
 brown and yellowish brown. Scales round and so small that the girdle has 
 the texture of fine sandpaper. Common. 
 
-<tname>Ischnochiton conspicuus Pilsbry</tname> Conspicuous Chiton 
+Ischnochiton conspicuus Pilsbry Conspicuous Chiton 
 
 San Miguel Island, California, to the Gulf of California. 
 
@@ -12,7 +12,7 @@ and with flecks of green. Scales are elongate, hard, and so densely packed that
 the girdle feels velvety. Interior of valves pinkish and blue. Moderately 
 common between tides. 
 
-<tname>Ischnochiton acrior Pilsbry</tname> Acrior Chiton 
+Ischnochiton acrior Pilsbry Acrior Chiton 
 
 San Pedro, California, to Lower California. 
 
@@ -26,7 +26,7 @@ common.
 
 322 American Seashells 
 
-<tname>Ischnochiton regularis Carpenter</tname> Regular Chiton 
+Ischnochiton regularis Carpenter Regular Chiton 
 
 Southern CaHfornia. 
 
@@ -37,8 +37,8 @@ raised and with radial threads. Interior of valves gray-blue. Girdle with
 very tiny, closely packed, low, round scales. Moderately common between 
 tides. 
 
-Subgenus <tname>Lepidopleuroides Thiele 1928 </tname>
-<tname>Ischnochiton albus Linne</tname> White Northern Chiton 
+Subgenus Lepidopleuroides Thiele 1928 
+Ischnochiton albus Linne White Northern Chiton 
 
 Arctic Seas to Massachusetts. Europe. Arctic Seas to off San Diego, 
 California. 
@@ -51,7 +51,7 @@ brown. Interior of valves white. Posterior valve with 12 to 13 weak slits.
 foot. Girdle sandpapery, with tiny, closely packed, gravelly scales. Common from shore to several fathoms in cold water. Distinguished from ruber 
 by the anterior slope of the anterior valve which is straight to slightly concave in albus, but convex in ruber. 
 
-<tname>Ischnochiton ruber Linne</tname> Red Northern Chiton 
+Ischnochiton ruber Linne Red Northern Chiton 
 
 Arctic Seas to Connecticut. Europe. Alaska to Monterey, California. 
 

@@ -1,7 +1,7 @@
-f, <tname>F. Immnilum Conrad</tname>; g, <tname>P. apicinwn Menke</tname>; h, <tname>P. virginianum Conrad</tname>; i, <tname>Hyalina 
-avena Val.</tname>; j, <tname>Persicula cat en at a Montagu</tname>; k, <tname>H. avenacea Deshayes</tname>; 1, <tname>H. torticida 
-Dall</tname>; m, <tname>Persicula immita Pfeifer</tname>; n, <tname>GibbeniVma pyrifonms Cpr.</tname>; o, <tname>G. ovulijoniiis 
-Orb.</tname> (m and o Xio, the others X5). 
+f, F. Immnilum Conrad; g, P. apicinwn Menke; h, P. virginianum Conrad; i, Hyalina 
+avena Val.; j, Persicula cat en at a Montagu; k, H. avenacea Deshayes; 1, H. torticida 
+Dall; m, Persicula immita Pfeifer; n, GibbeniVma pyrifonms Cpr.; o, G. ovulijoniiis 
+Orb. (m and o Xio, the others X5). 
 
 
 
@@ -15,7 +15,7 @@ only 3 specimens.
 
 
 
-<tname>Frunmtt labiatu?n Valenciennes</tname> Royal Marginella 
+Frunmtt labiatu?n Valenciennes Royal Marginella 
 
 Plate III 
 
@@ -25,9 +25,9 @@ I to 1% inches in length, similar to carneum, but stouter, lip orangebrown, body
 lip with small teeth on its inner edge. Very uncommon, but has been found 
 off Yucatan by shrimp fishermen. The Texas record is open to question. 
 
-Subgenus <tname>Leptegouana Woodring 1928</tname> 
+Subgenus Leptegouana Woodring 1928 
 
-<tname>Prunum guttatujn Dillwyn</tname> White-spotted Marginella 
+Prunum guttatujn Dillwyn White-spotted Marginella 
 
 Plate iim 
 Southeast Florida and the West Indies. 
@@ -37,7 +37,7 @@ spots on the lower half. 4 columella teeth. Color of body whorl pale whitish
 with 3 obscure bands of light pinkish brown, and irregularly spotted with 
 weak, opaque-white, roundish dots. Not uncommon in shallow water. 
 
-<tname>Prunu7n helium Conrad</tname> La Belle Marginella 
+Prunu7n helium Conrad La Belle Marginella 
 
 Figure 56d 
 
@@ -48,7 +48,7 @@ Sometimes with a rose tint on the body whorl. Spire moderately elevated.
 Outer lip thickened, without teeth. Lower half of columella with 4 strong, 
 equally sized teeth. Commonly dredged from i to 200 fathoms. 
 
-<tname>Pnmum amabile Redfield</tname> Queen Marginella 
+Pnmum amabile Redfield Queen Marginella 
 
 Figure 566 
 

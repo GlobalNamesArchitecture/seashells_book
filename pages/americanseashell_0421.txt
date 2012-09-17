@@ -12,18 +12,18 @@ U-shaped turn, and then runs posteriorly but does not join the lower pallial
 line until about the middle of the ventral region of the valve. Common in 
 shallow water. 
 
-<tname>Tellina texana Dall</tname> Say's Tellin 
+Tellina texana Dall Say's Tellin 
 
 New Jersey to south half of Florida and Cuba. 
 
 % inch in length, white with a faint opalescent sheen. Extremely close 
 to agilis, but distinguished by the heavy, enamel-white finish on the inside 
 of the shell and i or i fairly distinct radial grooves running from the posterior muscle scar to the ventral margin of the valve. The faint pallial sinus 
-just touches the anterior muscle scar. Fairly common. <tname>T. sayi Dall</tname> (Dec. 
-1900) is a synonym of <tname>T. texana Dall</tname> (Nov. 1900). <tname>T. poUta Say</tname> (not 
+just touches the anterior muscle scar. Fairly common. T. sayi Dall (Dec. 
+1900) is a synonym of T. texana Dall (Nov. 1900). T. poUta Say (not 
 Spengler) is also this species. 
 
-<tname>Tellina sybaritica Dall</tname> Dall's Dwarf Tellin 
+Tellina sybaritica Dall Dall's Dwarf Tellin 
 
 Figure 86d 
 
@@ -36,13 +36,13 @@ alternata, but the latter are smoother and have a short instead of long posterio
 
 
 
-<tname>TELLINIDAE</tname> 
+TELLINIDAE 
 
-Section <tname>Oudardia Monterosato 1885 </tname>
+Section Oudardia Monterosato 1885 
 
 
 
-<tname>Tellina modesta Carpenter</tname> 
+Tellina modesta Carpenter 
 
 Alaska to the Gulf of California. 
 

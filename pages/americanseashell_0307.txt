@@ -4,11 +4,11 @@ length of the entire rhinophore. It is completely retractile. 5 branchial
 plumes are tripinnate. No mandibles or radula. One of the commonest Pacific Coast species. In tide pools at all times of the year, especially common 
 in summer. Coiled t^^ band is yellow. 
 
-Family <tname>POLYCERIDAE</tname> 
+Family POLYCERIDAE 
 Body limaciform (slug-like); branchial plumes not retractile. 
 
-Genus <tname>Laila MacFarland 1905</tname> 
-<tname>Laila cockerelli MacFarland</tname> Laila Doris 
+Genus Laila MacFarland 1905 
+Laila cockerelli MacFarland Laila Doris 
 
 Plate i6j 
 Monterey to San Diego, CaHfornia. 
@@ -20,8 +20,8 @@ teeth, then 10 to 13 closely set pavement-like uncinal teeth. Glans penis
 long, armed with 10 to 12 irregular rows of minute, thorn-like hooks. Not 
 very common. Found under shelving rocks in tide pools. 
 
-Genus <tname>Triopha Bergh 1880</tname> 
-<tname>Triopba carpenteri Stearns</tname> Carpenter's Doris 
+Genus Triopha Bergh 1880 
+Triopba carpenteri Stearns Carpenter's Doris 
 
 Plate 1 6k 
 
@@ -31,7 +31,7 @@ I inch in length. Rhinophores with 20 to 30 leaves in the club. 5
 branchial plumes, large, tripinnate. 30 to 33 rows of radulae, with 4 teeth on 
 the center part (the rhachis); pleural teeth 9 to 18, strongly hooked. Uncinal teeth 9 to 18, quadrangular in outline. Very common in rock pools. 
 
-<tname>Triopha maculata MacFarland</tname> Maculated Doris 
+Triopha maculata MacFarland Maculated Doris 
 
 Plate i6f 
 
@@ -42,7 +42,7 @@ i inch in length. Rhinophore stalk and club same length, the latter with
 4 flattened plates, 4 to 5 pleurals, and 7 to 8 uncinal teeth. Blunt glans penis 
 armed with minute hooks. Abundant in summer in rock pools, in winter uncommon. 
 
-<tname>Triopha grandis MacFarland</tname> MacFarland's Grand Doris 
+Triopha grandis MacFarland MacFarland's Grand Doris 
 
 Plate 1 6b 
 
@@ -50,7 +50,7 @@ California.
 
 
 
-<tname>ONCHIDORIDAE</tname> 305 
+ONCHIDORIDAE 305 
 
 2 to 3 inches in length. With 8 to 12 tuberculate processes in front of 
 head, and 6 to 7 more down the sides of the back. Back yellowish-brown, 

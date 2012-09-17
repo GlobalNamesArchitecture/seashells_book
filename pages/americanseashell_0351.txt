@@ -1,7 +1,7 @@
 354 Ainerican Seashelh 
 
-Genus <tname>Septifer Recluz 1848</tname> 
-<tname>Septifer bifurcatus Reeve</tname> Bifurcate Mussel 
+Genus Septifer Recluz 1848 
+Septifer bifurcatus Reeve Bifurcate Mussel 
 
 Crescent City, California, to Gulf of California. 
 
@@ -12,8 +12,8 @@ often stained bluish brown on one half of the inner side. The subspecies
 obsoletus Dall from San Diego is mostly black on the interior and is a 
 quite elongate form. 
 
-Genus <tname>Mytilus Linne 1758</tname> 
-<tname>Mytilus edulis Linne</tname> Blue Mussel 
+Genus Mytilus Linne 1758 
+Mytilus edulis Linne Blue Mussel 
 
 Plate 35m 
 
@@ -24,11 +24,11 @@ Ventral margin often curved. Color blue-black with eroded areas of chalky
 purplish. Periostracum varnish-like. Interior slightly pearly-white with 
 deep purple-blue border. Occasionally, specimens have radial rays of brownyellow. Very common in New England. Sometimes found in more southerly waters attached to floating wood. 
 
-<tname>Mytilus edulis diegensis Coe 1946</tname> (Northern California to Lower California) is indistinguishable from specimens of edulis found in Alaska and 
+Mytilus edulis diegensis Coe 1946 (Northern California to Lower California) is indistinguishable from specimens of edulis found in Alaska and 
 New England, and probably only represents an ecological or physiological 
 race (see W. R. Coe, 1946). 
 
-<tname>Mytilus calif ornianus Conrad</tname> Calif ornian Mussel 
+Mytilus calif ornianus Conrad Calif ornian Mussel 
 
 Plate 19P 
 
@@ -38,7 +38,7 @@ Aleutian Islands to Socorro Island, Mexico.
 with less than a dozen or so, fairly broad, weak radial ribs which are best 
 seen on the middle part of the shell. Growth lines very coarse. An abundant species found between tides attached to rocks. 
 
-Genus <tname>Musculus Roding 1798</tname> 
+Genus Musculus Roding 1798 
 
 Mussel-like shells with the sculpturing divided into three oblique areas, 
 the center one being smooth or almost so, and the two end areas having 
@@ -47,14 +47,14 @@ moderately deep-water clams. Mantle folded in front into a wide, incurrent
 
 
 
-<tname>MYTILIDAE</tname> 355 
+MYTILIDAE 355 
 
 siphon and behind into a conical excurrent siphon. Foot strap-shaped. This 
-genus was formerly known as <tname>Modiolaria Beck 1838</tname>. Hinge finely dentate. 
+genus was formerly known as Modiolaria Beck 1838. Hinge finely dentate. 
 
 
 
-<tname>Musculus niger Gray</tname> Black Musculus 
+Musculus niger Gray Black Musculus 
 
 Plate 2 8g 
 

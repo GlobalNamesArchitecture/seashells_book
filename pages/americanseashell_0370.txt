@@ -2,7 +2,7 @@ Caribbean region, and it is a lightweight shell, deep-cupped, with a flat upper
 valve small and fitting well down into the lower valve. The inner margin of 
 the lower, attached valve is splotched with bluish purple. Common. 
 
-<tname>Crassostrea gigas Thunberg</tname> Giant Pacific Oyster 
+Crassostrea gigas Thunberg Giant Pacific Oyster 
 
 Plate 29g 
 British Columbia to California. Japan. 
@@ -14,16 +14,16 @@ with a faint purplish stain on the muscle scar or near the edges of the shell.
 Very rarely with a greenish stain. A common, large and marketable oyster 
 introduced yearly into Canada and the United States from Japan. The form 
 lapermisi Schrenck is round. The typical gigas is the long, strap-like form. 
-<tname>O. gigas Aleuschen</tname> is an invalid name and does not preoccupy that of Thunberg's. Also known as the Japanese Oyster. 
+O. gigas Aleuschen is an invalid name and does not preoccupy that of Thunberg's. Also known as the Japanese Oyster. 
 
-Order <tname>EULAMELLIBRANCHIA</tname> 
-Suborder <tname>HETERODONTA</tname> 
-S7iperfa77nly <tname>ASTARTACEA</tname> 
+Order EULAMELLIBRANCHIA 
+Suborder HETERODONTA 
+S7iperfa77nly ASTARTACEA 
 
-Family <tname>ASTARTIDAE</tname> 
-Genus <tname>Astarte Sowerby 18 16</tname> 
+Family ASTARTIDAE 
+Genus Astarte Sowerby 18 16 
 
-<tname>Astarte borealis Schumacher</tname> Boreal Astarte 
+Astarte borealis Schumacher Boreal Astarte 
 
 Plate 28q 
 Arctic Seas to Massachusetts Bay. Alaska. 
@@ -36,7 +36,7 @@ I to 2 inches in length, ovate, moderately compressed. External ligament large. 
 
 the margins of the valves. Differing from subequilatera in being more elliptical in side view, in having the beaks near the middle, with weaker concentric ribs, and with the inner surface of the valve margins smooth. A common shallow-water species. 
 
-<tname>Astarte subequilatera Sowerby</tname> Lentil Astarte 
+Astarte subequilatera Sowerby Lentil Astarte 
 
 Plate 28-0 
 Arctic Seas to off Florida. 
@@ -45,7 +45,7 @@ I to I /4 inches in length, ovate, moderately compressed. External ligament smal
 Color dull light- to dark-brown. Found in shallow water in the north and 
 below 50 fathoms in the south. Common. Compare with bore alls. 
 
-<tname>Astarte undata Gould</tname> Waved Astarte 
+Astarte undata Gould Waved Astarte 
 
 Plate 28r 
 
@@ -55,6 +55,6 @@ Similar to subequilatera, but less elliptical, with its beaks near the center
 and with fewer and stronger concentric ridges. Probably the commonest 
 Astarte in New England. 
 
-<tname>Astarte castaiiea Say</tname> Smooth Astarte 
+Astarte castaiiea Say Smooth Astarte 
 
 Plate 28s 

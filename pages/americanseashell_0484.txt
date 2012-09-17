@@ -11,7 +11,7 @@ Guide to the Mollusc an Literature 497
 The iMechanisni of Feeding, Digestion, and Assimilation in the Lamellibranch 
 Mya. C. M. Yonge. 1923. Brit. Jour. Exper. Biol., vol. i, pp. 15-63, 27 figs. 
 
-On the iVlorphology, Feeding Mechanisms, and Digestion of <tname>Ensis siliqua</tname> (Schumacher). A. Graham. 193 i. Trans. Royal Soc. Edinburgh, vol. 56, pp. 725751,8 figs. 
+On the iVlorphology, Feeding Mechanisms, and Digestion of Ensis siliqua (Schumacher). A. Graham. 193 i. Trans. Royal Soc. Edinburgh, vol. 56, pp. 725751,8 figs. 
 
 The Habitat and Food of the California Sea Adussel. D. L. Fox et al. 1936. Bull. 
 Scripps Inst. Oceanogr. Univ. Calif., Tech. ser., vol. 4, no. i, pp. 1-64. 
@@ -27,13 +27,13 @@ Mus. Royal d'Hist. Nat. Belgique, ser. 2, fasc. 10, pp. 3-25, 10 pis.
 The Anatomy of the Pelecypod Family Arcidae. Harold Heath. 1941. Trans. 
 
 Amer. Philos. Soc. (n.s.), vol, 31, pt. 5, pp. 287-319, 22 pis. 
-Uber die Anatomic von <tname>Chama pellucida Broderip.</tname> E. Grieser. 191 3. Zool. 
+Uber die Anatomic von Chama pellucida Broderip. E. Grieser. 191 3. Zool. 
 
 Jahrb. Suppl., vol. 13, pp. 207-280, i pL, 1 1 figs. 
 Literature on the Shell Structure of Pelecypods. H. G. Schenck. 1934. Bull. 
 
 Mus. Royal d'hist. Nat. Belgique, vol, 10, no. 34, pp. 1-20, 
-The Structure and Composition of the Shell of <tname>Tellina tenuis</tname>. E. R. Trueman. 
+The Structure and Composition of the Shell of Tellina tenuis. E. R. Trueman. 
 
 1942. Journ. Royal Micro. Soc, vol. 62, pp. 69-92. 
 The Shell Structure of the Mollusks. O. B. Boggild. 1930. D. Kgl. Danske 
@@ -55,6 +55,6 @@ vol. 18, pp. 154-164; also vol. 19, pp. 85-97. Large bibliography.
 
 Development of the Oyster. W. K. Brooks. 1880. Studies Biol. Lab., Johns Hopkins Univ., vol. 4, pp. 1-93, 10 pis. 
 
-Spawning Habits of the Mussel, <tname>Mytilus californianus Conrad</tname>, with Notes on 
+Spawning Habits of the Mussel, Mytilus californianus Conrad, with Notes on 
 the Possible Relation to Mussel Poison. W. W. Forest. 1936. Univ. Calif. 
 PubL Zool., vol. 41, no. 5, pp. 35-44, pi- 3. 
