@@ -1,0 +1,60 @@
+right, you have located the first arm. Further clockwise are the second, third 
+and fourth right arms. Instead of counting further (fifth arm, etc.), return 
+to the center again, and count to the left — hence, the first, second, third and 
+fourth left arms. When giving an arm formula, only the right ones are generally given, and they are set down in order of large to smaller size. Hence, 
+4.3.1.2 means the fourth arm is the largest, the second one the smallest in 
+length. It may be pointed out, that on rare occasions an octopus may accidentally lose an arm. 
+
+There are two simple sets of measurements (all in millimeters) which 
+are important in distinguishing the species of Octopus. The first is the 
+mantle-arm index which simply means the comparison of the length of the 
+mantle (measure from the round, bulbous "head" end to a point just between 
+the eyes) with the length of the longest arm (turn the octopus over, measure 
+from the mouth to the tip of the longest stretched-out arm). An index is 
+obtained by multiplying the mantle-length by 100 and then dividing the 
+result by the arm-length. 
+
+The ligula index is obtained only from males and from the third right 
+arm which is a modified sex organ. The ligula is measured from tip to the 
+last sucker. The arm length is obtained as explained in the preceding paragraph. The index is: length of ligula, multiplied by 100, the result divided 
+by the total arm-length. The number of gill plates and the size of eggs are 
+determined by cutting a deep slit in the body. 
+
+<tname>Octopus vulgaris Lamarck</tname> Common Atlantic Octopus 
+
+Figure looa 
+Connecticut to Florida and the West Indies. Europe. 
+
+Length, including the longest arm, i to 3 feet (the latter would give a 
+radial spread of about 7 feet). Mantle-arm index in Florida and North 
+Carolina is about 25 (that is, the arms are 4 times as long as the mantle). 
+Ligula-index below 2.5. Cill plates 7 to 9 (in Bermuda, usually 10 or 11). 
+In life, skin smoothish; preserved, it is rugose with variously shaped warts. 
+Eggs 3 mm. or less in length. A common harmless species found hidden away 
+
+
+
+<tname>OCTOPODIDAE</tname> 487 
+
+under large rocks and crevices near shore. This is <tname>O. rugosus</tname> of authors, 
+<tname>O. americaniis Blainville</tname> and <tname>O. carolinensis Verrill</tname>. 
+
+<tname>Octopus macropus Risso</tname> of the West Indies (and possibly Key West) 
+has its first arm the largest and longest, has a hgula-index up to 14, and a 
+wart over one side of the eye. The skin in preserved material has small 
+reddish warts. The eggs are less than 2 mm. in length (see fig. looe). 
+
+
+
+
+Figure 100. Atlantic and Pacific Octopus. The tip end or ligiila of the third right 
+arm in the male, a, <tname>Octopus vulgaris Lamarck</tname>; b, <tname>O. burryi Voss</tname>; c, <tname>O. briareus 
+Robson</tname>; d, <tname>O. joubini Robson</tname>; e, <tname>O. macropus Risso</tname>; f, <tname>O. hongkongensis Hoyle</tname> 
+
+(Pacific). 
+
+
+
+Briar Octopus 
+
+Fissure looc 
