@@ -22,6 +22,7 @@ class Reader
       page_processed = []
       name_string = ''
       page.each do |l|
+        l.gsub!(/<[\/]?tlawname>/, '')
         processed_line = ''
         no_start_tag = no_end_tag = false
         until no_start_tag && no_end_tag
