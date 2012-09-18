@@ -62,7 +62,7 @@ class Reader
         # @cursor += processed_line.size
         page_processed << processed_line
       end
-      f = open(File.join(File.dirname(__FILE__), 'pages', page_name), "w:utf-8") 
+      f = open(File.join(File.dirname(__FILE__), 'pages', 'seashellbook', page_name), "w:utf-8") 
       f.write(page_processed.join(""))
       f.close
     end
