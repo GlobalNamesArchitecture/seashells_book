@@ -4,7 +4,7 @@ require 'yaml'
 class Reader
   attr_reader :file
   def initialize
-    @filename = "americanseashell1-corrected.txt"
+    @filename = "americanseashell_markup.txt"
     @file = open(File.join(File.dirname(__FILE__), 'resources', @filename)).readlines
     @pages = @file.enum_for(:each_slice, 60).to_a
     @offsets = []
